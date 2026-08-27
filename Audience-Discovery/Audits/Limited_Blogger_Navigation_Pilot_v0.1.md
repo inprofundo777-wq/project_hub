@@ -1,6 +1,8 @@
 # Limited Blogger Navigation Pilot v0.1
 
-**Status:** READY TO LAUNCH  
+**Pilot status:** ACTIVE  
+**Launch date:** 2026-08-27  
+**Public entry point:** Blogger main menu → `Темы`
 **Scope:** Audience Discovery / Blogger Reader Navigation  
 **Basis:** Blogger Reader Navigation Prototype v0.2  
 **Pilot type:** Limited live navigation experiment
@@ -171,7 +173,7 @@ Pilot начинается с момента:
 1. публикации страницы `Темы`;
 2. появления рабочего публичного entry point.
 
-**Start date:** to be recorded at launch.
+**Start date:** 2026-08-27
 
 Pilot не закрывается автоматически только по календарю, если meaningful exposure практически отсутствовал.
 
