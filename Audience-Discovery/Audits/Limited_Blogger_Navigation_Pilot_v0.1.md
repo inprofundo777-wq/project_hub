@@ -310,12 +310,12 @@ Revision должна быть пропорциональна evidence.
 
 Owner:
 
-- [ ] создаёт страницу `Темы` в Blogger;
-- [ ] переносит reader-facing content из Prototype v0.2;
-- [ ] добавляет рабочие ссылки на статьи;
-- [ ] добавляет один публичный entry point;
-- [ ] проверяет страницу с позиции обычного посетителя;
-- [ ] фиксирует дату запуска Pilot.
+- [x] создаёт страницу `Темы` в Blogger;
+- [x] переносит reader-facing content из Prototype v0.2;
+- [x] добавляет рабочие ссылки на статьи;
+- [x] добавляет один публичный entry point;
+- [x] проверяет страницу с позиции обычного посетителя;
+- [x] фиксирует дату запуска Pilot.
 
 ### During Pilot
 
@@ -338,28 +338,24 @@ Owner:
 
 ## 13. Current State
 
-Evidence chain:
-
-`Blogger Corpus SEO Audit`
-→ `Reader-entry Mapping`
-→ `Corpus Domain Verdict`
-→ `Strategic Findings`
-→ `Navigation Prototype v0.1`
-→ `Reader Check`
-→ `SEO Check`
-→ `Navigation Prototype v0.2`
-→ **Limited Blogger Navigation Pilot v0.1**
-
 Current status:
 
-**READY TO LAUNCH**
+**ACTIVE — OBSERVATION PERIOD**
 
 Structural Reader blocker: **NO**
 
 Structural SEO blocker: **NO**
 
-Return to Strategy before launch: **NOT REQUIRED**
+Return to Strategy during observation: **NOT REQUIRED**
+
+Pilot launch date:
+
+**2026-08-27**
+
+Public entry point:
+
+**Blogger main menu → `Темы`**
 
 Next action:
 
-**Implement the limited page `Темы` in Blogger and record Pilot start date.**
+**Observe → record → accumulate evidence. Do not redesign during the observation period unless a clear blocker appears.**
