@@ -22,6 +22,7 @@ Snapshot не является living roadmap и не должен постоя�
 | Дата | Направление | Snapshot | Статус | Контрольная точка |
 |---|---|---|---|---|
 | 2026-08-29 | Audience / Discovery | `Snapshots/Audience-Discovery/Audience_Discovery_Strategic_Snapshot_2026-08-29.md` | CURRENT | Analysis → Live Validation |
+| 2026-08-30 | In Profundo / Project-level | `Snapshots/Project/In_Profundo_Strategic_Snapshot_2026-08-30.md` | CURRENT PROJECT BASELINE | Internal Maturity → External Validation |
 
 ---
 
