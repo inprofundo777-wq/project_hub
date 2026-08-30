@@ -79,10 +79,10 @@ Snapshot не является living roadmap и не должен постоя�
 ```text
 Audience / Discovery   🟢 CURRENT
 Research Lab           🟡 HISTORICAL → replacement after Normalization
+Project-level          🟢 CURRENT PROJECT BASELINE
 
 Notion                 ○ snapshot exists outside current Continuity index / revisit later
 Distribution           ○ Evidence Synthesis currently sufficient
 Editorial              ○ separate Snapshot not required
 Book                   ○ Snapshot premature
-Project-level          ○ create at next major whole-project turning point
 ```
