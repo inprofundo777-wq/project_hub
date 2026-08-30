@@ -19,6 +19,17 @@ Snapshot не является living roadmap и не должен постоя�
 
 ## Current Snapshots
 
+```text
+Audience / Discovery   🟢 CURRENT
+Research Lab           🟡 HISTORICAL → replacement after Normalization
+Project-level          🟢 CURRENT PROJECT BASELINE
+
+Notion                 ○ snapshot exists outside current Continuity index / revisit later
+Distribution           ○ Evidence Synthesis currently sufficient
+Editorial              ○ separate Snapshot not required
+Book                   ○ Snapshot premature
+```
+
 | Дата | Направление | Snapshot | Статус | Контрольная точка |
 |---|---|---|---|---|
 | 2026-08-29 | Audience / Discovery | `Snapshots/Audience-Discovery/Audience_Discovery_Strategic_Snapshot_2026-08-29.md` | CURRENT | Analysis → Live Validation |
