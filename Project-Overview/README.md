@@ -383,21 +383,23 @@ Snapshot не должен постоянно переписываться.
 
 🟢 Recovery evidence сохранён.
 
-🟡 README — working version.
+🟢 Working documentation роли сформирована и сохранена в GitHub:
 
-🟡 Operating Model — требуется заполнить.
+- `README.md`;
+- `Operating_Model.md`;
+- `Project_Map.md`;
+- `Decision_Memory.md`;
+- `Development.md`.
 
-🟡 Project Map — требуется создать.
+🟢 Role Recovery Snapshot сохранён в Continuity.
 
-🟡 Decision Memory — требуется создать.
+🟡 Комплект остаётся Working / Experimental и проверяется дальнейшей практикой.
 
-🟡 Development — требуется заполнить.
+⚪ Long-term Re-entry ещё не проверен.
 
-🟡 Role Recovery Snapshot — требуется сохранить в Continuity.
+⚪ Отдельный Startup / Initialization document пока не утверждён.
 
-⚪ Отдельный Startup / Initialization документ пока не утверждён.
-
-Он должен появиться только если реальные новые запуски покажут, что README + Operating Model + Decision Memory недостаточно.
+Он должен появиться только если реальные новые запуски покажут, что существующего комплекта недостаточно.
 
 ---
 
