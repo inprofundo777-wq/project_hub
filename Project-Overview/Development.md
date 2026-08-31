@@ -89,8 +89,8 @@ Evidence Recovery и fresh-chat validation.
 🟡 `Development.md`  
 Живой документ развития роли.
 
-🟡 Role Recovery Strategic Snapshot  
-Требуется сохранить в Continuity после нормализации текущего Recovery-пакета.
+🟢 Role Recovery Strategic Snapshot  
+Сохранён в `Continuity/Snapshots/Project-Overview/` как текущая историческая контрольная точка Recovery роли.
 
 ---
 
