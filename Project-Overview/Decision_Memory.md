@@ -503,6 +503,23 @@ Fresh-chat Recovery это частично подтвердил.
 
 ---
 
+# DM-023 — Normalization Project Overview запускается по evidence, а не по календарю
+
+**Статус:** 🟢 Working decision
+
+Документация Project Overview не получает стабильный статус автоматически с течением времени.
+
+Обязательный Documentation Review запускается при:
+
+1. появлении фундаментальной архитектуры, определяющей место и границы роли; или
+2. успешном meaningful long-term Re-entry, дающем новое evidence устойчивости capability.
+
+Существенный role-boundary failure может запустить Review раньше.
+
+До этого документация остаётся `Working / Experimental` и используется в реальной работе.
+
+---
+
 # 23. Связанные документы
 
 - [`README.md`](./README.md)
