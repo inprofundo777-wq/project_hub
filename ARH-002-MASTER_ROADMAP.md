@@ -1,7 +1,7 @@
 # In Profundo — Development Map
 
 **Тип:** Living Development Map  
-**Статус:** 🟢 Active Working Map  
+**Статус:** Arhive   
 **Актуально:** 2026-09-03  
 **Назначение:** карта зрелости, движения и связей основных capabilities In Profundo
 
