@@ -192,6 +192,9 @@ Capability может быть 🟡 и активно развиваться.
 ● Decision Memory.  
 ● Development.  
 ● Recovery Snapshot.  
+● Project-level audit завершён.  
+● документация роли нормализована в v0.2.  
+● Post-Audit Snapshot 2026-09-07.  
 ● Snapshot package собран.  
 ● Snapshot Index нормализован.  
 ● Development Map создана.  
@@ -199,12 +202,14 @@ Capability может быть 🟡 и активно развиваться.
 
 ### Текущий переход
 
-◐ live normalization через реальную работу.  
+● live normalization завершена через project-level audit.  
 ● отдельный список «Созревшие ветки» признан ненужным; material change остаётся trigger для Snapshot review.  
 ● stale continuity claims по Notion / Book сняты на current-navigation уровне.  
-○ normalization review только после нового существенного evidence.
+● различены Task Exit / Role Exit / Scale Recovery.  
+◐ operational use нормализованной модели v0.2.  
+○ meaningful long-term Re-entry после значительного интервала.
 
-**СЕЙЧАС → удерживать карту и закрывать continuity debt без превращения роли в project management system.**
+**СЕЙЧАС → использовать нормализованную capability; не запускать новый documentation cycle до material evidence или long-term Re-entry.**
 
 ---
 
