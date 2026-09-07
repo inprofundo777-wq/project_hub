@@ -2,18 +2,18 @@
 
 **Дата:** 7 сентября 2026  
 **Тип:** Strategic / Capability Snapshot  
-**Статус:** 🟢 Saved control point  
+**Статус:** 🟡 Saved Post-Audit Candidate Control Point  
 **Предыдущее поколение:** `Project_Overview_Role_Recovery_Snapshot_2026-08-31.md`
 
 ## 1. Назначение Snapshot
 
-Этот Snapshot фиксирует состояние Project Overview после полного project-level audit и нормализации документации v0.2.
+Этот Snapshot фиксирует состояние Project Overview после полного project-level audit и подготовки revised candidate документации v0.2.
 
 Он не заменяет живую Development Map и не переписывает Recovery Snapshot от 31 августа 2026.
 
 ## 2. State
 
-Project Overview — operational project-level capability при Owner.
+Project Overview — working operational project-level capability при Owner.
 
 Owner-facing имя: **Project Overview / Overview**.  
 Полное имя пакета: **Project Overview & Continuity Partner**.
@@ -43,13 +43,13 @@ Owner-facing имя: **Project Overview / Overview**.
 ## 4. Role map
 
 - **Owner** — направление, фокус и стратегические решения In Profundo.
-- **Project Overview** — взгляд сверху, continuity, project-level integration и return.
-- **Master** — архитектура Publication System.
+- **Project Overview** — working project-level capability при Owner: взгляд сверху, continuity, project-level integration и return.
+- **Master** — архитектура Publication System в текущей операционной карте; его фундаментальная функция интеграции, согласованности и различения нормативных уровней сохраняется согласно `ARC-001`.
 - **Coach** — ведение Publication и Distribution с помощью архитектуры Master.
 - **Strategist** — Portfolio, Content Horizon и Notion / Content Intelligence.
 - **Research** — исследовательская capability; постоянный аналог Coach пока не сформирован.
 
-Project Overview не управляет этими ролями. Он может временно принять отсутствующую capability, но должен подготовить её передачу и выйти.
+Project Overview не управляет этими ролями. Он может временно принять отсутствующую capability, но должен подготовить её передачу и выйти. Эта role map является working architecture до появления и сверки `FRM-001`.
 
 ## 5. Central distinctions
 
@@ -81,7 +81,7 @@ Recovery Snapshot сохраняет августовскую контрольн
 → durable working documentation v0.1
 → project-level audit
 → выявление developmental / architecture / scale gaps
-→ normalization v0.2
+→ revised candidate v0.2
 → operational use + future long-term validation
 ```
 
@@ -122,13 +122,12 @@ Fresh-chat Recovery и перенос зрелой ветки в Work подтв
 
 ### Re-entry Question
 
-> **Можно ли после значительного временного интервала восстановить Project Overview из нормализованного пакета v0.2 и этого Snapshot без опоры на длинную историю старого чата?**
+> **Можно ли после значительного временного интервала восстановить Project Overview из утверждённого пакета v0.2 и этого Snapshot без опоры на длинную историю старого чата?**
 
 ## 10. Verdict at control point
 
 🟢 Capability operational.  
 🟢 Audit completed.  
-🟢 Documentation normalized to v0.2.  
+🟡 Revised candidate v0.2 prepared; Owner verification required.  
 🟢 Historical evidence preserved.  
 ⚪ Long-term Re-entry remains a future validation test, not a condition blocking present use.
-
