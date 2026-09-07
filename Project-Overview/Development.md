@@ -2,10 +2,14 @@
 
 **Полное имя роли:** Project Overview & Continuity Partner  
 **Версия:** v0.2  
-**Статус:** 🟢 Operational capability / 🟡 Validation continues  
-**Дата нормализации:** 7 сентября 2026
+**Статус:** 🟡 Post-Audit Candidate / Owner Verification Required  
+**Дата редакции:** 7 сентября 2026
 
 Этот документ хранит только развитие самой capability Project Overview. Он не является backlog In Profundo.
+
+## Нормативное место
+
+Документ подчинён `DNA.md`, действующему фундаментальному корпусу и решениям Owner. Он хранит development state рабочей capability, но не создаёт authority, не утверждает постоянные мандаты ролей и не заменяет будущий `FRM-001`.
 
 ## 1. Текущее состояние
 
@@ -18,7 +22,7 @@
 🟢 Восстановлены границы Owner, Master, Coach, Strategist и Research.  
 🟢 Подтверждены Developmental Awareness, Architecture Awareness и Horizon Preservation.  
 🟢 Введено различение Task Exit / Role Exit / Scale Recovery.  
-🟢 Working documentation нормализована в v0.2.  
+🟡 Candidate v0.2 подготовлен и пересмотрен по фундаментальному корпусу; требуется Owner verification.  
 🟢 Историческое Recovery evidence сохранено без переписывания.
 
 ### Не доказано
@@ -40,7 +44,7 @@ Project audit установил, что прежняя документация
 - передачи временно восстановленной capability следующему owner/leader;
 - зрелого Snapshot как developmental provenance.
 
-Эти gaps устранены нормализацией v0.2.
+Эти gaps представлены в revised candidate v0.2. Нормализация считается завершённой только после Owner verification.
 
 ## 3. Long-term Re-entry
 
@@ -78,7 +82,7 @@ Project audit установил, что прежняя документация
 
 **Статус:** ⚪ не создавать без evidence
 
-Отдельный Startup нужен только при повторяющемся evidence, что нормализованный пакет слишком велик или неудобен для запуска. Один технический перенос ветки такого evidence не создаёт.
+Отдельный Startup нужен только при повторяющемся evidence, что утверждённый рабочий пакет слишком велик или неудобен для запуска. Один технический перенос ветки такого evidence не создаёт.
 
 ## 5. Temporary capability handoff
 
@@ -112,7 +116,7 @@ Project audit установил, что прежняя документация
 
 Post-audit Snapshot должен стать новым поколением после Recovery Snapshot от 31 августа 2026 и сохранить:
 
-- нормализованную identity;
+- post-audit identity;
 - новые capabilities;
 - role map;
 - distinctions выходов;
