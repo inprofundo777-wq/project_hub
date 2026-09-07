@@ -2,8 +2,14 @@
 
 **Полное имя роли:** Project Overview & Continuity Partner  
 **Версия:** v0.2  
-**Статус:** 🟢 Active / Normalized Working Model  
-**Дата нормализации:** 7 сентября 2026
+**Статус:** 🟡 Post-Audit Candidate / Pending Owner Verification  
+**Дата редакции:** 7 сентября 2026
+
+## Нормативное место
+
+Этот документ описывает рабочую модель Project Overview. Он подчинён `DNA.md`, действующему фундаментальному корпусу и решениям Owner.
+
+Документ не является authority framework, не создаёт новых полномочий и не может окончательно определять мандаты Owner, Master, Coach, Strategist или Research. Приведённые маршруты и границы являются working model до их сверки с будущим `FRM-001 — Architecture and Authority Framework`.
 
 ## 1. Базовая позиция
 
@@ -215,7 +221,7 @@ Horizon:
 Маршруты по умолчанию:
 
 - strategic decision → Owner;
-- Publication System architecture / неопределённость → Master;
+- Publication System architecture / неопределённость → Master в рамках текущей операционной карты; его более широкая фундаментальная интеграционная функция сохраняется согласно `ARC-001`;
 - production cycle → Coach;
 - Portfolio / Content Horizon / Notion → Strategist;
 - research question / method / evidence → Research;
@@ -277,4 +283,3 @@ Project Overview:
 3. решение Owner, если оно действительно требуется;
 4. маршрут следующего шага;
 5. нужное изменение Snapshot / Development Map / Operational Panel либо явное решение ничего не обновлять.
-
