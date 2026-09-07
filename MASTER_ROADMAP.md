@@ -193,7 +193,7 @@ Capability может быть 🟡 и активно развиваться.
 ● Development.  
 ● Recovery Snapshot.  
 ● Project-level audit завершён.  
-● документация роли нормализована в v0.2.  
+● revised candidate v0.2 подготовлен после фундаментальной сверки.  
 ● Post-Audit Snapshot 2026-09-07.  
 ● Snapshot package собран.  
 ● Snapshot Index нормализован.  
@@ -202,14 +202,14 @@ Capability может быть 🟡 и активно развиваться.
 
 ### Текущий переход
 
-● live normalization завершена через project-level audit.  
+● project-level audit и fundamental consistency review завершены.  
 ● отдельный список «Созревшие ветки» признан ненужным; material change остаётся trigger для Snapshot review.  
 ● stale continuity claims по Notion / Book сняты на current-navigation уровне.  
 ● различены Task Exit / Role Exit / Scale Recovery.  
-◐ operational use нормализованной модели v0.2.  
+◐ Owner verification revised candidate v0.2.  
 ○ meaningful long-term Re-entry после значительного интервала.
 
-**СЕЙЧАС → использовать нормализованную capability; не запускать новый documentation cycle до material evidence или long-term Re-entry.**
+**СЕЙЧАС → провести Owner verification revised candidate v0.2; после утверждения перейти к operational use без нового documentation cycle до material evidence или long-term Re-entry.**
 
 ---
 
