@@ -65,7 +65,7 @@
 | 2026-08-31 | Notion / Content Intelligence | `Snapshots/Notion/Notion_Content_Intelligence_Strategic_Snapshot_2026-08-31.md` | CURRENT | Structured Working Memory → Feedback Loop / Selective Enrichment |
 | 2026-08-31 | Book Project — «Тот, Кто остаётся» | `Snapshots/Books/Tot_Kto_Ostaetsya_Book_Project_Strategic_Snapshot_2026-08-31.md` | CURRENT | Architecture Established → Research Evidence Dependency |
 | 2026-09-01 | Research Lab | `Snapshots/Research-Lab/Research_Lab_Strategic_Snapshot_2026-09-01.md` | CURRENT | Capability Established → IP-001 Full Normalized Research |
-| 2026-09-07 | Project Overview | `Snapshots/Project-Overview/Project_Overview_Post_Audit_Snapshot_2026-09-07.md` | CURRENT | Project Audit → Normalized v0.2 → Long-term Re-entry |
+| 2026-09-07 | Project Overview | `Snapshots/Project-Overview/Project_Overview_Post_Audit_Snapshot_2026-09-07.md` | CURRENT / PENDING OWNER VERIFICATION | Project Audit → Revised Candidate v0.2 → Long-term Re-entry |
 | 2026-09-02 | Дальний содержательный горизонт | `Snapshots/Content-Strategy/Strategic_Content_Horizon_Snapshot_2026-09-02.md` | CURRENT | Architecture Red Team → Capability Test |
 
 ---
@@ -144,8 +144,8 @@ Research Lab snapshot от 2026-08-21 сохраняется как истори
     └── Architecture → sufficient Research Evidence → selective Book Transfer
 
     Project Overview
-    🟢 CURRENT
-    └── Project Audit → Normalized v0.2 → Long-term Re-entry
+    🟡 POST-AUDIT CANDIDATE
+    └── Fundamental Review → Owner Verification → Long-term Re-entry
 
     Карта развития
     🟢 CONCEPT
