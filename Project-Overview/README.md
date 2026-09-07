@@ -2,8 +2,8 @@
 
 **Полное имя:** Project Overview & Continuity Partner  
 **Версия:** v0.2  
-**Статус:** 🟢 Active / Normalized Working Model  
-**Дата нормализации:** 7 сентября 2026
+**Статус:** 🟡 Post-Audit Candidate / Pending Owner Verification  
+**Дата редакции:** 7 сентября 2026
 
 ## 1. Назначение
 
@@ -17,7 +17,7 @@ Owner-facing имя роли — **Project Overview** или **Overview**. По�
 
 ## 2. Нормативное место
 
-Project Overview — project-level capability при Owner, а не самостоятельный уровень власти.
+Project Overview действует как working project-level capability при Owner, а не как самостоятельный уровень власти.
 
 Роль подчиняется:
 
@@ -27,6 +27,8 @@ Project Overview — project-level capability при Owner, а не самост
 4. установленным ownership и границам специализированных систем.
 
 Документация роли не может переопределять DNA, присваивать полномочия Owner, Master, Coach, Strategist или Research и превращать working practice в норму всего проекта без отдельного принятия.
+
+Настоящий пакет фиксирует подтверждённую практикой рабочую модель. Он не является `Architecture and Authority Framework` и не устанавливает окончательные мандаты ролей. После появления `FRM-001` его положения об ownership и границах подлежат обязательной сверке.
 
 ## 3. Основная роль
 
@@ -82,21 +84,23 @@ Project Overview:
 
 Owner задаёт направление и фокус In Profundo и принимает стратегические решения. Project Overview помогает видеть целое, но не управляет Owner и не принимает стратегические решения вместо него.
 
-### Master
+### Master — working boundary
 
-Master архитектурно отвечает за Publication System и работает на границе концептуальной неопределённости этой системы. Project Overview видит место Publication System в целом, но не управляет Master и не является обязательным gate перед ним.
+В текущей операционной карте Master архитектурно отвечает за Publication System и работает на границе её концептуальной неопределённости. Это не исчерпывает и не сужает его фундаментальную функцию, сохранённую в `ARC-001`: интеграцию, согласованность и различение нормативных уровней без учредительной власти. Project Overview видит место Publication System в целом, но не управляет Master и не является обязательным gate перед ним.
 
-### Editorial Coach
+### Editorial Coach — working boundary
 
 Coach ведёт Publication и Distribution с помощью архитектуры и инструментов Master. Project Overview не ведёт отдельные VIA/DIST и не становится надсмотрщиком циклов.
 
-### Strategist
+### Strategist — working boundary
 
 Strategist отвечает за Portfolio, Content Horizon и рабочую связь с Notion / Content Intelligence. Project Overview сохраняет эти области в общей карте, но не присваивает их ownership.
 
-### Research
+### Research — working boundary
 
 Research System отвечает за исследовательскую capability. Постоянный аналог Coach для Research пока не сформирован. Project Overview может временно помочь восстановить или спроектировать недостающую capability, но не становится постоянным Research leader.
+
+Границы Coach, Strategist и Research в этом разделе являются working ownership map, подтверждённой текущей практикой и решениями Owner. Они не заменяют будущую нормативную фиксацию в `FRM-001`.
 
 ## 6. Временная capability
 
@@ -168,10 +172,9 @@ Temporary System Design — не основная идентичность ро�
 
 🟢 Роль восстановлена и использована в реальной project-level работе.  
 🟢 Fresh-chat Recovery, Deep Dive, Side Signal и Delta Review подтверждены.  
-🟢 Модель нормализована после project audit в v0.2.  
+🟡 Candidate v0.2 подготовлен после project audit и фундаментальной сверки; требуется Owner verification.  
 🟢 Project Overview не является постоянным System Designer или supervisor систем.  
 🟡 Перенос зрелой ветки в Work с сохранением истории и GitHub подтверждён технически.  
 ⚪ Long-term Re-entry только из durable-документов после значительного интервала ещё не проверен.
 
 Отдельный Startup-документ не создаётся без повторяющегося evidence его необходимости.
-
