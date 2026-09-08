@@ -35,3 +35,14 @@
 | [Development.md](./v0.2-candidate-2026-09-07/Development.md) | Project-Overview/Development.md | `67c2d6d5fb84ad380f1ac9ef37260f414778c7a0` |
 
 [Преемственность DM](./v0.2-candidate-2026-09-07/DM_Continuity.md). Рабочая замена — v0.3 Candidate, без автоматического утверждения или доказанной зрелости. Архивные тексты сохраняют относительные ссылки исходного окружения.
+
+
+## До согласования карт — 2026-09-08
+
+Источник: [ревизия 3113f1971c2c057e0c897f822c3cca9dbc02f49a](https://github.com/inprofundo777-wq/project_hub/tree/3113f1971c2c057e0c897f822c3cca9dbc02f49a). Копии дословные, включая прежние статусы и относительные ссылки. Development сохранён перед синхронизацией прогресса этапов 5–6. Существующие ARH-001 / ARH-002 не переименованы.
+
+| Архив | Исходный путь | Blob SHA |
+|---|---|---|
+| [Project_Map.md](./maps-before-stage-6-2026-09-08/Project_Map.md) | Project-Overview/Project_Map.md | `84f4c4ca4c30490b74d1283a8ff25116d0dc7bd3` |
+| [MASTER_ROADMAP.md](./maps-before-stage-6-2026-09-08/MASTER_ROADMAP.md) | MASTER_ROADMAP.md | `d6236d407d8a94de8ee97859848a57661bf5011e` |
+| [Development.md](./maps-before-stage-6-2026-09-08/Development.md) | Project-Overview/Development.md | `1a3c8156cb1a214ced2e01e9b8e588b29fab7dfd` |

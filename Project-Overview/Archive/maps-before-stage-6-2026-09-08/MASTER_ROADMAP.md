@@ -2,15 +2,12 @@
 
 **Тип:** Living Development Map  
 **Статус:** 🟢 Active Working Map  
-**Базовая проверка направлений:** 2026-09-05  
-**Частичная сверка:** 2026-09-08 — границы ролей и состояние коррекции Project Overview  
+**Актуально:** 2026-09-05  
 **Назначение:** карта зрелости, движения и связей основных capabilities In Profundo
 
 ---
 
 # 1. Как читать карту
-
-Сверка 8 сентября касается Project Overview, маршрутизации Master и связанных continuity-утверждений. Остальные оценки и операционные переходы сохранены из прежней карты; они не означают повторной проверки направлений на сегодняшнюю дату. Карта не запускает работу автоматически.
 
 Development Map отвечает на три вопроса:
 
@@ -155,8 +152,8 @@ Capability может быть 🟡 и активно развиваться.
 
 ### Подтверждено
 
-● DNA rev 3.1: часть I — основание; часть II — открытое развитие.  
-● ARC-001 — утверждённая карта подготовки корпуса, не готовая Конституция или полный мандат ролей.  
+● DNA rev 3.1.  
+● ARC-001.  
 ● различены Constitution / Framework / Policy / Workflow.  
 ● определено направление первого нормативного корпуса.
 
@@ -170,12 +167,12 @@ Capability может быть 🟡 и активно развиваться.
 ○ REG-001 Transfer Register.  
 ○ POL-002 Automation and Tool Governance Policy — позже.
 
-### Проекты и заготовки
+### Placeholder layer
 
-◐ Core_Principles, Editorial_Philosophy и Mission — содержательные концептуальные черновики без нормативной силы по сверке этапа 3.  
-⚪ Language — ранее отмеченная заготовка; отдельно на этапе 6 не проверялась.
-
-Навигация фундаментального корпуса требует отдельного уточнения; это наблюдение, а не поручение на полную ревизию.
+⚪ Core_Principles.  
+⚪ Editorial_Philosophy.  
+⚪ Language.  
+⚪ Mission.
 
 **СЕЙЧАС → фундаментальный корпус формируется; не ускорять документацию только ради административной завершённости.**
 
@@ -183,36 +180,42 @@ Capability может быть 🟡 и активно развиваться.
 
 # 5. PROJECT OVERVIEW & CONTINUITY — 🟡
 
-**Функция:** удерживать развивающееся целое, continuity понимания, связи и точки возврата.
+**Функция:**
 
-### Историческое evidence и существующие документы
+> Owner directs spotlight; Project Overview preserves the map of the whole scene.
 
-● Исторические документы фиксируют Fresh-chat Recovery, Overview, Deep Dive, Side Signal и Delta Review.
-● Рабочий пакет v0.3 Candidate записан; v0.1 и v0.2 сохранены с преемственностью DM.
-● Snapshot, Development Map, Operational Panel и Decision Memory различены.
-● Recovery Snapshot и Post-Audit Snapshot 2026-09-07 существуют как артефакты; наличие не доказывает полноты понимания или закрытия аудита.
+### Подтверждено
 
-### Открытая коррекция аудита
+● role recovery.  
+● Operating Model.  
+● Project Map.  
+● Decision Memory.  
+● Development.  
+● Recovery Snapshot.  
+● Project-level audit завершён.  
+● revised candidate v0.2 подготовлен после фундаментальной сверки.  
+● Post-Audit Snapshot 2026-09-07.  
+● Snapshot package собран.  
+● Snapshot Index нормализован.  
+● Development Map создана.  
+● различены Snapshot / Development Map / Operational Panel / Decision Memory / Permanent Documentation.
 
-● Этапы 1–4: чтение, карта положений, фундаментальная сверка и схема преемственности.
-● Этап 5: исправленный комплект записан и прочитан обратно.
-● Этап 6: Project_Map и MASTER_ROADMAP согласованы с рабочими границами Owner и v0.3 Candidate.
-○ Этап 7: проверить полноту переноса по карте положений.
-○ Этап 8: проверить выбор масштаба, временный вход и выход, Snapshot recognition и Horizon Preservation.
-○ Этап 9: итоговый Summary и достаточное новое поколение Snapshot.
-○ Этап 10: Long-term Re-entry после реального интервала.
+### Текущий переход
 
-Research role capture обнаружен и понят; устойчивость исправления ещё не доказана. Owner verification не заменяет проверку переноса и поведения. Аудит остаётся открытым, v0.3 — кандидатом.
+● project-level audit и fundamental consistency review завершены.  
+● отдельный список «Созревшие ветки» признан ненужным; material change остаётся trigger для Snapshot review.  
+● stale continuity claims по Notion / Book сняты на current-navigation уровне.  
+● различены Task Exit / Role Exit / Scale Recovery.  
+◐ Owner verification revised candidate v0.2.  
+○ meaningful long-term Re-entry после значительного интервала.
 
-**СЕЙЧАС → этап 7: проверить перенос; затем практический тест и итоговая контрольная точка.**
+**СЕЙЧАС → провести Owner verification revised candidate v0.2; после утверждения перейти к operational use без нового documentation cycle до material evidence или long-term Re-entry.**
 
 ---
 
 # 6. MASTER — 🟡
 
-**Рабочая область по уточнению Owner:** архитектура Publication System; прояснение неопределённости внутри этой области до Transfer Threshold.
-
-ARC-001 сохраняет интеграционную функцию Master при формировании нормативного корпуса, но не делает его универсальным архитектором всех направлений. Coach ведёт Publication / Distribution; Strategist — Portfolio / Content Horizon / Notion. Research leadership не выводится из симметрии с Publication System.
+**Функция:** работа с системной и стратегической неопределённостью до Transfer Threshold.
 
 ### Подтверждено
 
@@ -237,7 +240,7 @@ ARC-001 сохраняет интеграционную функцию Master п
 ◐ live validation на реальных системных вопросах.  
 ○ permanent normalization после достаточного evidence.
 
-**СЕЙЧАС → направлять Master архитектурные вопросы Publication System. Неясность сама по себе не определяет получателя; ясная задача может идти напрямую в соответствующую систему.**
+**СЕЙЧАС → использовать Master там, где существует реальная неопределённость, а не как обязательный этап.**
 
 ---
 
@@ -552,8 +555,8 @@ ARC-001 сохраняет интеграционную функцию Master п
 
 ### Подтверждено
 
-● Snapshot package и Snapshot Index существуют; прежняя синхронизация не доказывает полноты переноса текущего аудита.
-◐ Post-Audit Snapshot 2026-09-07 требует содержательной проверки и нового достаточного поколения на этапе 9.  
+● Snapshot package собран.  
+● Snapshot Index синхронизирован.  
 ● CURRENT / CURRENT PROJECT BASELINE / CONCEPT / RECOVERY / HISTORICAL различены.  
 ● Development Map существует.  
 ● Operational Panel имеет отдельную функцию.  
@@ -572,7 +575,7 @@ ARC-001 сохраняет интеграционную функцию Master п
 ### Текущий переход
 
 ◐ поддерживать current navigation без переписывания historical state.  
-○ распознавать значимые стадии понимания, повороты и паузы; предлагать Snapshot и согласовывать создание с Owner. Старые слепки сохраняют правду своего времени.
+○ новый Snapshot только после material change.
 
 ---
 
@@ -597,13 +600,7 @@ ARC-001 сохраняет интеграционную функцию Master п
 
 # 21. Ближайший горизонт
 
-## Текущая коррекция Overview — обновлено 2026-09-08
-
-Этап 7: проверка переноса → этап 8: практическая проверка → этап 9: итог / Snapshot. Long-term Re-entry отложен.
-
-## Ранее зафиксированный операционный горизонт — 2026-09-05
-
-Следующие переходы VIA, Research и Portfolio требуют проверки актуального состояния перед запуском. Согласование карт их не активирует.
+## СЕЙЧАС
 
     VIA-2026-018
           ↓
