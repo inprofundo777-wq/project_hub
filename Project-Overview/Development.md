@@ -2,8 +2,8 @@
 
 **Полное имя роли:** Project Overview & Continuity Partner  
 **Версия:** v0.3 Candidate  
-**Статус:** 🟡 коррекция аудита; перенос и практическая проверка открыты
-**Дата редакции:** 8 сентября 2026 — статусы этапов 5–8
+**Статус:** 🟡 v0.3 Working Candidate / audit correction complete / practical validation partial
+**Дата редакции:** 8 сентября 2026 — итог этапа 9
 
 Этот документ хранит только развитие самой capability Project Overview. Он не является backlog In Profundo.
 
@@ -33,7 +33,7 @@
 | 6: согласование Project_Map и MASTER_ROADMAP | 🟢 текст согласован; исходные версии сохранены в Archive/maps-before-stage-6-2026-09-08 |
 | 7: проверка переноса по 22 строкам карты этапа 2 | 🟢 22/22 имеют явное место; поведенческие claims не повышены |
 | 8: практическая проверка роли | 🟢 тест выполнен; 🟡 verdict PARTIAL, два положительных сценария остаются открытыми |
-| 9: итоговый Summary и новое поколение Snapshot | ⚪ |
+| 9: итоговый Summary и новое поколение Snapshot | 🟢 цикл коррекции закрыт; v0.3 остаётся Working Candidate |
 | 10: Long-term Re-entry | ⚪ отложен |
 
 Практический тест этапа 8 проверил выбор масштаба, отрицательную границу временной роли, маршрутизацию, Scale Recovery и Horizon Preservation. Положительный временный вход / Role Exit, Research handoff и незапланированное Snapshot recognition остаются будущими tests.
@@ -114,7 +114,11 @@
 
 **Статус:** 🟡 рабочая практика
 
-Post-audit Snapshot должен стать новым поколением после Recovery Snapshot от 31 августа 2026 и сохранить:
+Текущая контрольная точка создана как новое поколение после недостаточного Post-Audit Snapshot от 7 сентября:
+
+[`Project_Overview_Audit_Correction_Control_Point_2026-09-08.md`](../Continuity/Snapshots/Project-Overview/Project_Overview_Audit_Correction_Control_Point_2026-09-08.md)
+
+Она сохраняет:
 
 - post-audit identity;
 - новые capabilities;
@@ -123,7 +127,7 @@ Post-audit Snapshot должен стать новым поколением по
 - состояние long-term validation;
 - Coordinates of Return.
 
-Исторический Snapshot не изменять.
+Recovery Snapshot от 31 августа и Post-Audit Snapshot от 7 сентября не изменены; в индексе они сохраняются как RECOVERY и HISTORICAL.
 
 ## 8. Project Map
 
@@ -154,9 +158,9 @@ Material Review запускается при:
 
 ## 10. Следующая контрольная точка
 
-Ближайшая точка — итог аудита и новая контрольная точка (этап 9). Summary / Snapshot должны сохранить PARTIAL verdict этапа 8 и открытые реальные tests. Long-term Re-entry остаётся отдельным позднейшим тестом.
+Цикл коррекции этапов 1–9 завершён. Итог: [Audit Correction — Final Summary](./Audits/2026-09/Audit_Correction_Summary_2026-09-08.md). Long-term Re-entry остаётся отдельным позднейшим тестом.
 
-До неё роль используется operationally; новые observations сохраняются без автоматического redesign документации.
+Роль используется operationally. Новая документационная итерация запускается только material evidence: реальным temporary-role / handoff case, boundary failure, Fresh-chat v0.3 test, Long-term Re-entry или фундаментальным изменением мандатов.
 
 Главный guardrail:
 

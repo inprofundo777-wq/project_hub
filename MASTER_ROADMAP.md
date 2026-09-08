@@ -199,12 +199,12 @@ Capability может быть 🟡 и активно развиваться.
 ● Этап 6: Project_Map и MASTER_ROADMAP согласованы с рабочими границами Owner и v0.3 Candidate.
 ● Этап 7: содержательный перенос проверен — 22/22 положения имеют явное место; behavioral claims оставлены открытыми.
 ● Этап 8: практический тест выполнен; verdict PARTIAL — масштаб, границы, маршрутизация, Horizon Preservation и Scale Recovery проявились; положительный Temporary Role Exit и Research handoff не проверены.
-○ Этап 9: итоговый Summary и достаточное новое поколение Snapshot.
+● Этап 9: итоговый Summary и новое поколение Snapshot сохранены; цикл коррекции закрыт.
 ○ Этап 10: Long-term Re-entry после реального интервала.
 
 Research role capture обнаружен и понят; устойчивость исправления ещё не доказана. Owner verification не заменяет проверку переноса и поведения. Аудит остаётся открытым, v0.3 — кандидатом.
 
-**СЕЙЧАС → этап 9: итог аудита и новая контрольная точка с честным сохранением PARTIAL verdict.**
+**СЕЙЧАС → operational use v0.3 Working Candidate; не открывать новый documentation cycle без material evidence.**
 
 ---
 
@@ -553,7 +553,8 @@ ARC-001 сохраняет интеграционную функцию Master п
 ### Подтверждено
 
 ● Snapshot package и Snapshot Index существуют; прежняя синхронизация не доказывает полноты переноса текущего аудита.
-◐ Post-Audit Snapshot 2026-09-07 требует содержательной проверки и нового достаточного поколения на этапе 9.  
+● Post-Audit Snapshot 2026-09-07 сохранён как HISTORICAL / INSUFFICIENT CANDIDATE.
+● Audit Correction Control Point 2026-09-08 — текущий Snapshot Project Overview.  
 ● CURRENT / CURRENT PROJECT BASELINE / CONCEPT / RECOVERY / HISTORICAL различены.  
 ● Development Map существует.  
 ● Operational Panel имеет отдельную функцию.  
@@ -599,7 +600,7 @@ ARC-001 сохраняет интеграционную функцию Master п
 
 ## Текущая коррекция Overview — обновлено 2026-09-08
 
-Этап 7: перенос проверен (22/22) → этап 8: практический тест выполнен (PARTIAL) → этап 9: итог / Snapshot. Long-term Re-entry отложен.
+Этапы 1–9 завершены: content transfer PASS, practical validation PARTIAL, итоговый Summary и текущий Snapshot сохранены. Long-term Re-entry остаётся отложенным тестом. Long-term Re-entry отложен.
 
 ## Ранее зафиксированный операционный горизонт — 2026-09-05
 

@@ -2,8 +2,8 @@
 
 **Полное имя:** Project Overview & Continuity Partner  
 **Версия:** v0.3 Candidate  
-**Статус:** 🟡 Working Candidate / перенос и практическая проверка не завершены
-**Дата редакции:** 7 сентября 2026
+**Статус:** 🟡 Working Candidate / audit correction complete / practical validation partial
+**Дата редакции:** 8 сентября 2026
 
 ## 1. Назначение
 
@@ -167,6 +167,7 @@ Temporary System Design — не основная идентичность ро�
 - [`Project_Map.md`](./Project_Map.md) — минимальная Background Map;
 - [`Decision_Memory.md`](./Decision_Memory.md) — устойчивые решения роли;
 - [`Development.md`](./Development.md) — оставшиеся validation questions;
+- [`Audits/2026-09/Audit_Correction_Summary_2026-09-08.md`](./Audits/2026-09/Audit_Correction_Summary_2026-09-08.md) — итог коррекции и границы verdict;
 - [`Recovery_Validation_2026-08.md`](./Recovery_Validation_2026-08.md) — историческое evidence Recovery;
 - [`../Continuity/Snapshot_Index.md`](../Continuity/Snapshot_Index.md) — навигация по Snapshot.
 
@@ -177,7 +178,9 @@ Temporary System Design — не основная идентичность ро�
 Исторические документы содержат evidence Fresh-chat Recovery, Overview, Deep Dive, Side Signal и Delta Review. Это не доказывает устойчивость текущей редакции.
 
 🟡 В аудите обнаружен Research role capture: временная работа стала подменять основную идентичность. Ошибка распознана; исправление требует практической проверки.
-🟡 v0.3 Candidate переносит результаты этапов 2–4; проверка полноты переноса, согласование карт и тест поведения ещё впереди.
+🟢 Цикл коррекции аудита завершён; содержательный перенос проверен — 22/22.
+🟡 Практическая проверка имеет verdict PARTIAL: доступные поведения проявились, Temporary Role Exit и Research handoff не проверены.
+🟡 v0.3 остаётся Working Candidate и может использоваться operationally.
 ⚪ Long-term Re-entry после реального интервала не проверен.
 
 Сначала различаем: способность проявлялась → сбой распознан → исправление проверено. Owner verification не заменяет последнее.

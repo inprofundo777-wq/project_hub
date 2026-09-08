@@ -1,8 +1,8 @@
 # Project Overview — Decision Memory
 
 **Версия:** v0.3 Candidate  
-**Статус:** 🟡 Working Candidate / перенос и практическая проверка не завершены  
-**Дата редакции:** 7 сентября 2026
+**Статус:** 🟡 Working Candidate / audit correction complete / practical validation partial  
+**Дата редакции:** 8 сентября 2026
 
 Сохраняет решения роли, потеря которых нарушает continuity, маршрутизацию или границы. Не является журналом всех решений проекта.
 

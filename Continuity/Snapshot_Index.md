@@ -65,7 +65,7 @@
 | 2026-08-31 | Notion / Content Intelligence | `Snapshots/Notion/Notion_Content_Intelligence_Strategic_Snapshot_2026-08-31.md` | CURRENT | Structured Working Memory → Feedback Loop / Selective Enrichment |
 | 2026-08-31 | Book Project — «Тот, Кто остаётся» | `Snapshots/Books/Tot_Kto_Ostaetsya_Book_Project_Strategic_Snapshot_2026-08-31.md` | CURRENT | Architecture Established → Research Evidence Dependency |
 | 2026-09-01 | Research Lab | `Snapshots/Research-Lab/Research_Lab_Strategic_Snapshot_2026-09-01.md` | CURRENT | Capability Established → IP-001 Full Normalized Research |
-| 2026-09-07 | Project Overview | `Snapshots/Project-Overview/Project_Overview_Post_Audit_Snapshot_2026-09-07.md` | CURRENT / PENDING OWNER VERIFICATION | Project Audit → Revised Candidate v0.2 → Long-term Re-entry |
+| 2026-09-08 | Project Overview | `Snapshots/Project-Overview/Project_Overview_Audit_Correction_Control_Point_2026-09-08.md` | CURRENT / WORKING CANDIDATE | Audit Correction Complete → Operational Use / Open Validation |
 | 2026-09-02 | Дальний содержательный горизонт | `Snapshots/Content-Strategy/Strategic_Content_Horizon_Snapshot_2026-09-02.md` | CURRENT | Architecture Red Team → Capability Test |
 
 ---
@@ -87,9 +87,9 @@
 |---|---|---|---|---|
 | 2026-08-31 | Project Overview & Continuity | `Snapshots/Project-Overview/Project_Overview_Role_Recovery_Snapshot_2026-08-31.md` | RECOVERY | Role Recovery → Live Normalization |
 
-Recovery Snapshot сохраняет восстановленную capability.
+Recovery Snapshot сохраняет восстановленную capability. После аудита появились два следующих поколения: недостаточный Post-Audit Candidate от 7 сентября и текущая исправленная контрольная точка от 8 сентября.
 
-Новый стратегический слепок Project Overview потребуется не по календарю, а после достаточно значимого нового этапа:
+Следующий стратегический слепок Project Overview потребуется не по календарю, а после material evidence:
 
 - существенной live normalization;
 - изменения границ роли;
@@ -103,6 +103,7 @@ Recovery Snapshot сохраняет восстановленную capability.
 
 | Дата | Направление | Snapshot | Статус | Контрольная точка |
 |---|---|---|---|---|
+| 2026-09-07 | Project Overview | `Snapshots/Project-Overview/Project_Overview_Post_Audit_Snapshot_2026-09-07.md` | HISTORICAL / INSUFFICIENT CANDIDATE | v0.2 transfer → выявленная неполнота → correction cycle |
 | 2026-08-21 | Research Lab | `Snapshots/Research-Lab/Research_Lab_Strategic_Snapshot_2026-08-21.md` | HISTORICAL | Strategic Re-entry → Normalization Required |
 
 Research Lab snapshot от 2026-08-21 сохраняется как историческая точка.
@@ -144,8 +145,11 @@ Research Lab snapshot от 2026-08-21 сохраняется как истори
     └── Architecture → sufficient Research Evidence → selective Book Transfer
 
     Project Overview
-    🟡 POST-AUDIT CANDIDATE
-    └── Fundamental Review → Owner Verification → Long-term Re-entry
+    🟡 CURRENT / v0.3 WORKING CANDIDATE
+    ├── Audit correction complete
+    ├── Content transfer PASS
+    ├── Practical validation PARTIAL
+    └── Operational use → natural validation / Long-term Re-entry
 
     Карта развития
     🟢 CONCEPT
@@ -365,7 +369,7 @@ Publication capability уже подтверждена практикой.
 
 ## Project Overview
 
-После meaningful long-term Re-entry, material role-boundary change или фундаментального пересмотра границ роли.
+После real Temporary Role Exit / Research handoff, Fresh-chat v0.3 test, meaningful Long-term Re-entry, material role-boundary change или фундаментального пересмотра границ роли.
 
 ---
 
@@ -385,7 +389,7 @@ Publication capability уже подтверждена практикой.
 
 # 12. Текущая картина Continuity
 
-На 2026-09-03 основной пакет слепков восстановлен и физически сохранён в GitHub.
+На 2026-09-08 основной пакет слепков сохранён в GitHub; для Project Overview текущей точкой является Audit Correction Control Point.
 
 Теперь Continuity имеет контрольные точки для:
 

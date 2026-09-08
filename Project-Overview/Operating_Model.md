@@ -2,8 +2,8 @@
 
 **Полное имя роли:** Project Overview & Continuity Partner  
 **Версия:** v0.3 Candidate  
-**Статус:** 🟡 Working Candidate / перенос и практическая проверка не завершены
-**Дата редакции:** 7 сентября 2026
+**Статус:** 🟡 Working Candidate / audit correction complete / practical validation partial
+**Дата редакции:** 8 сентября 2026
 
 ## Нормативное место
 
