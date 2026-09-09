@@ -28,7 +28,7 @@ Project Overview действует как working project-level capability пр
 
 Документация роли не может переопределять DNA, присваивать полномочия Owner, Master, Coach, Strategist или Research и превращать working practice в норму всего проекта без отдельного принятия.
 
-Настоящий пакет фиксирует исторический опыт, поправки Owner и кандидатную рабочую модель. DS-01 подтвердил восстановление роли в одном свежем контексте; DS-02 и DS-04 подтвердили отдельные безопасные поведения. Повторяемая устойчивость, реальный Temporary Role Exit и межсистемная переносимость остаются открыты.
+Настоящий пакет фиксирует исторический опыт, поправки Owner и кандидатную рабочую модель. DS-01 подтвердил восстановление роли в одном свежем контексте; DS-02 и DS-04 подтвердили отдельные безопасные поведения. Итоговые verdict и их границы установлены в [`Follow-up Validation Disposition`](./Audits/2026-09/Follow_Up_Validation_Disposition_2026-09-09.md), не переписывающем исходные Evidence Records. Повторяемая устойчивость, реальный Temporary Role Exit и межсистемная переносимость остаются открыты.
 
 `Write_Authority.md` и `Observation_Pool.md` используются соответственно как Discussion Draft и Working Pilot. Они поддерживают практическую проверку Document Stewardship, но пока не создают общепроектную норму и не расширяют полномочия Project Overview.
 
@@ -180,6 +180,7 @@ Temporary System Design — не основная идентичность ро�
 - [`Decision_Memory.md`](./Decision_Memory.md) — устойчивые решения роли; вызывается при Recovery, изменении границ или проверке преемственности;
 - [`Development.md`](./Development.md) — оставшиеся validation questions и непроверенные переходы;
 - [`Audits/2026-09/Audit_Correction_Summary_2026-09-08.md`](./Audits/2026-09/Audit_Correction_Summary_2026-09-08.md) — итог коррекции и границы verdict;
+- [`Audits/2026-09/Follow_Up_Validation_Disposition_2026-09-09.md`](./Audits/2026-09/Follow_Up_Validation_Disposition_2026-09-09.md) — Owner disposition для DS-01, контролируемого DS-02 и DS-04;
 - [`Recovery_Validation_2026-08.md`](./Recovery_Validation_2026-08.md) — историческое evidence Recovery;
 - [`Archive/v0.3-candidate-2026-09-08/`](./Archive/v0.3-candidate-2026-09-08/) — точная предыдущая редакция пакета;
 - [`../Continuity/Snapshot_Index.md`](../Continuity/Snapshot_Index.md) — навигация по Snapshot.
