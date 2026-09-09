@@ -63,12 +63,13 @@ Owner прямо указал в текущем чате:
 
 ## Follow-up validation — 9 сентября 2026
 
+- [Owner disposition and evidence reconciliation](./Follow_Up_Validation_Disposition_2026-09-09.md): устанавливает итоговые verdict, сохраняет границы выводов и не переписывает исходные Evidence Records.
 - [DS-01 — Fresh-context write recovery](./DS-01_Fresh_Context_Write_Recovery_2026-09-09.md): PASS; роль и безопасная evidence-запись восстановлены в независимом fresh context.
 - [DS-02 — Correct Stop](./DS-02_Correct_Stop_2026-09-09.md): PASS в контролируемом сценарии; реальный рабочий Correct Stop остаётся открытым.
 - [DS-04 — Observation Restraint](./DS-04_Observation_Restraint_2026-09-09.md): PASS; дублирующий технический сигнал сознательно не записан в Observation Pool.
 - DS-03 — Temporary-role document work: отложен Owner до реальной задачи после завершения формирования корпуса.
 
-Follow-up tests подтверждают отдельные поведения Document Stewardship, но не повышают весь механизм до Working Protocol и не заменяют Long-term Re-entry.
+Индивидуальные Evidence Records фиксируют выполнение и собственные process results; итоговые validation verdict происходят из Owner disposition. Follow-up tests подтверждают отдельные поведения Document Stewardship, но не повышают весь механизм до Working Protocol и не заменяют Long-term Re-entry.
 
 Коррекция не превращает ограниченный исторический источник в полную независимую проверку всех событий.
 
