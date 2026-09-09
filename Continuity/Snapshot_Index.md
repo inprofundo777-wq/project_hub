@@ -148,7 +148,7 @@ Research Lab snapshot от 2026-08-21 сохраняется как истори
     🟡 CURRENT / v0.4 WORKING CANDIDATE
     ├── Audit correction complete
     ├── Content transfer PASS
-    ├── DS-01 / controlled DS-02 / DS-04 PASS
+    ├── DS-01 / controlled DS-02 / DS-04 — Owner-confirmed PASS
     ├── Practical validation PARTIAL
     └── Operational use → DS-03 / real Correct Stop / Long-term Re-entry
 
@@ -390,7 +390,7 @@ Fresh-context test v0.4 пройден в DS-01 и сам по себе не т�
 
 # 12. Текущая картина Continuity
 
-На 2026-09-09 основной пакет слепков сохранён в GitHub; для Project Overview текущей точкой остаётся Audit Correction Control Point от 8 сентября. Follow-up validation хранится в Development и audit evidence и не создаёт нового поколения Snapshot.
+На 2026-09-09 основной пакет слепков сохранён в GitHub; для Project Overview текущей точкой остаётся Audit Correction Control Point от 8 сентября. Follow-up validation и источник verdict сохранены в [`Follow-up Validation Disposition`](../Project-Overview/Audits/2026-09/Follow_Up_Validation_Disposition_2026-09-09.md); это не создаёт нового поколения Snapshot.
 
 Теперь Continuity имеет контрольные точки для:
 
