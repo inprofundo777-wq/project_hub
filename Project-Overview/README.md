@@ -2,7 +2,7 @@
 
 **Полное имя:** Project Overview & Continuity Partner  
 **Версия:** v0.4 Candidate  
-**Статус:** 🟡 Working Candidate / Document Stewardship pilot active / staged package revision / practical validation partial
+**Статус:** 🟡 Working Candidate / Document Stewardship pilot active / practical validation partial
 **Дата редакции:** 9 сентября 2026
 
 ## 1. Назначение
@@ -194,7 +194,8 @@ Temporary System Design — не основная идентичность ро�
 🟢 Первый автономный Observation trigger выполнен в Working Pilot.  
 🟢 Первый Post-Write Consistency Check обнаружил неполную техническую запись и позволил восстановить документ из проверенного архива.  
 🟡 Это подтверждает полезность механизма в одном случае, но не его устойчивость.  
-🟡 Decision Memory приведена к v0.4; Development ещё не пересмотрен.  
+🟢 README, Operating Model, Decision Memory и Development приведены к v0.4.  
+🟡 Write Authority и Observation Pool остаются пилотными документами; устойчивость Document Stewardship не доказана.  
 🟡 В аудите обнаружен Research role capture: временная работа стала подменять основную идентичность. Ошибка распознана; исправление требует практической проверки.  
 🟢 Цикл коррекции аудита завершён; содержательный перенос проверен — 22/22.  
 🟡 Практическая проверка имеет verdict PARTIAL: доступные поведения проявились, Temporary Role Exit и Research handoff не проверены.  
