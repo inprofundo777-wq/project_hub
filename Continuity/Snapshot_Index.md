@@ -145,11 +145,12 @@ Research Lab snapshot от 2026-08-21 сохраняется как истори
     └── Architecture → sufficient Research Evidence → selective Book Transfer
 
     Project Overview
-    🟡 CURRENT / v0.3 WORKING CANDIDATE
+    🟡 CURRENT / v0.4 WORKING CANDIDATE
     ├── Audit correction complete
     ├── Content transfer PASS
+    ├── DS-01 / controlled DS-02 / DS-04 PASS
     ├── Practical validation PARTIAL
-    └── Operational use → natural validation / Long-term Re-entry
+    └── Operational use → DS-03 / real Correct Stop / Long-term Re-entry
 
     Карта развития
     🟢 CONCEPT
@@ -369,7 +370,7 @@ Publication capability уже подтверждена практикой.
 
 ## Project Overview
 
-После real Temporary Role Exit / Research handoff, Fresh-chat v0.3 test, meaningful Long-term Re-entry, material role-boundary change или фундаментального пересмотра границ роли.
+Fresh-context test v0.4 пройден в DS-01 и сам по себе не требует нового Snapshot. Следующий Snapshot предлагается после real Temporary Role Exit / Research handoff, meaningful Long-term Re-entry, повторяющегося role-boundary failure, material role-boundary change или фундаментального пересмотра границ роли.
 
 ---
 
@@ -389,7 +390,7 @@ Publication capability уже подтверждена практикой.
 
 # 12. Текущая картина Continuity
 
-На 2026-09-08 основной пакет слепков сохранён в GitHub; для Project Overview текущей точкой является Audit Correction Control Point.
+На 2026-09-09 основной пакет слепков сохранён в GitHub; для Project Overview текущей точкой остаётся Audit Correction Control Point от 8 сентября. Follow-up validation хранится в Development и audit evidence и не создаёт нового поколения Snapshot.
 
 Теперь Continuity имеет контрольные точки для:
 
