@@ -3,7 +3,7 @@
 **Полное имя роли:** Project Overview & Continuity Partner  
 **Версия:** v0.4 Candidate  
 **Статус:** 🟡 Working Candidate / Document Stewardship pilot in validation / practical validation partial
-**Дата редакции:** 9 сентября 2026 — Corpus Completion Review
+**Дата редакции:** 9 сентября 2026 — post-test consistency review
 
 Этот документ хранит только развитие самой capability Project Overview. Он не является backlog In Profundo.
 
@@ -69,6 +69,8 @@
 | Временный вход в другую систему и Role Exit | Не проверен | ⚪ |
 | Применение другой ролью или агентом | Не проверено | ⚪ |
 | Long-term Re-entry | Не проверен | ⚪ |
+
+Итоговые verdict DS-01, контролируемого DS-02 и DS-04, а также различие между process result и Owner disposition зафиксированы в [`Follow-up Validation Disposition`](./Audits/2026-09/Follow_Up_Validation_Disposition_2026-09-09.md). Исходные Evidence Records сохраняются без переписывания.
 
 ### Следующие обязательные тесты
 
@@ -323,7 +325,7 @@ Material Review запускается при:
 
 Audit-correction cycle и формирование корпуса v0.4 завершены. Project Overview может использовать пакет operationally как Working Candidate.
 
-Corpus Completion Review подтвердил:
+Сводная post-test проверка корпуса подтвердила:
 
 1. README, Operating Model, Decision Memory и Development находятся в v0.4;
 2. архив v0.3 сохранён и внесён в архивный индекс;
