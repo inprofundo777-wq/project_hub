@@ -37,6 +37,19 @@
 [Преемственность DM](./v0.2-candidate-2026-09-07/DM_Continuity.md). Рабочая замена — v0.3 Candidate, без автоматического утверждения или доказанной зрелости. Архивные тексты сохраняют относительные ссылки исходного окружения.
 
 
+## Комплект v0.3 Candidate — перед staged revision v0.4
+
+Четыре канонических файла v0.3 сохранены дословно перед их последовательным обновлением до v0.4. Архив фиксирует рабочую кандидатную редакцию после коррекции аудита и до добавления Document Stewardship в основной пакет. Архивный статус не означает утверждённую зрелость.
+
+| Архивный файл | Исходный путь | Blob SHA |
+|---|---|---|
+| [README.md](./v0.3-candidate-2026-09-08/README.md) | Project-Overview/README.md | `0f25752663f983e70ad4c7c659acde26b04c1848` |
+| [Operating_Model.md](./v0.3-candidate-2026-09-08/Operating_Model.md) | Project-Overview/Operating_Model.md | `57113bdd04c572f5ba2badb332080d90743bfc13` |
+| [Decision_Memory.md](./v0.3-candidate-2026-09-08/Decision_Memory.md) | Project-Overview/Decision_Memory.md | `d09295638a77cb20c95da6d2d248d75b01395c2f` |
+| [Development.md](./v0.3-candidate-2026-09-08/Development.md) | Project-Overview/Development.md | `d6d915c20407a6d81faf010754555b43d33da0ca` |
+
+Текущая рабочая замена — пакет v0.4 Candidate. Его появление не изменяет исторический текст v0.3 и не доказывает завершённость открытых validation tests.
+
 ## До согласования карт — 2026-09-08
 
 Источник: [ревизия 3113f1971c2c057e0c897f822c3cca9dbc02f49a](https://github.com/inprofundo777-wq/project_hub/tree/3113f1971c2c057e0c897f822c3cca9dbc02f49a). Копии дословные, включая прежние статусы и относительные ссылки. Development сохранён перед синхронизацией прогресса этапов 5–6. Существующие ARH-001 / ARH-002 не переименованы.
