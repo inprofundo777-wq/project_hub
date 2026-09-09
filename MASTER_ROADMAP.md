@@ -196,7 +196,7 @@ Capability может быть 🟡 и активно развиваться.
 
 ● Этапы 1–9 коррекции аудита завершены; содержательный перенос проверен — 22/22.
 ● Project_Map и MASTER_ROADMAP согласованы с рабочими границами Owner.
-● Corpus Completion Review синхронизировал пакет v0.4, карты, индексы и evidence.
+● Сводная post-test проверка синхронизировала пакет v0.4, карты и индексы; источник итоговых verdict — [`Follow-up Validation Disposition`](./Project-Overview/Audits/2026-09/Follow_Up_Validation_Disposition_2026-09-09.md).
 ● DS-01 Fresh-context write recovery — PASS.
 ● DS-02 Correct Stop — PASS в контролируемом сценарии; реальный рабочий случай открыт.
 ● DS-04 Observation Restraint — PASS.
