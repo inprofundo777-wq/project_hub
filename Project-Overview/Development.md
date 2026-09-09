@@ -3,7 +3,7 @@
 **Полное имя роли:** Project Overview & Continuity Partner  
 **Версия:** v0.4 Candidate  
 **Статус:** 🟡 Working Candidate / Document Stewardship pilot in validation / practical validation partial
-**Дата редакции:** 9 сентября 2026 — DS-04 Observation Restraint
+**Дата редакции:** 9 сентября 2026 — Corpus Completion Review
 
 Этот документ хранит только развитие самой capability Project Overview. Он не является backlog In Profundo.
 
@@ -321,18 +321,19 @@ Material Review запускается при:
 
 ## 11. Следующая контрольная точка
 
-Audit-correction cycle завершён. Текущий development cycle — проверка Document Stewardship и завершение staged revision пакета v0.4.
+Audit-correction cycle и формирование корпуса v0.4 завершены. Project Overview может использовать пакет operationally как Working Candidate.
 
-Ближайшая контрольная точка достигается, когда:
+Corpus Completion Review подтвердил:
 
-1. README, Operating Model, Decision Memory и Development приведены к v0.4;
-2. ссылки и статусы пакета согласованы;
-3. Write Authority остаётся честно помеченным Discussion Draft;
-4. Observation Pool остаётся Working Pilot;
-5. определена следующая практическая проверка;
-6. не создано ложного утверждения об устойчивости capability.
+1. README, Operating Model, Decision Memory и Development находятся в v0.4;
+2. архив v0.3 сохранён и внесён в архивный индекс;
+3. Write Authority пересмотрен после первых тестов и остаётся Discussion Draft 0.2;
+4. Observation Pool остаётся Working Pilot; сохранение и restraint проявились;
+5. DS-01, контролируемый DS-02 и DS-04 завершены с verdict PASS;
+6. паспорта, evidence, карты и индексы приведены к одному текущему состоянию;
+7. новый Snapshot не требуется, потому что общий capability verdict не изменён до доказанной устойчивости.
 
-DS-01 Fresh-context write recovery, контролируемый DS-02 Correct Stop и DS-04 Observation Restraint завершены с verdict PASS. DS-03 Temporary-role document work отложен до реальной задачи после завершения формирования документального корпуса; Correct Stop в реальном процессе остаётся открытым evidence.
+Открытая validation: DS-03 Temporary-role document work отложен до реальной задачи; Correct Stop в реальном процессе и Long-term Re-entry не доказаны. Следующий documentation cycle запускается только material evidence, изменением фундаментального корпуса или обнаруженной рассинхронизацией.
 
 Главный guardrail:
 
