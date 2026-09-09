@@ -61,6 +61,15 @@ Owner прямо указал в текущем чате:
 - [Audit Correction — Final Summary](./Audit_Correction_Summary_2026-09-08.md): итог этапов 1–9 и открытые claims.
 - [Current Control Point](../../../Continuity/Snapshots/Project-Overview/Project_Overview_Audit_Correction_Control_Point_2026-09-08.md): новое поколение Snapshot.
 
+## Follow-up validation — 9 сентября 2026
+
+- [DS-01 — Fresh-context write recovery](./DS-01_Fresh_Context_Write_Recovery_2026-09-09.md): PASS; роль и безопасная evidence-запись восстановлены в независимом fresh context.
+- [DS-02 — Correct Stop](./DS-02_Correct_Stop_2026-09-09.md): PASS в контролируемом сценарии; реальный рабочий Correct Stop остаётся открытым.
+- [DS-04 — Observation Restraint](./DS-04_Observation_Restraint_2026-09-09.md): PASS; дублирующий технический сигнал сознательно не записан в Observation Pool.
+- DS-03 — Temporary-role document work: отложен Owner до реальной задачи после завершения формирования корпуса.
+
+Follow-up tests подтверждают отдельные поведения Document Stewardship, но не повышают весь механизм до Working Protocol и не заменяют Long-term Re-entry.
+
 Коррекция не превращает ограниченный исторический источник в полную независимую проверку всех событий.
 
 ## Связанные материалы
