@@ -1,8 +1,8 @@
 # Project Overview & Continuity Partner — Project Map
 
 **Статус:** 🟡 Working / Experimental  
-**Версия:** v0.2 — согласование с пакетом v0.3 Candidate  
-**Дата:** 8 сентября 2026  
+**Версия:** v0.3 — согласование с пакетом v0.4 Candidate  
+**Дата:** 9 сентября 2026  
 **Назначение:** определить минимальную Background Map In Profundo, которую Project Overview & Continuity Partner должен удерживать при работе с отдельными направлениями.
 
 > Этот документ не является roadmap проекта и не заменяет Strategic Snapshot или Development Map.  
@@ -26,7 +26,7 @@
 - заменять будущий Architecture and Authority Framework;
 - превращать подтверждённую рабочую практику в норму всего проекта без отдельного принятия.
 
-Границы ролей отражают явные поправки Owner, разобранные на этапах 2–3 коррекции аудита, и согласованы с v0.3 Candidate. Это рабочая карта, а не окончательные мандаты. ARC-001 — утверждённая карта подготовки нормативного корпуса; будущий FRM-001 не блокирует обычную работу Overview. Согласованность текста не доказывает устойчивость поведения роли.
+Границы ролей отражают явные поправки Owner, разобранные на этапах 2–3 коррекции аудита, и согласованы с v0.4 Candidate. Это рабочая карта, а не окончательные мандаты. ARC-001 — утверждённая карта подготовки нормативного корпуса; будущий FRM-001 не блокирует обычную работу Overview. Согласованность текста не доказывает устойчивость поведения роли.
 
 ---
 
@@ -515,7 +515,7 @@ Project Map не является:
 - [`README.md`](./README.md)
 - [`Operating_Model.md`](./Operating_Model.md)
 - [`Recovery_Validation_2026-08.md`](./Recovery_Validation_2026-08.md)
-- [`Decision_Memory.md`](./Decision_Memory.md) — v0.3 Candidate
+- [`Decision_Memory.md`](./Decision_Memory.md) — v0.4 Candidate
 - [`Development.md`](./Development.md)
 - [`../Continuity/Snapshot_Index.md`](../Continuity/Snapshot_Index.md)
 
