@@ -188,23 +188,24 @@ Capability может быть 🟡 и активно развиваться.
 ### Историческое evidence и существующие документы
 
 ● Исторические документы фиксируют Fresh-chat Recovery, Overview, Deep Dive, Side Signal и Delta Review.
-● Рабочий пакет v0.3 Candidate записан; v0.1 и v0.2 сохранены с преемственностью DM.
+● Рабочий пакет v0.4 Candidate сформирован; v0.1, v0.2 и v0.3 сохранены с преемственностью DM.
 ● Snapshot, Development Map, Operational Panel и Decision Memory различены.
-● Recovery Snapshot и Post-Audit Snapshot 2026-09-07 существуют как артефакты; наличие не доказывает полноты понимания или закрытия аудита.
+● Post-Audit Snapshot 2026-09-07 сохранён как HISTORICAL / INSUFFICIENT CANDIDATE; Audit Correction Control Point 2026-09-08 остаётся Current.
 
-### Открытая коррекция аудита
+### Завершённая коррекция и открытая validation
 
-● Этапы 1–4: чтение, карта положений, фундаментальная сверка и схема преемственности.
-● Этап 5: исправленный комплект записан и прочитан обратно.
-● Этап 6: Project_Map и MASTER_ROADMAP согласованы с рабочими границами Owner и v0.3 Candidate.
-● Этап 7: содержательный перенос проверен — 22/22 положения имеют явное место; behavioral claims оставлены открытыми.
-● Этап 8: практический тест выполнен; verdict PARTIAL — масштаб, границы, маршрутизация, Horizon Preservation и Scale Recovery проявились; положительный Temporary Role Exit и Research handoff не проверены.
-● Этап 9: итоговый Summary и новое поколение Snapshot сохранены; цикл коррекции закрыт.
-○ Этап 10: Long-term Re-entry после реального интервала.
+● Этапы 1–9 коррекции аудита завершены; содержательный перенос проверен — 22/22.
+● Project_Map и MASTER_ROADMAP согласованы с рабочими границами Owner.
+● Corpus Completion Review синхронизировал пакет v0.4, карты, индексы и evidence.
+● DS-01 Fresh-context write recovery — PASS.
+● DS-02 Correct Stop — PASS в контролируемом сценарии; реальный рабочий случай открыт.
+● DS-04 Observation Restraint — PASS.
+○ DS-03 Temporary-role document work отложен Owner до реальной задачи.
+○ Long-term Re-entry после реального интервала не проверен.
 
-Research role capture обнаружен и понят; устойчивость исправления ещё не доказана. Owner verification не заменяет проверку переноса и поведения. Аудит остаётся открытым, v0.3 — кандидатом.
+Research role capture обнаружен и частично проверен: основная роль восстановлена в одном fresh context, но положительный Temporary Role Exit и повторяемая устойчивость не доказаны. Correction cycle закрыт; открытая validation не делает роль полностью зрелой.
 
-**СЕЙЧАС → operational use v0.3 Working Candidate; не открывать новый documentation cycle без material evidence.**
+**СЕЙЧАС → operational use v0.4 Working Candidate; следующий documentation cycle только по material evidence, изменению фундаментального корпуса или обнаруженной рассинхронизации.**
 
 ---
 
