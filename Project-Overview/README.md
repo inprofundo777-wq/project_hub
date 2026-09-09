@@ -28,7 +28,7 @@ Project Overview действует как working project-level capability пр
 
 Документация роли не может переопределять DNA, присваивать полномочия Owner, Master, Coach, Strategist или Research и превращать working practice в норму всего проекта без отдельного принятия.
 
-Настоящий пакет фиксирует исторический опыт, поправки Owner и кандидатную рабочую модель; устойчивость исправленного поведения ещё не проверена.
+Настоящий пакет фиксирует исторический опыт, поправки Owner и кандидатную рабочую модель. DS-01 подтвердил восстановление роли в одном свежем контексте; DS-02 и DS-04 подтвердили отдельные безопасные поведения. Повторяемая устойчивость, реальный Temporary Role Exit и межсистемная переносимость остаются открыты.
 
 `Write_Authority.md` и `Observation_Pool.md` используются соответственно как Discussion Draft и Working Pilot. Они поддерживают практическую проверку Document Stewardship, но пока не создают общепроектную норму и не расширяют полномочия Project Overview.
 
@@ -188,18 +188,19 @@ Temporary System Design — не основная идентичность ро�
 
 ## 11. Текущий уровень подтверждения
 
-Исторические документы содержат evidence Fresh-chat Recovery, Overview, Deep Dive, Side Signal и Delta Review. Это не доказывает устойчивость текущей редакции.
+Исторические документы содержат evidence Fresh-chat Recovery, Overview, Deep Dive, Side Signal и Delta Review. Текущая редакция получила отдельное follow-up evidence, но повторяемая устойчивость ещё не доказана.
 
 🟢 Комплект v0.3 сохранён в архиве и посимвольно проверен.  
-🟢 Первый автономный Observation trigger выполнен в Working Pilot.  
-🟢 Первый Post-Write Consistency Check обнаружил неполную техническую запись и позволил восстановить документ из проверенного архива.  
-🟡 Это подтверждает полезность механизма в одном случае, но не его устойчивость.  
 🟢 README, Operating Model, Decision Memory и Development приведены к v0.4.  
-🟡 Write Authority и Observation Pool остаются пилотными документами; устойчивость Document Stewardship не доказана.  
-🟡 В аудите обнаружен Research role capture: временная работа стала подменять основную идентичность. Ошибка распознана; исправление требует практической проверки.  
+🟢 DS-01: основная роль и write process восстановлены в одном независимом fresh context.  
+🟢 DS-02: Correct Stop проявился в контролируемом сценарии; реальный рабочий случай остаётся открытым.  
+🟢 DS-04: Observation restraint проявился; дублирующий технический сигнал не был записан.  
+🟢 Первый автономный Observation trigger и первый Post-Write Consistency Check выполнены в реальной работе текущей ветки.  
+🟡 `Write_Authority.md` остаётся Discussion Draft 0.2; `Observation_Pool.md` — Working Pilot.  
+🟡 Research role capture исправлен на уровне одного fresh-context recovery; положительный Temporary Role Exit и Research handoff не проверены.  
 🟢 Цикл коррекции аудита завершён; содержательный перенос проверен — 22/22.  
-🟡 Практическая проверка имеет verdict PARTIAL: доступные поведения проявились, Temporary Role Exit и Research handoff не проверены.  
-🟡 v0.4 остаётся Working Candidate и может использоваться operationally.  
+🟡 v0.4 сформирован как Working Candidate и может использоваться operationally; межсистемная переносимость Document Stewardship не доказана.  
+⚪ DS-03 отложен Owner до реальной задачи после завершения корпуса.  
 ⚪ Long-term Re-entry после реального интервала не проверен.
 
 Сначала различаем: способность проявлялась → сбой распознан → исправление проверено. Owner verification не заменяет последнее.
