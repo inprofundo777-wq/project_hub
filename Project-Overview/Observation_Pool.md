@@ -152,7 +152,7 @@ Post-Write Consistency Check обнаружил расхождение до за
 **Дата:** 10 сентября 2026  
 **Источник:** параллельное развитие Project Overview в двух ветках ChatGPT; при обновлении карты одна ветка использовала только собственный разговорный контекст и не учла развитие фундаментальных документов и роли в другой ветке  
 **Область:** Project Overview / Continuity / Role Recovery / Document Stewardship  
-**Статус:** OBSERVED
+**Статус:** ROUTED
 
 ### Наблюдение
 
@@ -198,7 +198,9 @@ Post-Write Consistency Check обнаружил расхождение до за
 
 ### Возможное назначение
 
-Если сигнал подтвердится, рассмотреть минимальный `Parallel Branch Convergence Gate` в Operating Model или общей Document Stewardship policy.
+Owner подтвердил рабочее решение 10 сентября 2026. Сигнал передан в `Operating_Model.md`, `Decision_Memory.md`, `README.md`, `Development.md` и новый `Role_Activity_Log.md`.
+
+Механизм принят как Working Pilot:
 
 Кандидатная логика:
 
@@ -211,5 +213,5 @@ parallel role instance detected
 → update only from reconciled current state
 ```
 
-До повторного evidence это остаётся наблюдением. Оно не изменяет действующие полномочия и не создаёт обязательный новый workflow.
+Наблюдение получило статус ROUTED, потому что механизм уже определён и записан. Оно не закрывается до следующего реального межветочного handoff: принятие решения не доказывает устойчивость поведения и не переносит правило автоматически на другие роли.
 
