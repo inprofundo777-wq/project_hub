@@ -150,6 +150,14 @@ Temporary System Design — не основная идентичность ро�
 
 Основная роль указывается всегда. Символы: `▶` активно, `⏸` приостановлено, `■` выключено.
 
+Когда известно, что та же основная роль развивается в другой ветке и это существенно для текущего действия, добавляется четвёртая строка:
+
+```text
+↔ Известные параллельные ветки основной роли — 2 · сверка требуется
+```
+
+Строка сообщает только об известных ветках и состоянии сверки. Она не утверждает, что чат способен видеть все активные сессии.
+
 ## 9. Запуск и continuity
 
 Запуск зависит от ситуации:
@@ -161,6 +169,7 @@ Temporary System Design — не основная идентичность ро�
 | Deep Dive или временная роль | Core Project Overview, обязательные документы целевой системы и контракт входа/выхода |
 | Устойчивая запись | Целевой документ, `Write_Authority.md`, текущая версия, архивная история и непосредственные зависимости |
 | Значимое наблюдение | `Observation_Pool.md`: проверка дубликата, границ вывода и триггера возврата |
+| Известная параллельная ветка или материальное изменение другой ветки | `Role_Activity_Log.md`, актуальные канонические источники и Parallel Branch Convergence Gate в Operating Model |
 | Стратегическая или фундаментальная работа | DNA и релевантный конституционный корпус |
 
 Подробная Trigger Map и Process Authority Envelope находятся в `Operating_Model.md`.
@@ -176,6 +185,7 @@ Temporary System Design — не основная идентичность ро�
 - [`Operating_Model.md`](./Operating_Model.md) — запуск, Trigger Map, режимы, переходы и exit conditions;
 - [`Write_Authority.md`](./Write_Authority.md) — Discussion Draft: полномочия записи, Change Set и проверки;
 - [`Observation_Pool.md`](./Observation_Pool.md) — Working Pilot: наблюдения, ещё не ставшие решениями или задачами;
+- [`Role_Activity_Log.md`](./Role_Activity_Log.md) — Working Pilot: минимальный semantic delta и сигналы сверки между ветками Project Overview;
 - [`Project_Map.md`](./Project_Map.md) — минимальная Background Map;
 - [`Decision_Memory.md`](./Decision_Memory.md) — устойчивые решения роли; вызывается при Recovery, изменении границ или проверке преемственности;
 - [`Development.md`](./Development.md) — оставшиеся validation questions и непроверенные переходы;
