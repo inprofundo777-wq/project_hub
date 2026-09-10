@@ -84,6 +84,18 @@ Snapshot сохраняет достигнутую стадию понимани
 **Ветка / процесс:** Project Overview → Evidence Audit + Master Self-Review + Project Overview synthesis  
 **Материальный результат:** Owner полностью прочитал и подтвердил RR-2026-007 — Publication Master как Final Analytical Review. Современная область роли ограничена архитектурной связностью узкой Publication System; общепроектные continuity, horizons и roadmapping не принадлежат Publication Master. Утверждение Review не означает, что постоянный Role Package уже пересобран или прошёл validation.  
 **Основание:** решение Owner 10 сентября 2026 после полного чтения документа.  
-**Канонические источники / commit:** editorial_system/Development/Role-Reviews/RR-2026-007-Publication-Master.md; commit 7dd471440f0b41631383a55afd865fe76ca18eae.  
+**Канонические источники / commit:** editorial_system/Development/Proposals/Role-Reviews/RR-2026-007-Publication-Master.md; commit 7dd471440f0b41631383a55afd865fe76ca18eae; duplicate path removed by commit d7f4cb2a02185fbf8822502793ec0be9c8c14817.  
 **Межветочное значение:** ветки Project Overview не должны направлять к Publication Master общепроектную неопределённость или считать MASTER_ROADMAP.md артефактом этой роли.  
 **Следующий шаг:** отдельный Change Set для архивирования recovery-пакета и последовательной пересборки Publication Master.
+
+
+---
+
+## 2026-09-10 — Publication Master Recovery Archive and Change Set
+
+**Ветка / процесс:** Project Overview → Parallel Branch Convergence → Publication Master Role Package Controlled Rebuild  
+**Материальный результат:** Convergence Gate обнаружил и принял material delta другой ветки: все десять файлов recovery-пакета Master дословно сохранены и проверены до изменения исходного пакета. Повторное архивирование не выполнялось. После сверки подготовлен один цельный Change Set со статусом Draft for Owner Review; постоянный пакет `Editors/Master/` не изменён.  
+**Основание:** подтверждённый RR-2026-007; утверждённый Owner механизм межветочной сверки; следующий маршрут `archive → Change Set → sequential rebuild`.  
+**Канонические источники / commit:** recovery manifest — editorial_system/Development/Proposals/Role-Reviews/Recovery/Publication-Master/2026-09-10-pre-normalization/_ARCHIVE_MANIFEST.md, commit 89a8738b041be58be5e955c15dd88a71b915b218; Change Set — editorial_system/Development/Proposals/Role-Reviews/Publication-Master-Role-Package-Change-Set.md, commit 07722a15618ade93a5f8115d81bc5dedad5c2cd0.  
+**Межветочное значение:** recovery archive считается завершённым; другим веткам не следует повторять архивирование или начинать пересборку из прежней точки. Change Set ещё не утверждён и не даёт разрешения изменять постоянный пакет.  
+**Следующий шаг:** Owner review Change Set; после утверждения — цельная редакция `Constitution.md` как `Publication Master Role Charter — v0.1 Candidate` до записи.
