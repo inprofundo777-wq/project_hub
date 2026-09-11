@@ -209,36 +209,32 @@ Research role capture обнаружен и частично проверен: �
 
 ---
 
-# 6. MASTER — 🟡
+# 6. PUBLICATION MASTER — 🟡
 
-**Рабочая область по уточнению Owner:** архитектура Publication System; прояснение неопределённости внутри этой области до Transfer Threshold.
+**Рабочая область:** архитектурная связность Publication System; временное принятие ограниченного системного вопроса до решения, Handoff и Role Exit.
 
-ARC-001 сохраняет интеграционную функцию Master при формировании нормативного корпуса, но не делает его универсальным архитектором всех направлений. Coach ведёт Publication / Distribution; Strategist — Portfolio / Content Horizon / Notion. Research leadership не выводится из симметрии с Publication System.
+ARC-001 сохраняет интеграционную функцию Master при формировании нормативного корпуса, но не делает Publication Master универсальным архитектором всех направлений. Coach ведёт конкретные VIA / DIST; Strategist — Portfolio / Content Horizon / Notion; Project Overview — общепроектную карту и continuity; Research leadership не выводится из симметрии с Publication System.
 
 ### Подтверждено
 
-● Master ≠ постоянный supervisor Article Lifecycle.  
+● Publication Master ≠ постоянный supervisor Article Lifecycle.  
 ● Coach владеет production cycle.  
-● Observation → Distinction → Interpretation → Decision.  
-● symptom ≠ problem level.  
-● practice before normativity.  
-● Transfer Threshold.  
-● Decision Memory.  
-● способность остановить преждевременную архитектуризацию.
-
-### Недавнее evidence
-
-● Strategic Content Horizon Architecture Red Team.  
-● VIA Integration Gap Architecture Review.  
-● доказано, что отдельная `System Learning capability` не требуется.  
-● VIA learning маршрутизируется через существующую архитектуру.
+● каноническое имя Publication Master; Master Editor — историческое имя.  
+● Role Review RR-2026-007 подтверждён Owner.  
+● recovery-поколение прежнего пакета сохранено и проверено.  
+● Role Package v0.1 Candidate пересобран: 10/10 документов.  
+● Observation before Architecture и Existing Capability Check.  
+● Transfer Threshold, Capability Delta, Handoff и Role Exit.  
+● системная независимость ≠ профильная независимость.
 
 ### Текущий переход
 
-◐ live validation на реальных системных вопросах.  
-○ permanent normalization после достаточного evidence.
+● permanent documentation normalization завершена.  
+◐ пакет имеет статус `Awaiting Validation`.  
+○ Fresh-context Recovery Test.  
+○ рабочий experiment `Project Overview → Publication Master → Coach Review → Role Exit → Scale Recovery`.
 
-**СЕЙЧАС → направлять Master архитектурные вопросы Publication System. Неясность сама по себе не определяет получателя; ясная задача может идти напрямую в соответствующую систему.**
+**СЕЙЧАС → использовать новый пакет для двух validation-сценариев; не расширять документацию до evidence. Обычный VIA/DIST остаётся у Coach.**
 
 ---
 
