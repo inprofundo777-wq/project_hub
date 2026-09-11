@@ -99,3 +99,15 @@ Snapshot сохраняет достигнутую стадию понимани
 **Канонические источники / commit:** recovery manifest — editorial_system/Development/Proposals/Role-Reviews/Recovery/Publication-Master/2026-09-10-pre-normalization/_ARCHIVE_MANIFEST.md, commit 89a8738b041be58be5e955c15dd88a71b915b218; Change Set — editorial_system/Development/Proposals/Role-Reviews/Publication-Master-Role-Package-Change-Set.md, commit 07722a15618ade93a5f8115d81bc5dedad5c2cd0.  
 **Межветочное значение:** recovery archive считается завершённым; другим веткам не следует повторять архивирование или начинать пересборку из прежней точки. Change Set ещё не утверждён и не даёт разрешения изменять постоянный пакет.  
 **Следующий шаг:** Owner review Change Set; после утверждения — цельная редакция `Constitution.md` как `Publication Master Role Charter — v0.1 Candidate` до записи.
+
+
+---
+
+## 2026-09-11 — Publication Master Role Package Documentation Update
+
+**Ветка / процесс:** Project Overview → Publication Master Role Package Controlled Rebuild  
+**Материальный результат:** Owner утвердил Change Set. Все десять файлов `Editors/Master/` пересобраны как единый Publication Master Role Package v0.1 Candidate. Точность каждой записи подтверждена read-back; Change Set переведён в `Implemented / Documentation Updated / Awaiting Validation`. Пакет не объявлен Validated.  
+**Основание:** решение Owner 11 сентября 2026; RR-2026-007; утверждённый Change Set.  
+**Канонические источники / commit:** `Editors/Master/README.md` и связанные девять документов; финальная фиксация Change Set — editorial_system commit `cea9bdc5ffd58cdceb98405fc59415bcd616b639`. Project Overview evidence: Development — `35b2bed`; Observation Pool — `0a7ae20`.  
+**Межветочное значение:** прежний recovery-пакет больше не является текущей инструкцией. Любая ветка Publication Master должна входить через актуальный `Editors/Master/README.md`. Первый реальный Convergence Gate получил PASS, но repeatability остаётся открытой.  
+**Следующий шаг:** Fresh-context Recovery Test, затем рабочий experiment `Project Overview → Publication Master → Coach Review → Role Exit → Scale Recovery`.
