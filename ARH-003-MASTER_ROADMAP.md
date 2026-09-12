@@ -1,0 +1,672 @@
+# In Profundo — Development Map
+
+**Тип:** Living Development Map  
+**Статус:** 🟢 Active Working Map  
+**Базовая проверка направлений:** 2026-09-05  
+**Частичная сверка:** 2026-09-08 — границы ролей и состояние коррекции Project Overview  
+**Назначение:** карта зрелости, движения и связей основных capabilities In Profundo
+
+---
+
+# 1. Как читать карту
+
+Сверка 8 сентября касается Project Overview, маршрутизации Master и связанных continuity-утверждений. Остальные оценки и операционные переходы сохранены из прежней карты; они не означают повторной проверки направлений на сегодняшнюю дату. Карта не запускает работу автоматически.
+
+Development Map отвечает на три вопроса:
+
+> **Что уже существует?**
+
+> **Насколько каждая capability способна выполнять свою функцию?**
+
+> **Какой следующий переход должен быть доказан практикой?**
+
+Она не является:
+
+- календарём публикаций;
+- списком всех задач Owner;
+- стратегическим Snapshot;
+- заменой permanent documentation;
+- полным реестром материалов;
+- вторым Content Portfolio.
+
+## Зрелость capability
+
+- 🟢 — capability существует и подтверждена практикой;
+- 🟡 — capability существует, но формируется, проверяется или нормализуется;
+- 🔴 — существенная capability отсутствует или заблокирована;
+- ⚪ — направление предусмотрено / видно на горизонте, но сейчас не активировано.
+
+## Шаги развития
+
+- `●` — завершено / подтверждено;
+- `◐` — текущий переход / частично пройдено;
+- `○` — следующий возможный шаг.
+
+Количество `●` и `○` не определяет цвет математически.
+
+## Связи
+
+- `→` — передача;
+- `↔` — feedback loop;
+- `⛓` — dependency.
+
+## Текущая активность
+
+`СЕЙЧАС →` показывает текущий переход.
+
+Зрелость и активность — разные координаты.
+
+Capability может быть 🟢 и находиться на паузе.
+
+Capability может быть 🟡 и активно развиваться.
+
+---
+
+# 2. Карта проекта сверху
+
+                              OWNER
+                                │
+              ┌─────────────────┴─────────────────┐
+              ▼                                   ▼
+      FUNDAMENTAL LAYER                 🗺 PROJECT OVERVIEW
+             🟡                                  🟡
+              │                                   │
+              │                          continuity / connections
+              │                                   │
+              └─────────────────┬─────────────────┘
+                                │
+                                ▼
+                    SYSTEMS / CAPABILITIES
+                                │
+       ┌──────────────┬─────────┼──────────┬──────────────┐
+       ▼              ▼         ▼          ▼              ▼
+    MASTER          NOTION   EDITORIAL   RESEARCH       BOOKS
+      🟡              🟡        🟡          🟢             🟡
+                       │         │           │              │
+                       │         │           └─────⛓───────┘
+                       │         │
+                       │         └── Additional / Modular Editorial 🟡
+                       │
+                       ▼
+               CONTENT STRATEGY
+                       🟡
+                       │
+                дальний горизонт
+                       🟡
+                       │
+                       ▼
+                    PORTFOLIO
+                       🟡
+                       │
+                       ▼
+                  EDITORIAL
+                       │
+                       ▼
+                 PUBLICATION
+                       🟢
+                       │
+              ┌────────┴────────┐
+              ▼                 ▼
+        DISTRIBUTION       BLOG NAVIGATION
+            🟢                 🟡
+              │                 │
+              └────────┬────────┘
+                       ▼
+              AUDIENCE / DISCOVERY
+                       🟡
+                       │
+                       └────────────↔ Notion / Strategy
+
+       ВЗГЛЯД 🟡
+       отдельная развивающаяся ветка;
+       не обязана проходить через editorial pipeline
+
+                                │
+                                ▼
+                  INFRASTRUCTURE / MEMORY
+                                │
+          ┌─────────────────────┴─────────────────────┐
+          ▼                                           ▼
+    GITHUB / ARCHIVE                          CONTINUITY MEMORY
+          🟡                                        🟡
+
+---
+
+# 3. OWNER
+
+**Ответственность:** направление проекта и стратегические решения.
+
+● Owner определяет направление.  
+● Owner утверждает существенные стратегические решения.  
+● ясная задача может идти непосредственно в соответствующую capability.  
+● Master не является обязательным gate.  
+● Project Overview не является supervisor систем.  
+● Owner не должен становиться ручным integration layer между системами.
+
+**Критерий развития:**
+
+> Если capability работает только потому, что Owner вручную помнит и соединяет её части, capability ещё не полностью доказана.
+
+---
+
+# 4. FUNDAMENTAL LAYER — 🟡
+
+**Функция:** удерживать идентичность, authority и фундаментальную архитектуру проекта.
+
+### Подтверждено
+
+● DNA rev 3.1: часть I — основание; часть II — открытое развитие.  
+● ARC-001 — утверждённая карта подготовки корпуса, не готовая Конституция или полный мандат ролей.  
+● различены Constitution / Framework / Policy / Workflow.  
+● определено направление первого нормативного корпуса.
+
+### В развитии
+
+◐ Constitution 1.0.  
+○ FRM-001 Architecture and Authority Framework.  
+○ POL-001 Documents, Decisions and Archive Policy.  
+○ FRM-002 Research, Scripture and Editorial Integrity Framework.  
+○ WF-001 Fundamental Decision Workflow.  
+○ REG-001 Transfer Register.  
+○ POL-002 Automation and Tool Governance Policy — позже.
+
+### Проекты и заготовки
+
+◐ Core_Principles, Editorial_Philosophy и Mission — содержательные концептуальные черновики без нормативной силы по сверке этапа 3.  
+⚪ Language — ранее отмеченная заготовка; отдельно на этапе 6 не проверялась.
+
+Навигация фундаментального корпуса требует отдельного уточнения; это наблюдение, а не поручение на полную ревизию.
+
+**СЕЙЧАС → фундаментальный корпус формируется; не ускорять документацию только ради административной завершённости.**
+
+---
+
+# 5. PROJECT OVERVIEW & CONTINUITY — 🟡
+
+**Функция:** удерживать развивающееся целое, continuity понимания, связи и точки возврата.
+
+### Историческое evidence и существующие документы
+
+● Исторические документы фиксируют Fresh-chat Recovery, Overview, Deep Dive, Side Signal и Delta Review.
+● Рабочий пакет v0.4 Candidate сформирован; v0.1, v0.2 и v0.3 сохранены с преемственностью DM.
+● Snapshot, Development Map, Operational Panel и Decision Memory различены.
+● Post-Audit Snapshot 2026-09-07 сохранён как HISTORICAL / INSUFFICIENT CANDIDATE; Audit Correction Control Point 2026-09-08 остаётся Current.
+
+### Завершённая коррекция и открытая validation
+
+● Этапы 1–9 коррекции аудита завершены; содержательный перенос проверен — 22/22.
+● Project_Map и MASTER_ROADMAP согласованы с рабочими границами Owner.
+● Сводная post-test проверка синхронизировала пакет v0.4, карты и индексы; источник итоговых verdict — [`Follow-up Validation Disposition`](./Project-Overview/Audits/2026-09/Follow_Up_Validation_Disposition_2026-09-09.md).
+● DS-01 Fresh-context write recovery — PASS.
+● DS-02 Correct Stop — PASS в контролируемом сценарии; реальный рабочий случай открыт.
+● DS-04 Observation Restraint — PASS.
+○ DS-03 Temporary-role document work отложен Owner до реальной задачи.
+○ Long-term Re-entry после реального интервала не проверен.
+
+Research role capture обнаружен и частично проверен: основная роль восстановлена в одном fresh context, но положительный Temporary Role Exit и повторяемая устойчивость не доказаны. Correction cycle закрыт; открытая validation не делает роль полностью зрелой.
+
+**СЕЙЧАС → operational use v0.4 Working Candidate; следующий documentation cycle только по material evidence, изменению фундаментального корпуса или обнаруженной рассинхронизации.**
+
+---
+
+# 6. PUBLICATION MASTER — 🟡
+
+**Рабочая область:** архитектурная связность Publication System; временное принятие ограниченного системного вопроса до решения, Handoff и Role Exit.
+
+ARC-001 сохраняет интеграционную функцию Master при формировании нормативного корпуса, но не делает Publication Master универсальным архитектором всех направлений. Coach ведёт конкретные VIA / DIST; Strategist — Portfolio / Content Horizon / Notion; Project Overview — общепроектную карту и continuity; Research leadership не выводится из симметрии с Publication System.
+
+### Подтверждено
+
+● Publication Master ≠ постоянный supervisor Article Lifecycle.  
+● Coach владеет production cycle.  
+● каноническое имя Publication Master; Master Editor — историческое имя.  
+● Role Review RR-2026-007 подтверждён Owner.  
+● recovery-поколение прежнего пакета сохранено и проверено.  
+● Role Package v0.1 Candidate пересобран: 10/10 документов.  
+● Observation before Architecture и Existing Capability Check.  
+● Transfer Threshold, Capability Delta, Handoff и Role Exit.  
+● системная независимость ≠ профильная независимость.
+
+### Текущий переход
+
+● permanent documentation normalization завершена.  
+◐ пакет имеет статус `Awaiting Validation`.  
+○ Fresh-context Recovery Test.  
+○ рабочий experiment `Project Overview → Publication Master → Coach Review → Role Exit → Scale Recovery`.
+
+**СЕЙЧАС → использовать новый пакет для двух validation-сценариев; не расширять документацию до evidence. Обычный VIA/DIST остаётся у Coach.**
+
+---
+
+# 7. NOTION / CONTENT INTELLIGENCE — 🟡
+
+**Функция:** structured working memory и устойчивая содержательная память.
+
+### Подтверждено
+
+● Topics.  
+● Rubrics.  
+● Series.  
+● Human States.  
+● Relations.  
+● Notion ≠ production archive.  
+● Human State ≠ Reader Theme ≠ Blogger Label ≠ Search Query.  
+● selective enrichment.
+
+### Promotion boundary
+
+    raw evidence
+          ↓
+    candidate signal
+          ↓
+    Strategy interpretation
+          ↓
+    durable content intelligence
+          ↓
+        Notion
+
+### Текущий переход
+
+◐ feedback loop после реальной работы.  
+◐ quality of interpretation.  
+◐ promotion boundary через Portfolio / VIA / DIST.
+
+**СЕЙЧАС → не redesign Notion; проверять способность возвращать durable knowledge из реальных циклов.**
+
+---
+
+# 8. ДАЛЬНИЙ СОДЕРЖАТЕЛЬНЫЙ ГОРИЗОНТ — 🟡
+
+**Функция:** видеть содержание дальше ближайшего Portfolio без превращения будущего в обязательный план.
+
+> **Видеть дальше, чем планируем; планировать только то, что достаточно созрело.**
+
+### Подтверждено
+
+● дальний горизонт нужен.  
+● отличается от Portfolio.  
+● работает с возможностями, а не обязательствами.  
+● отдельная тяжёлая knowledge-management architecture не нужна.  
+● Strategic Snapshot создан.
+
+### Текущий переход
+
+◐ capability test через ближайший Portfolio и реальные VIA / DIST cycles.  
+○ проверить сохранение candidate signals.  
+○ проверить Strategy filtering.  
+○ durable knowledge → Notion.  
+○ проверить, что Owner не становится integration layer.
+
+**СЕЙЧАС → наблюдение практики, не redesign.**
+
+---
+
+# 9. CONTENT PORTFOLIO — 🟡
+
+**Функция:** выбирать из пространства возможностей материалы, достаточно зрелые для развития.
+
+### Подтверждено
+
+● Portfolio ≠ Notion.  
+● Portfolio ≠ дальний горизонт.  
+● Portfolio отделяет possibility от development decision.  
+● Portfolio передаёт закрытые upstream decisions в VIA.
+
+### Открытый operational gap
+
+◐ стратегическая capability существует, но простая видимая очередь уже выбранных материалов пока не имеет устойчивого места.
+
+Нужно различить:
+
+> Portfolio = что решено развивать.
+
+> Publication / Production Map = что из уже выбранного сейчас движется через производство и публикацию.
+
+○ проверить необходимость минимальной видимой карты без создания второго Portfolio.
+
+**СЕЙЧАС → использовать Portfolio в реальном цикле и отдельно решить visibility gap.**
+
+---
+
+# 10. EDITORIAL SYSTEM / VIA — 🟡
+
+**Функция:** проводить выбранный материал через достаточный редакционный цикл до стабильного Final Text.
+
+### Новый устойчивый слой
+
+● `VIA/README.md` → canonical VIA Operational Protocol.  
+● VIA Protocol ≠ VIA Template ≠ Concrete VIA ≠ Role Documentation ≠ Development.  
+● Process Map → canonical state authority.  
+● Lifecycle Status отделён от Step Status.  
+● Active Handoff → article-specific task.  
+● Template → минимальный case-file skeleton.  
+● Coach Workflow согласован с новой VIA logic.  
+● Learning не является отдельной capability.  
+● Close классифицирует material evidence и маршрутизирует его в существующие destinations.
+
+### Production distinction
+
+● Final Text Assembly отделён от Publication Package.  
+● SEO / Publication Package отделён от фактической Scheduled / Public Publication.
+
+### Validation
+
+◐ `VIA-2026-018` проходит первый live validation новой VIA architecture.  
+○ довести VIA-018 до Final Close.  
+○ следующий новый VIA проверить на чистом Template.  
+○ после validation определить стабильность Protocol / Template.
+
+**СЕЙЧАС → завершить VIA-2026-018 и наблюдать реальную работу новой VIA architecture.**
+
+---
+
+# 11. EXTERNAL / ADDITIONAL EDITORIAL CAPABILITIES — 🟡
+
+### External Literary Editor
+
+● Recovery завершён.  
+● capability восстановлена достаточно для live work.  
+● Working Core сохранён.  
+● Role Redesign не требуется.  
+◐ live validation через реальные материалы.  
+○ permanent role documentation после достаточного evidence.
+
+Пока permanent documentation отсутствует, используется переходный minimal launcher:
+
+> Working Core = capability.  
+> VIA = конкретная задача и material context.
+
+В `VIA-2026-018` capability вызывается селективно в режиме final literary polish / control без переоткрытия структуры.
+
+### Modular Editorial
+
+🟡 Full Capability + Minimal Invocation остаётся рабочей гипотезой.
+
+○ проверять композицию capabilities только практикой.  
+○ не создавать модульную архитектуру преждевременно.
+
+---
+
+# 12. PUBLICATION — 🟢
+
+**Функция:** превращать стабильный Final Text в фактически подготовленный и опубликованный материал.
+
+### Подтверждено
+
+● Publication Preparation существует.  
+● SEO publication package существует.  
+● Blogger preparation существует.  
+● Scheduled / Public Publication отделена от Final Text Assembly.
+
+### Текущий переход
+
+◐ проверить новую границу Editorial → Publication на VIA-018.  
+○ накопить evidence нескольких циклов.
+
+**СЕЙЧАС → использовать capability, а не redesign.**
+
+---
+
+# 13. DISTRIBUTION — 🟢
+
+**Функция:** адаптировать и распространять опубликованный материал по каналам.
+
+### Подтверждено
+
+● platform-native adaptation.  
+● production capability.  
+● FB / TG distribution practice.  
+● DIST evidence.
+
+### Не доказано
+
+○ устойчивый external reach.  
+○ acquisition.  
+○ meaningful exposure среди релевантных незнакомых людей.
+
+**СЕЙЧАС → использовать Distribution как действующую capability и источник evidence.**
+
+---
+
+# 14. BLOG ARCHITECTURE / NAVIGATION — 🟡
+
+**Функция:** помочь уже пришедшему читателю двигаться внутри корпуса In Profundo.
+
+● Navigation ≠ Distribution.  
+● публичная страница «Темы» существует как real pilot.  
+◐ usefulness observation.  
+○ следующий structural decision только после evidence.
+
+**СЕЙЧАС → наблюдать, не расширять архитектуру преждевременно.**
+
+---
+
+# 15. AUDIENCE / DISCOVERY — 🟡
+
+**Функция:** понять, встречается ли In Profundo с релевантными незнакомыми людьми и что происходит при этой встрече.
+
+### Подтверждено
+
+● internal maturity ≫ external validation.  
+● publication ≠ distribution.  
+● distribution ≠ discovery.  
+● Discovery / Acquisition Capability Gap существует.  
+● Discovery как primary project constraint пока не доказан.
+
+### Текущий переход
+
+◐ live validation.  
+○ meaningful exposure.  
+○ различить encounter problem и value problem.  
+○ получить достаточный external evidence.
+
+**СЕЙЧАС → evidence before positioning conclusions.**
+
+---
+
+# 16. RESEARCH LAB — 🟢
+
+**Функция:** производить проверяемое исследовательское знание независимо от заранее желаемого применения.
+
+### Foundation
+
+● Recovery CLOSED.  
+● Methodological Normalization CLOSED.  
+● Constitution v0.2 — Current / Active.  
+● Methodology v0.3 — Current / Active.  
+● Research Editor separation — READY.  
+● durable source-of-truth хранит capability.  
+● рабочие chat sessions могут быть заменяемыми.
+
+### IP-001 — 🟡
+
+**Вопрос:**
+
+> Какие действия Новый Завет непосредственно приписывает воскресшему Иисусу Христу после Его Вознесения?
+
+● Protocol v0.2.  
+● Primary Observation Output Contract v0.2.  
+● attribution discipline.  
+● calibration / controlled re-run evidence.  
+◐ готовность к Full NT Corpus Research.
+
+### Следующий operational переход
+
+○ создать минимальный launcher для replaceable Research Editor sessions.  
+◐ начать Full NT Corpus Research.  
+○ Stage 0–4 по корпусу.  
+○ Cross-corpus Verification.  
+○ Broader NT Synthesis.
+
+**СЕЙЧАС → переход от проектирования Research Lab к реальному IP-001 research.**
+
+---
+
+# 17. BOOKS — 🟡
+
+### «Тот, Кто остаётся»
+
+● архитектура книги сформирована.  
+● основной manuscript существует.  
+● Reader Arc сформирован.  
+● Workbook direction сформирован.
+
+### Dependency
+
+    Book
+      ↓
+    Part IV evidence problem
+      ↓
+    IP-001
+      ↓
+    mature Research evidence
+      ↓
+    selective Book Transfer
+
+⛓ часть дальнейшей стабилизации книги зависит от IP-001.
+
+**СЕЙЧАС → не подменять исследование заранее желаемым выводом книги.**
+
+---
+
+# 18. ВЗГЛЯД — 🟡
+
+**Функция:** практическая лаборатория внимания и восприятия.
+
+● направление различено.  
+● первый Strategic Snapshot существует.  
+● photography признана возможным входом, но не определением направления.  
+● practice before architecture.
+
+◐ ожидание реальной практики.  
+○ smallest meaningful experiment при естественном окне.
+
+**СЕЙЧАС → не превращать направление в курс, школу или production system до практического evidence.**
+
+---
+
+# 19. PROJECT MEMORY / CONTINUITY — 🟡
+
+### Подтверждено
+
+● Snapshot package и Snapshot Index существуют; прежняя синхронизация не доказывает полноты переноса текущего аудита.
+● Post-Audit Snapshot 2026-09-07 сохранён как HISTORICAL / INSUFFICIENT CANDIDATE.
+● Audit Correction Control Point 2026-09-08 — текущий Snapshot Project Overview.  
+● CURRENT / CURRENT PROJECT BASELINE / CONCEPT / RECOVERY / HISTORICAL различены.  
+● Development Map существует.  
+● Operational Panel имеет отдельную функцию.  
+● Decision Memory имеет отдельную функцию.
+
+### Правило
+
+> **Слепок хранит понимание.**
+
+> **Карта развития хранит движение.**
+
+> **Рабочая панель хранит текущее действие.**
+
+● отдельный постоянный список «Созревшие ветки» не требуется.
+
+### Текущий переход
+
+◐ поддерживать current navigation без переписывания historical state.  
+○ распознавать значимые стадии понимания, повороты и паузы; предлагать Snapshot и согласовывать создание с Owner. Старые слепки сохраняют правду своего времени.
+
+---
+
+# 20. GITHUB / ARCHIVE / PERMANENT DOCUMENTATION — 🟡
+
+**Функция:** durable source-of-truth проекта.
+
+● GitHub является permanent archive / source-of-truth.  
+● старый Master Roadmap архивирован как `ARH-001-MASTER_ROADMAP.md`.  
+● текущий `MASTER_ROADMAP.md` является Living Development Map.  
+● permanent-doc cycle сформирован.
+
+### Осталось
+
+◐ archive hygiene.  
+○ при накоплении архивных roadmap решить, нужен ли отдельный `Archive` / `Roadmap-Archive`.  
+○ провести selective sweep устаревших experimental / pilot / development documents.
+
+**СЕЙЧАС → не создавать архивную инфраструктуру ради одного файла; закрывать только реальные stale states.**
+
+---
+
+# 21. Ближайший горизонт
+
+## Текущая коррекция Overview — обновлено 2026-09-08
+
+Этапы 1–9 завершены: content transfer PASS, practical validation PARTIAL, итоговый Summary и текущий Snapshot сохранены. Long-term Re-entry остаётся отложенным тестом. Long-term Re-entry отложен.
+
+## Ранее зафиксированный операционный горизонт — 2026-09-05
+
+Следующие переходы VIA, Research и Portfolio требуют проверки актуального состояния перед запуском. Согласование карт их не активирует.
+
+    VIA-2026-018
+          ↓
+    Final Close
+          ↓
+    VIA v2 live validation
+
+## После VIA-018
+
+    старые VIA
+        +
+    открытые Pilots
+        +
+    Experimental / Development docs
+        ↓
+    selective closure sweep
+        ↓
+    KEEP / CLOSE / ARCHIVE / STILL ACTIVE
+
+Цель sweep:
+
+> не переписать историю, а убрать ложные открытые состояния и установить, какие вопросы уже получили ответ практикой.
+
+## Следующая новая работа
+
+    Research Lab 🟢
+          ↓
+    Research Editor launcher
+          ↓
+    IP-001 Full NT Corpus Research
+
+Параллельно:
+
+    Portfolio
+       ↓
+    проверить visibility gap
+       ↓
+    минимальная карта уже выбранных материалов?
+       ↓
+    VIA / Publication
+
+И:
+
+    Distribution
+       ↓
+    meaningful exposure
+       ↓
+    Audience / Discovery evidence
+
+---
+
+# 22. Главный переход проекта
+
+Предыдущий период:
+
+> **восстановить → различить → спроектировать → нормализовать capability**
+
+Ближайший период всё больше становится:
+
+> **использовать → наблюдать → получить evidence → закрыть цикл → сохранить только подтверждённое learning**
+
+Главный риск следующего этапа:
+
+> продолжать улучшать внутреннюю архитектуру быстрее, чем проект использует уже созданные capabilities.
+
+Главный критерий:
+
+> **Новая документация должна возникать из доказанной рабочей необходимости, а не из желания сделать систему административно завершённой.**
