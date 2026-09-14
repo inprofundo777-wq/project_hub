@@ -111,3 +111,15 @@ Snapshot сохраняет достигнутую стадию понимани
 **Канонические источники / commit:** `Editors/Master/README.md` и связанные девять документов; финальная фиксация Change Set — editorial_system commit `cea9bdc5ffd58cdceb98405fc59415bcd616b639`. Project Overview evidence: Development — `35b2bed`; Observation Pool — `0a7ae20`.  
 **Межветочное значение:** прежний recovery-пакет больше не является текущей инструкцией. Любая ветка Publication Master должна входить через актуальный `Editors/Master/README.md`. Первый реальный Convergence Gate получил PASS, но repeatability остаётся открытой.  
 **Следующий шаг:** Fresh-context Recovery Test, затем рабочий experiment `Project Overview → Publication Master → Coach Review → Role Exit → Scale Recovery`.
+
+
+---
+
+## 2026-09-14 — Research Lab Role System v0.1 Implementation
+
+**Ветка / процесс:** Project Overview → Parallel Branch Convergence → Temporary Research System Design → Controlled Implementation → Handoff → Role Exit  
+**Материальный результат:** Owner подтвердил RR-RL-001 и разрешил CS-RL-001 Batch 0–6. Межветочная сверка получила verdict RECONCILED WITH CONDITIONS; условия интегрированы. В research_lab создан минимальный Role System v0.1: общий ролевой слой, Version Registry, четыре standards, пакеты Director / Project Lead / Researcher / Auditor, Research Request Map, Formation, process templates и четыре Wave 1 Recovery assignments. Root README и DEVELOPMENT обновлены. Все версии остаются Candidate Active / Validation Pending. Constitution, Methodology и IP-001 operational documents не изменены; Full IP-001 Restart не разрешён. Operational ownership передан Research Lab Director v0.1 Candidate.  
+**Основание:** решение Owner 14 сентября 2026; RR-RL-001; утверждённый CS-RL-001; Parallel Branch Convergence Report с verdict RECONCILED WITH CONDITIONS.  
+**Канонические источники / commit:** research_lab Role System — старт Batch 1 commit 1624f7df5fa224e164103270822b1c7a68f9e8a5; navigation/status commits 370ab3f83079679b5535dbaffe2a59e69f7f88e8 и 1a690725eb8a76a8397369bf1faa6636a8e80a64; Recovery assignments commit 859d42bcc72f77f191d24288faa682c244c1b5cb; Implementation Handoff commit b0f15bd649af6c3972675380a3c5b575a5dac1aa; final CS disposition commit 96e15e7e04687e6cf3169b899d442bd6fcd8562a.  
+**Межветочное значение:** Research leadership больше не является неопределённой на уровне принятой архитектуры, но capability ещё не validated. Другим веткам нельзя считать роль пакеты зелёными, запускать IP-001 или активировать far-horizon Research Request без явного Strategist/Owner handoff и соответствующего Owner gate. Project Map и общепроектная Development Map содержат stale/неполное описание Research leadership и требуют отдельной разрешённой коррекции.  
+**Следующий шаг:** Wave 1 Fresh-context Recovery для четырёх ролей; затем disposition ADOPT / TEST FURTHER / REVISE / DEFER. Отдельно подготовить project_hub Change Set для точечного обновления Project Map и Development Map. DS-03 получает реальное candidate evidence, но не закрывается до независимой проверки Handoff, Role Exit и Scale Recovery.
