@@ -1,8 +1,8 @@
 # Project Overview & Continuity Partner — Project Map
 
 **Статус:** 🟡 Working / Experimental  
-**Версия:** v0.3 — согласование с пакетом v0.4 Candidate  
-**Дата:** 9 сентября 2026  
+**Версия:** v0.4 — актуализированная Background Map  
+**Дата:** 18 сентября 2026  
 **Назначение:** определить минимальную Background Map In Profundo, которую Project Overview & Continuity Partner должен удерживать при работе с отдельными направлениями.
 
 > Этот документ не является roadmap проекта и не заменяет Strategic Snapshot или Development Map.  
@@ -68,63 +68,117 @@ Project Overview не обязан постоянно обсуждать все 
 
 ## 3.1. Editorial System
 
-**Функция:** превращение материала от идеи до публикации и post-publication learning.
+**Функция:** превращение закрытого содержательного направления в цельный опубликованный материал и сохранение evidence редакционного цикла.
 
 Включает:
 
-- Portfolio / selection;
+- Content Portfolio / selection;
 - VIA;
 - Draft;
-- Review;
+- independent Review;
 - Revision;
+- Finalization;
 - Publication;
 - Distribution handoff;
-- post-publication evidence.
+- post-publication learning.
+
+### Текущее положение — 18 сентября 2026
+
+Publication Role Readiness закрыт с verdict:
+
+> **PASS WITH VALIDATION DEBT**
+
+Blocking debt отсутствует. Система может входить в следующий реальный маршрут: Closed Portfolio → Coach → new VIA. Validation debt остаётся non-blocking и не оправдывает новый документационный цикл до реальной работы.
+
+Ролевой слой сейчас различён так:
+
+- **Publication Master v0.1 Candidate** — архитектурная связность узкой Publication System, system-level и cross-role вопросы; fresh-context recovery пройден, Leadership Continuity стабилизирована и проверена;
+- **Editorial Coach** — orchestration одного конкретного editorial cycle после закрытого Portfolio / Source handoff; пакет стабилизирован, fresh-context Installation / Recovery получил **PASS WITH NON-BLOCKING FINDINGS**;
+- **Longform Editor v0.2** — bounded author целого Draft / Revised Draft внутри закрытого intent; сохраняет responsible discovery, композиционную целостность, required boundaries и protected ground; fresh-context Installation / Recovery получил **PASS WITH NON-BLOCKING FINDINGS**;
+- **специализированные Editors** сохраняют независимость суждения; Coach интегрирует findings, но не присваивает их authority.
+
+Editorial Product Quality остаётся **VALIDATION PENDING**: восстановимость ролей ещё не доказывает, что полный путь улучшает Final Text. Следующий реальный VIA должен сохранить evidence chain:
+
+> Draft → independent Findings → Coach Integration → Revised Draft → Final Text → later product-quality validation
+
+### Текущий Portfolio / VIA control point
+
+- Content-Portfolio-2026-02 закрыт;
+- Near Publication Queue: «Литургия обычного дня» → «Радость, которую не нужно оправдывать» → «Дружба как место духовного формирования» → «Устойчивость как пространство для другого»;
+- первый handoff Portfolio → Coach подготовлен для «Литургии обычного дня»;
+- VIA-2026-020 — «После сотого падения» остаётся Active на шаге Blogger Placement / Publication;
+- новая очередь не активируется автоматически до фактического перехода Owner / Coach.
 
 ### Что отслеживает Project Overview
 
-- зрелость системы;
-- процессные долги;
-- повторяющиеся сбои;
+- реальную продуктовую дельту Draft → Final Text, а не только корректность ролей;
+- process debt и повторяющиеся сбои;
 - перегруз Owner;
-- границы между Coach, Master и редакторами;
-- переход пилотной практики в устойчивую систему.
+- границы между Master, Coach, Longform и независимыми Editors;
+- способность one-link handoff работать без скрытой зависимости от старых веток;
+- переход validation practice в устойчивую production capability.
 
 ### Не делает
 
-Project Overview не ведёт каждый VIA.
+Project Overview не ведёт отдельный VIA, не выполняет Coach Integration и не принимает product-quality verdict вместо соответствующего процесса.
 
 ---
 
 ## 3.2. Research Lab
 
-**Функция:** генерация и проверка знания.
+**Функция:** формирование, выполнение и проверка исследовательской работы до возможного Knowledge Transfer / application.
 
-Основная логика:
+Рабочая authority-линия:
 
-```text
-Источник / Писание
-→ наблюдение
-→ повторение / pattern
-→ verification
-→ synthesis
-→ возможное применение
-```
+> Owner → Research Lab Director → Research Project Lead → Researcher
+
+Research Auditor сохраняется как независимая audit-функция вне operational ownership.
+
+### Текущее положение — 18 сентября 2026
+
+За неделю Research Lab перешёл от неопределённого leadership gap к действующему Role System v0.1:
+
+- Director / Project Lead / Researcher / Auditor оформлены как **Candidate Active / Validation Pending**;
+- введены Package A/B/C, Modes, Role Configuration Lock, authority / escalation и independence standards;
+- Wave 1 Fresh-context Recovery пройден четырьмя ролями;
+- Wave 2 проверяет не только восстановление, но и реальное прохождение Formation → Installation → Research → Gate → Handoff.
+
+Активный validation route:
+
+> **RQ-RL-001 — Generosity, Trust and Entrusted Resources**
+
+Пройдено и закрыто:
+
+- Formation с независимым audit и correction FULL PROJECT → LIMITED PROBE;
+- Existing Research Coverage Review;
+- Narrowed Bounded Limited Review;
+- локализация конкретной primary-text uncertainty.
+
+Текущий рабочий объект:
+
+> **TP-RL-001 — Bounded Textual Probe**
+
+Execution разрешён Researcher v0.1 только для:
+
+- Мф. 6:19–34;
+- Лк. 12:13–34.
+
+Проверяется локальное текстовое основание понимать материальные блага как доверенные Богом для ответственного распоряжения — как возможное отличимое звено между giving и trust/provision. 2 Кор. 8–9 остаётся сравнительным литературным контекстом, но не входит в primary corpus.
+
+Не разрешены corpus expansion, Full Project, downstream application и автоматический переход к следующему маршруту. IP-001 не перезапускался и не изменялся.
 
 ### Что отслеживает Project Overview
 
-- способна ли лаборатория реально выполнять исследование;
-- зрелость Methodology;
-- состояние IP-001;
-- необходимость normalization;
-- разрыв между capability и документацией;
-- состояние паузы / re-entry.
+- превращается ли Role System из Candidate architecture в повторяемую research capability;
+- соблюдаются ли Formation / Installation / Research / Audit boundaries;
+- сохраняются ли negative result, uncertainty и proportionality;
+- уменьшается ли ручная административная нагрузка Owner благодаря одному Run Record;
+- завершается ли validation корректным Role Exit и Scale Recovery;
+- какое durable развитие требуется после Wave 2, а что должно остаться project-specific.
 
 ### Текущая граница
 
-Research Lab не размораживается автоматически.
-
-Пауза может быть зрелым состоянием, а не проблемой. Зрелость, активность, приоритет и осуществимость проверяются отдельно по актуальным источникам. Постоянная модель Research leadership не определена; Overview может участвовать временно по поручению Owner, с передачей понимания системы и отдельной проверкой Task Exit / Role Exit / Scale Recovery.
+Активность RQ-RL-001 не равна разрешению Full Project или разморозке IP-001. Каждый новый route остаётся отдельным Director / Owner gate. Research findings не должны определяться будущей статьёй, книгой или другим application.
 
 ---
 
@@ -190,7 +244,7 @@ Research Lab не размораживается автоматически.
 
 ## 3.5. Notion / Content Intelligence
 
-**Функция:** рабочая память содержания и карта идей.
+**Функция:** долговременная структурированная память содержания и карта будущих редакционных решений.
 
 Основные объекты:
 
@@ -199,20 +253,44 @@ Research Lab не размораживается автоматически.
 - Series;
 - Human States;
 - тематические связи;
-- потенциально search/life questions;
-- portfolio intelligence.
+- search / life questions;
+- portfolio intelligence;
+- research-shaped content signals.
+
+### Текущее положение — 18 сентября 2026
+
+Capability test VIA-2026-012–019 → Notion Content Intelligence получил **PASS**.
+
+Подтверждён обратный поток:
+
+> VIA / Publication evidence → Strategy filtering → durable Content Intelligence → Notion Topic Card
+
+Notion не становится вторым production tracker и не хранит полный VIA. В него возвращается только знание, способное изменить будущие редакционные решения.
+
+Фактическая синхронизация выполнена для **26 существующих карточек**:
+
+- 15 публикаций 2025 года;
+- 11 публикаций первой половины 2026 года;
+- проверены VIA, VIA URL, Blogger URL, дата, Статус = опубликовано, Опубликовано? и канал блог;
+- дубли не создавались.
+
+Содержательное enrichment этих 26 карточек не выполнялось автоматически.
+
+Content-Portfolio-2026-02 содержит отдельный selective update package для Queue, Reserve и research cards. Полная физическая запись Far Horizon и всего Candidate Package в Notion не требуется.
 
 ### Что отслеживает Project Overview
 
-- сохраняется ли исходная функция Idea Incubation + Portfolio Balance;
-- не превращается ли Notion в дублирующий production archive;
+- сохраняется ли функция Idea Incubation + Portfolio Balance;
 - работает ли feedback из публикаций обратно в content intelligence;
-- помогает ли Notion выбирать дальнейшие материалы.
+- не дублируются ли GitHub production states;
+- выполнены ли точечные updates второго Portfolio;
+- появилось ли минимальное различение публикационного статуса и жизненного цикла research cards.
 
 ### Граница
 
-> **GitHub хранит durable artifact / evidence.  
-> Notion хранит structured content intelligence.**
+> **GitHub хранит durable artifact / evidence. Notion хранит structured content intelligence.**
+
+Owner получает подготовленный update package, а не обязан вручную интегрировать две системы.
 
 ---
 
@@ -238,17 +316,33 @@ Research Lab не размораживается автоматически.
 
 ---
 
-## 3.7. Master
+## 3.7. Publication Master
 
-**Рабочая область по уточнению Owner:** архитектура Publication System и концептуальная неопределённость внутри этой области.
+**Рабочая область:** архитектурная связность Publication System и концептуальная неопределённость внутри этой области.
 
-Master не является универсальным получателем неясных идей и проблем In Profundo. Вопросы Research или ещё не определившегося направления не направляются ему автоматически.
+Publication Master не является универсальным получателем неясных идей In Profundo. Research, Portfolio ownership и общепроектная continuity не переходят к нему автоматически.
 
-ARC-001 отдельно сохраняет интеграционную функцию Master при формировании нормативного корпуса: согласованность и различение нормативных уровней без учредительной власти. Это не устанавливает универсальный архитектурный мандат над всеми направлениями.
+### Текущее положение
+
+Постоянный пакет пересобран как **Publication Master v0.1 Candidate**. Fresh-context Recovery получил **PASS**; Leadership Continuity targeted stabilization проверена.
+
+Пакет теперь явно сохраняет:
+
+- primary role;
+- primary Owner assignment;
+- отличие основной задачи от текущего bounded этапа;
+- обработку нового material Owner input через ОТРАЗИТЬ → КЛАССИФИЦИРОВАТЬ → РАЗМЕСТИТЬ → ОПРЕДЕЛИТЬ ВЛИЯНИЕ → НАЗВАТЬ НЕИЗМЕННОЕ;
+- predominantly Russian owner-facing semantic interface;
+- Role Exit после завершения bounded assignment.
+
+Publication Master закрыл Publication Role Readiness и не удерживает operational ownership следующего VIA.
 
 ### Связь с Project Overview
 
-Overview определяет масштаб вопроса и место области в целом. Архитектурный вопрос Publication System передаётся Master, ведение Publication / Distribution — Coach, Portfolio / Content Horizon / Notion — Strategist. Ясная задача может сразу поступить соответствующему исполнителю. Overview не является gate или supervisor.
+Overview определяет масштаб вопроса и место области в целом. Архитектурный вопрос Publication System передаётся Publication Master, ведение конкретного Publication / Distribution cycle — Coach, авторство Draft / Revised Draft — Longform, Portfolio / Content Horizon / Notion — Strategist.
+
+Project Overview не является gate или supervisor этих ролей.
+
 ---
 
 ## 3.8. Owner Journal
@@ -311,10 +405,11 @@ Project Overview может позднее обнаруживать повтор
 | Область / роль | Рабочая связь | Граница |
 |---|---|---|
 | Owner | Направление и стратегические решения | Overview помогает удерживать целое |
-| Master | Архитектура Publication System | Не универсальный получатель неопределённости |
-| Coach | Ведение Publication и Distribution | Overview не ведёт каждый VIA / DIST |
+| Publication Master | Архитектурная связность Publication System; role/system-level вопросы | Не управляет каждым VIA и не владеет Research / Portfolio / project continuity |
+| Editorial Coach | Orchestration конкретного Publication / Distribution cycle | Входит после закрытого Portfolio / Source handoff; не переписывает Strategy или permanent architecture |
+| Longform Editor | Цельное авторство Draft / Revised Draft внутри закрытого intent | Не интегрирует собственные независимые Reviews и не объявляет Final Text готовым |
 | Strategist | Portfolio, Content Horizon, Notion / Content Intelligence | Не всякий горизонт проекта заранее принадлежит Strategist |
-| Research Lab | Проверяемое знание; возможное применение в материалах и книге | Постоянный leadership не определён; исследование независимо от желаемого применения |
+| Research Lab | Director → Project Lead → Researcher; independent Auditor | Role System v0.1 остаётся Candidate; каждый новый route Owner-gated; application не управляет findings |
 | Publication → Distribution → Audience / Discovery | Публикация, адаптация, затем evidence встречи с читателем | Производство не доказывает внешний reach или ценность |
 | Audience / Discovery ↔ Notion / Strategy | Обратная связь о читательском опыте и содержании | Наблюдение проходит интерпретацию до durable knowledge |
 | Book, «Взгляд», будущие направления | Самостоятельные продукты и горизонты в общей карте | Не обязаны проходить один pipeline |
