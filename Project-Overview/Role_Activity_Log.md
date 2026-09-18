@@ -135,3 +135,14 @@ Snapshot сохраняет достигнутую стадию понимани
 **Межветочное значение:** новые Project Overview ветки должны читать `Project_Map.md` v0.4. Нельзя предполагать, что IP-001 разморожен, Full Research Project разрешён, Editorial Product Quality уже validated, новый Portfolio/VIA cycle автоматически активирован или весь Portfolio 02 должен быть физически перенесён в Notion.  
 **Следующий шаг:** получить результат `TP-RL-001` и пройти следующий Research gate; завершить публикационный шаг `VIA-2026-020`, затем отдельно активировать первый реальный Portfolio → Coach cycle; выполнить selective Notion update для Portfolio 02; проверить Editorial Product Quality на следующем полном цикле Draft → Review → Revision → Final Text.
 
+---
+
+## 2026-09-18 — Development Map Visual-State Correction
+
+**Ветка / процесс:** Project Overview → Owner Correction → Development Map Delta  
+**Материальный результат:** восстановлена правильная функция `MASTER_ROADMAP.md` как карты зрелости. Сохранена canonical нотация 🟢 / 🟡 / 🔴 / ⚪ и `● / ◐ / ○`. Большие завершённые блоки Content Portfolio, Far Content Horizon и Publication показаны зелёными без повторного внутреннего development checklist; жёлтые блоки показывают только закрытые evidence points, текущий переход и следующий проверяемый шаг. Недельная дельта Research Lab, Publication Master / Coach / Longform, Portfolio → VIA и Notion перенесена именно в Development Map.  
+**Основание:** поправка Owner: карта должна показывать зрелость блока светофором и состояние внутренних шагов маленькими кругами; полностью закрытый блок может быть свёрнут до зелёного статуса.  
+**Канонический источник / commit:** `MASTER_ROADMAP.md`, commit `14f6c32db581da25d0b539a2ed09a882fe943e0e`.  
+**Межветочное значение:** `Project_Map.md` v0.4 остаётся Background Map областей и границ; `MASTER_ROADMAP.md` хранит зрелость и переходы. Эти документы не следует подменять друг другом.  
+**Следующий шаг:** при следующей weekly delta менять цвет большого блока только по evidence зрелости; у незавершённых блоков обновлять `● / ◐ / ○`, не разворачивая уже закрытые зелёные блоки.
+
