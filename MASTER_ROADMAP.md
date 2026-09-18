@@ -3,7 +3,7 @@
 **Тип:** Living Development Map  
 **Статус:** 🟢 Active Working Map  
 **Базовая проверка направлений:** 2026-09-05  
-**Полная project-level сверка:** 2026-09-12 — Project Overview recovery + Parallel Branch Convergence + live publication state  
+**Полная project-level сверка:** 2026-09-18 — weekly Delta Review + Parallel Branch Convergence  
 **Назначение:** карта зрелости, движения и связей основных capabilities In Profundo
 
 ---
@@ -58,52 +58,42 @@ Development Map отвечает на три вопроса:
 
 # 2. Карта проекта сверху
 
-                              OWNER
-                                │
-              ┌─────────────────┴─────────────────┐
-              ▼                                   ▼
-      FUNDAMENTAL LAYER                 🗺 PROJECT OVERVIEW
-             🟡                                  🟡
-              │                                   │
-              │                          continuity / connections
-              └─────────────────┬─────────────────┘
-                                │
-                                ▼
-                    SYSTEMS / CAPABILITIES
-                                │
-       ┌──────────────┬─────────┼──────────┬──────────────┐
-       ▼              ▼         ▼          ▼              ▼
- PUBLICATION        NOTION   EDITORIAL   RESEARCH       BOOKS
-   MASTER 🟡          🟡        🟡          🟢             🟡
-                       │         │           │              │
-                       │         │           └─────⛓───────┘
-                       │         ▼
-                       │     PUBLICATION 🟢
-                       │         │
-                       ▼         ▼
-               CONTENT STRATEGY / PORTFOLIO 🟡
-                       │         │
-                       │         └──→ DISTRIBUTION
-                       │                 ├── Telegram 🟢 / lightweight
-                       │                 └── Facebook 🟡 / experiment
-                       │
-                       ▼
-               AUDIENCE / DISCOVERY 🟡
-                       │
-                       └────────────↔ Notion / Strategy
+Карта показывает зрелость больших capabilities. Для 🟡 / ⚪ блоков рядом указаны только незавершённые переходы; завершённые внутренние шаги не разворачиваются повторно.
 
-       ВЗГЛЯД 🟡
-       отдельная развивающаяся ветка;
-       не обязана проходить через editorial pipeline
+| Большой блок | Зрелость | Незавершённый переход |
+|---|---:|---|
+| Fundamental Layer | 🟡 | ◐ оставшиеся reviews → ○ интеграционная редакция |
+| Project Overview / Continuity | 🟡 | ◐ повторяемость Convergence → ○ long-term re-entry |
+| Publication Master | 🟡 | ◐ Candidate validation debt → ○ operational repeatability |
+| Notion / Content Intelligence | 🟡 | ◐ selective Portfolio 02 update → ○ research-card lifecycle |
+| Far Content Horizon | 🟢 | |
+| Content Portfolio | 🟢 | |
+| Editorial System / VIA | 🟡 | ◐ первый полный production cycle после role stabilization → ○ Product Quality verdict |
+| Publication | 🟢 | |
+| Distribution | 🟢 capability / 🟡 channels | ◐ lightweight Telegram + Facebook experiment → ○ external reach evidence |
+| Audience / Discovery / SEO | 🟡 | ◐ live evidence → ○ encounter/value distinction |
+| Research Lab | 🟡 | ◐ TP-RL-001 execution → ○ route gate / repeatability verdict |
+| Books | 🟡 | ⛓ mature Research evidence |
+| «Взгляд» | ⚪ | ○ smallest meaningful experiment |
+| GitHub / Archive / Automation | 🟡 | ◐ one-link Run Record practice → ○ repeatability |
+| External Orchestration | ⚪ | paused |
 
-                                │
-                                ▼
-                  INFRASTRUCTURE / MEMORY
-                                │
-          ┌─────────────────────┴─────────────────────┐
-          ▼                                           ▼
-    GITHUB / ARCHIVE                          CONTINUITY MEMORY
-          🟡                                        🟡
+### Основная рабочая связка
+
+```text
+Portfolio 🟢
+→ Coach / Editorial cycle 🟡
+→ Publication 🟢
+→ Distribution / Audience evidence 🟡
+↔ Notion / Strategy 🟡
+
+Research Lab 🟡
+→ bounded research output
+→ отдельный Owner gate
+→ возможный Knowledge Transfer
+```
+
+Зрелость блока не равна его текущей активности: зелёная capability может быть на паузе, а жёлтая — находиться в активной проверке.
 
 ---
 
@@ -175,188 +165,101 @@ Mission и Core Principles остаются project-level conceptual drafts бе
 ### Подтверждено
 
 ● пакет v0.4 Candidate действует как Working Candidate.  
-● Audit Correction завершён; содержательный перенос проверен 22/22.  
-● DS-01 Fresh-context write recovery — PASS.  
-● DS-02 Correct Stop — PASS в контролируемом сценарии; реальный рабочий случай остаётся открытым.  
-● DS-04 Observation Restraint — PASS.  
-● Role Activity Log и Parallel Branch Convergence Gate введены как Working Pilot.  
-● первый реальный Parallel Branch Convergence получил PASS: принимающая ветка обнаружила уже выполненное архивирование Publication Master и не повторила операцию.  
+● Audit Correction, DS-01, DS-02 и DS-04 завершены.  
+● Role Activity Log и Parallel Branch Convergence Gate действуют как Working Pilot.  
+● несколько реальных межветочных передач сведены без повторения уже выполненной работы.  
+● weekly Delta Review 18 сентября свёл Research Lab, Editorial System, Portfolio / VIA и Notion в актуальную Background Map.  
 ● Project Overview сохраняет основную роль при Owner и не становится управляющим центром систем.
 
 ### Открытая validation
 
-◐ повторяемость Parallel Branch Convergence.  
+◐ повторяемость Parallel Branch Convergence и one-link re-entry.  
 ○ real Temporary Role Exit / DS-03 при естественной задаче.  
-○ real Correct Stop в рабочем процессе.  
-○ Long-term Re-entry после реального интервала.
+○ Long-term Re-entry после реального интервала.  
+○ новый project-level Snapshot после закрытия ближайших production / research gates.
 
-### Snapshot state
-
-● Audit Correction Control Point 2026-09-08 остаётся текущим Snapshot Project Overview.  
-◐ project-level baseline 2026-08-30 всё ещё формально Current Project Baseline, но уже не отражает весь новый operational state.
-
-**СЕЙЧАС → использовать v0.4 как рабочую capability; перед material cross-branch action выполнять Convergence Gate; не расширять документацию без нового evidence.**
+**СЕЙЧАС → использовать актуальные `Project_Map.md` и `MASTER_ROADMAP.md` как две разные координаты: первая хранит области и границы, вторая — зрелость и переходы.**
 
 ---
 
 # 6. PUBLICATION MASTER — 🟡
 
-**Рабочая область:** архитектурная связность узкой Publication System; временное принятие ограниченного системного вопроса до решения, Handoff и Role Exit.
+**Функция:** архитектурная связность Publication System и ограниченные system-level / cross-role вопросы.
 
-### Подтверждено
+### Закрыто
 
-● каноническое имя — Publication Master; Master Editor — историческое имя.  
-● RR-2026-007 утверждён Owner как Final Analytical Review.  
-● общепроектные continuity, horizons и roadmapping не принадлежат Publication Master.  
-● recovery-поколение прежнего пакета архивировано и проверено.  
-● новый Publication Master Role Package v0.1 Candidate пересобран: 10/10 документов.  
-● Change Set имеет статус `Implemented / Documentation Updated / Awaiting Validation`.  
-● Observation before Architecture, Existing Capability Check, Transfer Threshold, Capability Delta, Handoff и Role Exit встроены в новый пакет.
+● пакет Publication Master v0.1 Candidate пересобран.  
+● Fresh-context Recovery — PASS.  
+● Leadership Continuity targeted stabilization — VERIFIED.  
+● Publication Role Readiness закрыт: PASS WITH VALIDATION DEBT; blocking debt отсутствует.  
+● границы Master / Coach / Longform / Strategist восстановлены однозначно.  
+● Master завершает bounded assignment через Handoff и Role Exit, не удерживая следующий VIA.
 
-### Текущий переход
+### Осталось доказать
 
-◐ пакет `Awaiting Validation`.  
-○ Fresh-context Recovery Test.  
-○ рабочий experiment `Project Overview → Publication Master → Coach Review → Role Exit → Scale Recovery`.
+◐ non-blocking validation debt накапливает evidence в реальной работе, без нового redesign.  
+○ повторяемость system-level handoff в следующем естественном случае.
 
-**СЕЙЧАС → провести ограниченную validation нового пакета; не запускать новый redesign Publication Master. Обычные VIA принадлежат Coach.**
+**СЕЙЧАС → не запускать новую нормализацию Master; использовать роль только при реальном архитектурном вопросе Publication System.**
 
 ---
 
 # 7. NOTION / CONTENT INTELLIGENCE — 🟡
 
-**Функция:** structured working memory и устойчивая содержательная память.
+**Функция:** долговременная структурированная память содержания и карта будущих редакционных решений.
 
-### Подтверждено
+### Закрыто
 
-● Topics, Rubrics, Series, Human States и Relations существуют.  
-● Notion ≠ production archive.  
-● Human State ≠ Reader Theme ≠ Blogger Label ≠ Search Query.  
-● selective enrichment подтверждён отдельным historical synchronization pass.  
-● `VIA-2026-012–019 → Notion Content Intelligence` синхронизированы историческим консолидированным проходом.  
-● GitHub / VIA удерживает material, evidence и process history; Notion — current substantive understanding.  
-● не требуется переносить Draft, Reviews, Process Map, SEO package, Distribution packages и административную хронологию VIA.
-
-### Promotion boundary
-
-    raw evidence
-          ↓
-    candidate signal
-          ↓
-    Strategy interpretation
-          ↓
-    durable content intelligence
-          ↓
-        Notion
+● capability test `VIA-2026-012–019 → Notion Content Intelligence` — PASS.  
+● подтверждена граница: GitHub хранит durable artifact / evidence, Notion — structured content intelligence.  
+● 26 существующих карточек фактически синхронизированы: 15 публикаций 2025 года и 11 публикаций первой половины 2026 года.  
+● проверены VIA, VIA URL, Blogger URL, дата, публикационный статус и канал; дубли не создавались.  
+● Notion не превращён во второй production tracker.
 
 ### Текущий переход
 
-◐ `VIA-2026-020` выполняет первый live Content Intelligence Feedback Test.  
-○ на Close определить `0–3` material signals либо `No material content-intelligence signal`.  
-○ Strategy фильтрует candidate signal до durable knowledge.  
-○ только durable knowledge получает exact Notion update.
+◐ selective update package для Queue, Reserve и research cards второго Portfolio.  
+○ минимально различить publication status и research lifecycle.  
+○ продолжать возвращать только отфильтрованное durable learning, а не весь VIA / Far Horizon.
 
-### Граница
-
-Новая архитектура feedback loop не требуется; ретроспективное обогащение всех карточек не запускается.
-
-**СЕЙЧАС → завершить live feedback test внутри VIA-2026-020; сохранять feedback постепенным и избирательным.**
+**СЕЙЧАС → выполнить выборочное обновление Portfolio 02; не запускать массовое content enrichment 26 карточек без отдельного решения.**
 
 ---
 
-# 8. ДАЛЬНИЙ СОДЕРЖАТЕЛЬНЫЙ ГОРИЗОНТ — 🟡
+# 8. ДАЛЬНИЙ СОДЕРЖАТЕЛЬНЫЙ ГОРИЗОНТ — 🟢
 
-**Функция:** видеть содержание дальше ближайшего Portfolio без превращения будущего в обязательный план.
-
-> **Видеть дальше, чем планируем; планировать только то, что достаточно созрело.**
-
-### Подтверждено
-
-● дальний горизонт нужен и отличается от Portfolio.  
-● отдельная тяжёлая knowledge-management architecture не нужна.  
-● Strategic Snapshot существует.  
-● второй Portfolio уже различает Near Publication Horizon и Far Development Horizon внутри реального Strategy cycle.  
-● Far Development Horizon не считается Reserve и не создаёт обязательства реализации.
-
-### Текущий переход
-
-◐ проверить это различение через закрытие `Content Portfolio 2026-02`.  
-○ проверить сохранение candidate signals без расширения ближайшей очереди.  
-○ durable knowledge → Notion только после Strategy interpretation.
-
-**СЕЙЧАС → удерживать Far Horizon как потенциал, не превращать его в production plan.**
+Capability подтверждена закрытием второго Content Portfolio: Near Publication Queue, Reserve, research-led candidates и Far Development Horizon различены без превращения всего будущего в production plan.
 
 ---
 
-# 9. CONTENT PORTFOLIO — 🟡
+# 9. CONTENT PORTFOLIO — 🟢
 
-**Функция:** выбирать из пространства возможностей материалы, достаточно зрелые для развития.
-
-### Доказано первым циклом EXP-001
-
-● заранее выбранный буфер сохранял полезность несколько недель.  
-● темы не требовали нового стратегического выбора внутри каждого VIA.  
-● Portfolio Cards удерживали центральный вопрос, связь с корпусом, риски и readiness.  
-● Reader и SEO давали разные типы evidence.  
-● Owner мог запускать следующий VIA одной ссылкой на уже выбранную тему.  
-● Notion оказался полезен как content memory, но не production tracker.
-
-### Первый Portfolio
-
-◐ последний активный item первого Portfolio — `VIA-2026-020`, «После сотого падения».  
-○ после его закрытия первый publication queue практически завершает свой operational cycle.
-
-### Второй Portfolio — `Content-Portfolio-2026-02`
-
-● предварительный Strategist analysis завершён.  
-● Near Publication Horizon и Far Development Horizon различены.  
-● Strategy Draft завершён 12 сентября 2026.  
-◐ следующий этап — Reader Review.  
-○ SEO Review.  
-○ Strategy Integration.  
-○ Strategy Close.  
-○ Closed Portfolio → Owner → Coach → VIA.
-
-**СЕЙЧАС → довести второй Portfolio до Strategy Close без активации кандидатов до закрытия процесса.**
+Capability подтверждена двумя циклами: Portfolio сохраняет готовую очередь, границы и readiness, а Owner может передать Coach одну ссылку на закрытый handoff. `Content-Portfolio-2026-02` закрыт; первый следующий handoff подготовлен для «Литургии обычного дня». Новая тема не активируется автоматически до отдельного Owner / Coach перехода.
 
 ---
 
 # 10. EDITORIAL SYSTEM / VIA — 🟡
 
-**Функция:** проводить выбранный материал через достаточный редакционный цикл до стабильного Final Text и publication handoff.
+**Функция:** проводить выбранный материал через достаточный редакционный цикл до стабильного Final Text, публикации и learning.
 
-### Устойчивый слой
+### Закрыто
 
-● `VIA/README.md` → canonical VIA Operational Protocol.  
-● VIA Protocol ≠ VIA Template ≠ Concrete VIA ≠ Role Documentation ≠ Development.  
-● Process Map → canonical state authority.  
-● Lifecycle Status отделён от Step Status.  
-● Current Handoff → article-specific task.  
-● Template → минимальный case-file skeleton.  
-● Coach Workflow согласован с VIA logic.  
-● Final Text Assembly отделён от Publication Package.  
-● SEO Publication Package отделён от фактической Scheduled / Public Publication.  
-● Close классифицирует material evidence и маршрутизирует его в существующие destinations.
+● VIA Protocol и stage / lifecycle boundaries существуют.  
+● Publication Role Readiness — PASS WITH VALIDATION DEBT; blocking debt отсутствует.  
+● Publication Master Fresh-context Recovery — PASS.  
+● Editorial Coach stabilization и Fresh-context Recovery — PASS WITH NON-BLOCKING FINDINGS.  
+● Longform Editor v0.2 Fresh-context Recovery — PASS WITH NON-BLOCKING FINDINGS.  
+● Longform удерживает цельное авторство Draft / Revised Draft; Coach интегрирует независимые findings; Master не управляет отдельным VIA.  
+● `VIA-2026-018` и `VIA-2026-019` дали live protocol evidence.
 
-### Live evidence
+### Текущий переход
 
-● `VIA-2026-018` завершён и дал первый live protocol evidence.  
-● `VIA-2026-019` прошёл compressed independent Reviews, Coach Integration, Revision, targeted re-checks, Final Text Assembly и Publication Preparation; затем был передан в Blogger publication / scheduled state.  
-● новый cycle показал, что selective re-check возможен без полного повторного Review.  
-● one-link activation blocker был отдельно зафиксирован как evidence, а не скрыт.
+◐ `VIA-2026-020 — После сотого падения`: Blogger Placement / Publication / Close.  
+○ отдельным Owner gate активировать Closed Portfolio 02 → Coach → новый VIA.  
+○ пройти полный evidence chain: Draft → independent Findings → Coach Integration → Revised Draft → Final Text.  
+○ вынести Editorial Product Quality verdict; сейчас он остаётся VALIDATION PENDING.
 
-### Активный VIA
-
-◐ `VIA-2026-020 — После сотого падения`.  
-● Portfolio → VIA / Editorial Brief завершён.  
-● Longform Draft завершён.  
-○ Theology / Reader / Literary Reviews.  
-○ Coach Integrated Review.  
-○ Revision / Finalization / Required Re-checks.  
-○ Publication / Close.  
-◐ параллельно — Live Content Intelligence Feedback Test.
-
-**СЕЙЧАС → завершить VIA-2026-020 как последний item первого Portfolio; использовать его как production cycle и live feedback validation, а не как повод для нового redesign.**
+**СЕЙЧАС → завершить VIA-2026-020, затем проверить стабилизированные роли на одном реальном цикле; не подменять product-quality evidence новой документацией.**
 
 ---
 
@@ -387,22 +290,7 @@ Mission и Core Principles остаются project-level conceptual drafts бе
 
 # 12. PUBLICATION — 🟢
 
-**Функция:** превращать стабильный Final Text в фактически подготовленный и опубликованный материал.
-
-### Подтверждено
-
-● Publication Preparation существует.  
-● SEO Publication Package существует.  
-● Blogger preparation существует.  
-● Scheduled / Public Publication отделена от Final Text Assembly.  
-● несколько VIA прошли границу Editorial → Publication.
-
-### Текущий переход
-
-◐ `VIA-2026-020` должен пройти тот же реальный publication route.  
-○ продолжать накапливать operational evidence без отдельного redesign.
-
-**СЕЙЧАС → публикация является главным operational focus проекта.**
+Capability подтверждена несколькими реальными переходами Final Text → Publication Preparation → Blogger / Public Publication. Текущая активность — завершение Blogger Placement / Publication для `VIA-2026-020`; это operational work, а не незакрытая зрелость capability.
 
 ---
 
@@ -485,36 +373,34 @@ Mission и Core Principles остаются project-level conceptual drafts бе
 
 ---
 
-# 16. RESEARCH LAB — 🟢 capability / IP-001 🟡
+# 16. RESEARCH LAB — 🟡
 
-**Функция:** производить проверяемое исследовательское знание независимо от заранее желаемого применения.
+**Функция:** формировать, выполнять и независимо проверять исследовательскую работу до возможного Knowledge Transfer / application.
 
-### Foundation
+### Закрыто за неделю
 
-● Recovery CLOSED.  
-● Methodological Normalization CLOSED.  
-● Constitution v0.2 — Current / Active.  
-● Methodology v0.3 — Current / Active.  
-● Research Editor separation — READY.  
-● durable source-of-truth хранит capability.  
-● рабочие chat sessions могут быть заменяемыми.
+● Role System v0.1 реализован: Director → Project Lead → Researcher; Auditor независим от operational ownership.  
+● Director / Project Lead / Researcher / Auditor имеют статус Candidate Active / Validation Pending.  
+● Packages A/B/C, Modes, Role Configuration Lock, authority / escalation и independence standards введены.  
+● Wave 1 Fresh-context Recovery пройден четырьмя ролями.  
+● Formation `RQ-RL-001 — Generosity, Trust and Entrusted Resources` прошла independent audit.  
+● route исправлен: FULL PROJECT → LIMITED PROBE.  
+● Existing Research Coverage Review завершён.  
+● Narrowed Bounded Limited Review завершён; specific textual uncertainty локализована.  
+● `TP-RL-001` установлен и получил Owner execution authorization.
 
-### IP-001
+### Текущий переход
 
-● Protocol v0.2.  
-● Primary Observation Output Contract v0.2.  
-● attribution discipline.  
-● calibration / controlled re-run evidence.  
-◐ готовность к Full NT Corpus Research.
+◐ Researcher выполняет `TP-RL-001` только по Мф. 6:19–34 и Лк. 12:13–34.  
+○ Project Lead принимает / возвращает Probe по OC1.  
+○ Director проводит route re-evaluation; следующий route требует отдельного Owner gate.  
+○ Wave 2 формирует evidence повторяемости Role System, Handoff, Role Exit и one-link Run Record.
 
-### Активность
+### Граница
 
-⚪ capability готова, но текущий project-level priority — publication work.  
-○ минимальный Research Editor launcher при возвращении.  
-○ Full NT Corpus Research.  
-○ Cross-corpus Verification / Broader NT Synthesis.
+2 Кор. 8–9 остаётся comparative literature context, не primary corpus. Corpus expansion, Full Project, downstream application и следующий route не разрешены. `IP-001` не перезапускался и не изменялся.
 
-**СЕЙЧАС → не redesign Research Lab; сохранять готовность к re-entry и возвращаться к IP-001 после ближайшего publication block.**
+**СЕЙЧАС → завершить bounded Textual Probe и только затем определить следующий Research gate.**
 
 ---
 
@@ -639,73 +525,57 @@ Mission и Core Principles остаются project-level conceptual drafts бе
 
 # 22. БЛИЖАЙШИЙ ГОРИЗОНТ
 
-## NOW — публикационный блок
+## NOW
 
-    VIA-2026-020
-          ↓
-    Reviews / Revision / Publication
-          ↓
-    Close
-          ↓
-    Content Intelligence Feedback Test
+### Publication
 
-Параллельно:
+```text
+VIA-2026-020
+→ Blogger Placement / Publication
+→ Close
+```
 
-    Content Portfolio 2026-02
-          ↓
-    Reader Review
-          ↓
-    SEO Review
-          ↓
-    Strategy Integration
-          ↓
-    Strategy Close
-          ↓
-    Closed Portfolio → Owner → Coach → next VIA
+### Research Lab
 
-## NEXT — validation без нового redesign
+```text
+TP-RL-001 execution
+→ Project Lead OC1 acceptance
+→ Director route re-evaluation
+→ Owner gate
+```
 
-    Publication Master v0.1 Candidate
-          ↓
-    Fresh-context Recovery Test
-          ↓
-    real handoff experiment
-          ↓
-    Role Exit / Scale Recovery evidence
+## NEXT
+
+```text
+Closed Content Portfolio 02
+→ Owner activation
+→ Editorial Coach
+→ new VIA
+→ Longform + independent Editors
+→ Final Text
+→ Editorial Product Quality verdict
+```
 
 И:
 
-    Project Overview
-          ↓
-    следующий material Parallel Branch Convergence
-          ↓
-    repeatability evidence
+```text
+Portfolio 02 selective update
+→ Notion Queue / Reserve / research cards
+→ no wholesale Far Horizon transfer
+```
 
 ## MAINTAIN / EXPERIMENT
 
-    Telegram
-      → lightweight channel production
-
-    Facebook
-      → experimental native formats
-      → comparative evidence
-
-    Notion
-      → selective live feedback only
+- Telegram → lightweight channel production.
+- Facebook → experimental platform-native formats.
+- Project Overview → one-link re-entry and repeated Convergence Gate.
 
 ## PAUSED / WATCH
 
-    Research Lab / IP-001
-      → ready for re-entry after publication block
-
-    Book
-      → dependency on Research evidence
-
-    External Orchestrator
-      → paused until workload / economics justify return
-
-    Взгляд
-      → preserve concept, no production system
+- `IP-001` → не разморожен текущим Research route.
+- Book → зависит от mature Research evidence.
+- External Orchestrator → paused до доказанной нагрузки и экономики.
+- «Взгляд» → концепция сохранена, production system не строится.
 
 ---
 
@@ -717,16 +587,18 @@ Mission и Core Principles остаются project-level conceptual drafts бе
 
 Текущий период:
 
-> **публиковать → использовать созданные capabilities → наблюдать → получить evidence → закрыть цикл → сохранить только подтверждённое learning**
+> **использовать стабилизированные роли в реальной работе → собирать evidence результата → закрывать gates без ручной реконструкции Owner**
 
-Главный риск следующего этапа:
+Три ближайших доказательства:
 
-> продолжать улучшать внутреннюю архитектуру быстрее, чем проект использует уже созданные capabilities.
+1. Research Lab завершает `TP-RL-001` и корректно проходит следующий gate.
+2. Editorial System проводит первый полный цикл после стабилизации Master / Coach / Longform и получает Product Quality evidence.
+3. Portfolio → VIA → Notion работает через закрытые handoff и выборочное learning, без превращения Owner в ручной integration layer.
 
-Главный operational приоритет:
+Главный риск:
 
-> **закрыть первый Portfolio через VIA-2026-020 и одновременно подготовить следующий закрытый Portfolio, не создавая между циклами новый слой архитектуры.**
+> спутать завершённость документации с доказанной зрелостью capability — либо, наоборот, продолжать разворачивать уже зелёный блок вместо перехода к следующему реальному результату.
 
 Главный критерий:
 
-> **Новая документация должна возникать из доказанной рабочей необходимости, а не из желания сделать систему административно завершённой.**
+> **зелёный блок больше не требует внутреннего development checklist; жёлтый блок обязан показывать конкретный текущий переход и следующий проверяемый шаг.**
