@@ -180,3 +180,14 @@ Snapshot сохраняет достигнутую стадию понимани
 **Текущее решение:** поднять Snapshot 2026-08-31 как исходную контрольную точку и провести Formation brainstorm до назначения substantive work. Formation должен определить Lead, Contributors, центральный вопрос, границы, способ фиксации этапов / решений / открытых вопросов и implementation boundary.  
 **Cross-system значение:** кейс может использоваться как первый реальный validation case будущей Brainstorm capability, но universal Brainstorm Protocol заранее не вводится.  
 **Следующий шаг:** Project Overview формирует Brainstorm Entry / Formation Proposal и возвращает Owner решение о Lead + participant set + canonical artifact до substantive brainstorm.
+
+
+---
+
+## 2026-09-19 — Notion Brainstorm Scope Refinement: Corpus Discovery First
+
+**Ветка / процесс:** Project Overview → Notion / Content Intelligence → Brainstorm Formation  
+**Материальный результат:** исходный вопрос уточнён: первым объектом анализа является не структура Notion, а Final Text опубликованного VIA-корпуса. Требуется обнаружить существующие content nodes, relations, formats, coverage density, emergent / potential series, reader paths, emotional entries, reader-category candidates и недораскрытые направления; затем перевести доказанную corpus architecture в возможную Notion и Blog reader-entry architecture.  
+**Предварительные участники:** Strategist — Lead candidate; Reader — human-entry / reader-category lens; SEO — search-language / discoverability lens без права задавать внутреннюю taxonomy; Literary / editorial capability — form / recognizability / coverage lens; Publication Master — поздний system-level participant для последствий Notion ↔ publication ↔ navigation; Coach — bounded participant только при material влиянии на VIA orchestration. Project Overview удерживает Formation / continuity.  
+**Граница:** никаких изменений Notion, Blogger navigation или Publication System до Corpus Discovery synthesis и отдельного решения Owner. Candidate lenses «ученик / лидер / служитель / гайд» проверяются корпусом и не считаются заранее утверждёнными категориями.  
+**Следующий gate:** сформировать Brainstorm Entry / Corpus Discovery Output Contract: corpus boundary, Lead, последовательность независимых проходов, living artifact, synthesis и Owner decision point.
