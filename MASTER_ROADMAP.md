@@ -318,7 +318,15 @@ Mission и Core Principles остаются project-level conceptual drafts бе
 ○ минимально различить publication status и research lifecycle.  
 ○ продолжать возвращать только отфильтрованное durable learning, а не весь VIA / Far Horizon.
 
-**СЕЙЧАС → выполнить выборочное обновление Portfolio 02; не запускать массовое content enrichment 26 карточек без отдельного решения.**
+### Следующий development gate
+
+◐ поднять текущий Notion Snapshot и сформировать bounded brainstorm о Content Identity / Recognizability.  
+○ определить Lead и Contributors до substantive brainstorm.  
+○ исследовать Rubrics, labels / hashtags, emotional entry maps, reader paths и thematic relations без предварительного решения о новой taxonomy.  
+○ отдельно проверить границу Internal Content Architecture ↔ Reader / Distribution / Discovery.  
+○ определить только после brainstorm, какие решения требуют изменения Notion, Blogger navigation, Distribution или других систем.
+
+**СЕЙЧАС → сохранить selective Portfolio 02 updates; следующим development шагом провести Formation brainstorm, а не начинать redesign баз.**
 
 ---
 
