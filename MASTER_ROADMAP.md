@@ -318,15 +318,17 @@ Mission и Core Principles остаются project-level conceptual drafts бе
 ○ минимально различить publication status и research lifecycle.  
 ○ продолжать возвращать только отфильтрованное durable learning, а не весь VIA / Far Horizon.
 
-### Следующий development gate
+### Следующий development gate — Corpus Discovery first
 
-◐ поднять текущий Notion Snapshot и сформировать bounded brainstorm о Content Identity / Recognizability.  
-○ определить Lead и Contributors до substantive brainstorm.  
-○ исследовать Rubrics, labels / hashtags, emotional entry maps, reader paths и thematic relations без предварительного решения о новой taxonomy.  
-○ отдельно проверить границу Internal Content Architecture ↔ Reader / Distribution / Discovery.  
-○ определить только после brainstorm, какие решения требуют изменения Notion, Blogger navigation, Distribution или других систем.
+◐ использовать текущий Notion Snapshot как исходную границу, но не начинать redesign баз.  
+◐ сформировать bounded Corpus Discovery по Final Text уже опубликованных VIA.  
+○ подтвердить Strategist или другого Lead после Formation.  
+○ провести независимые линзы Reader, SEO и Literary / editorial capability.  
+○ подключить Publication Master как system-level participant для последующей связи corpus architecture ↔ Notion ↔ publication material ↔ public navigation; Coach — только если решения затрагивают orchestration конкретного VIA.  
+○ обнаружить реальные узлы, связи, формы, coverage, emergent series, reader paths, emotional entries, reader-level candidates и недораскрытые направления.  
+○ только после synthesis решать, какие элементы стоит реализовать в Notion и какие могут улучшить вход читателя на Blogger.
 
-**СЕЙЧАС → сохранить selective Portfolio 02 updates; следующим development шагом провести Formation brainstorm, а не начинать redesign баз.**
+**СЕЙЧАС → Formation → Corpus Discovery. Notion redesign и Blogger navigation changes остаются downstream, пока корпус не даст достаточного основания.**
 
 ---
 
