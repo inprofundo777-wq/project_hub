@@ -2,7 +2,7 @@
 
 **Статус:** 🟡 Working / Experimental  
 **Версия:** v0.4 — актуализированная Background Map  
-**Дата:** 18 сентября 2026  
+**Дата:** 19 сентября 2026  
 **Назначение:** определить минимальную Background Map In Profundo, которую Project Overview & Continuity Partner должен удерживать при работе с отдельными направлениями.
 
 > Этот документ не является roadmap проекта и не заменяет Strategic Snapshot или Development Map.  
@@ -313,6 +313,10 @@ Owner получает подготовленный update package, а не об
 - может ли роль запускаться в новом чате;
 - не превращается ли она в permanent System Designer;
 - удаётся ли вернуть направление после паузы без ручного восстановления всей истории.
+
+### Отложенный cross-project candidate
+
+После PM-DEV выявлена потенциально универсальная Brainstorm capability: один living development document должен уметь сохранять актуальную карту вопроса и reasoning history так, чтобы fresh-context ветка восстанавливала способ работы из durable entry point, а не из истории чата. Универсальный Protocol / Template / Catalog пока не активированы; вопрос отложен до отдельного Project Overview Formation gate. Исторический PM-DEV не нормализуется задним числом.
 
 ---
 
