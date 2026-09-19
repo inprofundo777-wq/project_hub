@@ -157,3 +157,14 @@ Snapshot сохраняет достигнутую стадию понимани
 **Межветочное значение:** в owner-facing сводках сначала используется русское смысловое название; технический код остаётся только вторичной координатой. Точный этап статьи хранится в её VIA, а общая карта отмечает только `○ / ◐ / ●`.  
 **Следующий шаг:** закрывать кружки только по фактическому завершению соответствующих результатов; не возвращать в краткую карту длинные паспорта, технические названия или историю процесса.
 
+
+
+---
+
+## 2026-09-19 — Snapshot Rotation and Publication Readiness Convergence
+
+**Ветка / процесс:** Project Overview → Current-state Review → Snapshot Rotation → Parallel Branch Signal  
+**Материальный результат:** подтверждено закрытие Publication Role Readiness с verdict `PASS WITH VALIDATION DEBT`, отсутствие blocking debt и переход Editorial System к real-work validation; подтвержден текущий Research Lab gate `TP-RL-001 EXECUTION APPROVED`. Созданы новый project-level baseline и новый Research Lab Snapshot; предыдущие project baseline 2026-08-30 и Research Lab Snapshot 2026-09-01 переведены в historical navigation. В Project Map сохранён отложенный cross-project Brainstorm capability candidate без активации новой архитектуры.  
+**Основание:** поручение Owner пересмотреть Project Map и Snapshots; canonical PM-DEV Event 014; canonical RL-WAVE-2 Event 031; актуальные Project Map и Development Map.  
+**Межветочное значение:** другим веткам Project Overview больше не следует использовать 2026-08-30 как текущий project baseline или 2026-09-01 как текущий Research Lab Snapshot. Publication Master / Coach / Longform readiness закрыта на текущем claim; следующий editorial evidence должен приходить из реальных Portfolio 02 / VIA cycles. Brainstorm universalization остаётся deferred candidate, не обязательным процессом.  
+**Следующий шаг:** TP-RL-001 execution → Project Lead acceptance; VIA-2026-020 publication close; Portfolio 02 real cycles → Final Text → product-quality evidence. После material delta — обычная Parallel Branch Convergence без повторного восстановления уже закрытого readiness chain.
