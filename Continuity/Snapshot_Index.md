@@ -114,7 +114,9 @@ Research Lab snapshot от 2026-08-21 сохраняется как истори
 
 Текущим входом является:
 
-`Snapshots/Research-Lab/Research_Lab_Strategic_Snapshot_2026-09-01.md`
+`Snapshots/Research-Lab/Research_Lab_Strategic_Snapshot_2026-09-19.md`
+
+Предыдущие слепки от 1 сентября и 21 августа сохраняются как historical control points.
 
 ---
 
@@ -392,7 +394,7 @@ Fresh-context test v0.4 пройден в DS-01 и сам по себе не т�
 
 # 12. Текущая картина Continuity
 
-На 2026-09-19 основной пакет слепков сохранён в GitHub; новый project-level baseline и новый Research Lab Snapshot фиксируют переход к operational validation.  для Project Overview текущей точкой остаётся Audit Correction Control Point от 8 сентября. Follow-up validation и источник verdict сохранены в [`Follow-up Validation Disposition`](../Project-Overview/Audits/2026-09/Follow_Up_Validation_Disposition_2026-09-09.md); это не создаёт нового поколения Snapshot.
+На 2026-09-19 основной пакет слепков сохранён в GitHub; новый project-level baseline и новый Research Lab Snapshot фиксируют переход к operational validation. Для Project Overview текущей точкой остаётся Audit Correction Control Point от 8 сентября. Follow-up validation и источник verdict сохранены в [`Follow-up Validation Disposition`](../Project-Overview/Audits/2026-09/Follow_Up_Validation_Disposition_2026-09-09.md); это не создаёт нового поколения Snapshot.
 
 Теперь Continuity имеет контрольные точки для:
 
