@@ -157,7 +157,7 @@
 
 - ◐ передавать между ветками одну актуальную ссылку;
 - ○ подтвердить повторяемость без ручного восстановления истории Owner;
-- ○ сделать новый общий снимок проекта после ближайших исследовательского и редакционного результатов.
+- ○ следующий общий снимок создавать только после следующей material контрольной точки; не по календарю.
 
 ---
 
@@ -272,7 +272,7 @@ Mission и Core Principles остаются project-level conceptual drafts бе
 ◐ повторяемость Parallel Branch Convergence и one-link re-entry.  
 ○ real Temporary Role Exit / DS-03 при естественной задаче.  
 ○ Long-term Re-entry после реального интервала.  
-○ новый project-level Snapshot после закрытия ближайших production / research gates.
+● project-level Snapshot 2026-09-19 создан после material перехода Portfolio / Publication Role Readiness; следующий — только после новой контрольной точки.
 
 **СЕЙЧАС → использовать актуальные `Project_Map.md` и `MASTER_ROADMAP.md` как две разные координаты: первая хранит области и границы, вторая — зрелость и переходы.**
 
