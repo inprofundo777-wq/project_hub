@@ -1,6 +1,6 @@
 # BR-001 — Corpus Discovery / Content Architecture Brainstorm
 
-**Статус:** FORMATION — READY FOR OWNER CONFIRMATION  
+**Статус:** ACTIVE — FORMATION APPROVED / STAGE 1 AUTHORIZED  
 **Дата:** 19 сентября 2026  
 **Steward Formation / continuity:** Project Overview  
 **Предполагаемый Lead:** Strategist  
@@ -12,7 +12,7 @@
 
 Маркер: ● завершено · **0 активный участник** · ○ следующий · ⏸ отложено · ⛔ blocked.
 
-**0 OWNER — подтвердить Formation и передать эту ссылку Strategist для Stage 1.**
+**0 STRATEGIST — выполнить Stage 1 / Corpus Baseline по контракту ниже.**
 
 Одновременно активен только один участник. Остальные роли не начинают работу сами.
 
@@ -193,14 +193,14 @@ Owner не должен реконструировать route из technical st
 | Шаг | Участник | Состояние | Выход |
 |---|---|---|---|
 | 0 | Project Overview / Formation | ● | scope + process |
-| 1 | Strategist Baseline | ○ | provisional corpus map |
+| 1 | Strategist Baseline | **0** | provisional corpus map |
 | 2 | Reader | ○ | human entry / reader paths |
 | 3 | SEO | ○ | search / discovery bridges |
 | 4 | Literary / Editorial | ○ | forms / recognizability |
 | 5 | Strategist Synthesis | ○ | integrated corpus architecture |
 | 6 | Publication Master | ○ conditional | system translation |
 | 6a | Coach | ○ conditional | VIA implications |
-| 7 | Owner | **0** | Formation confirmation / later implementation decisions |
+| 7 | Owner | ○ | later implementation decisions |
 
 Только один маркер **0**. Он показывает, кто должен вмешаться сейчас.
 
@@ -248,4 +248,16 @@ Brainstorm закрывается, когда corpus boundary обработан
 
 Project Overview сформировал bounded operating model: Corpus Discovery first; один living document; русскоязычный Owner interface; Owner activation bridge; role identity protection; explicit handoff; Strategist → Reader → SEO → Literary/Editorial → Strategist Synthesis → Master → Owner; Coach conditional; implementation separated from discovery.
 
-**Текущий gate:** Owner Formation confirmation.
+**Текущий gate:** Stage 1 — Strategist / Corpus Baseline.
+
+
+## Event 002 — Owner Approval / Stage 1 Activation — 2026-09-19
+
+Owner подтвердил формат BR-001 без изменения Formation contract.
+
+**Решение:** APPROVED.  
+**Активирован:** Stage 1 — Strategist / Corpus Baseline.  
+**Authority:** Strategist может выполнить только Stage 1, записать findings/questions/handoff append-only в этот документ и обновить Living Map для завершения собственного шага.  
+**Не активированы:** Reader, SEO, Literary / Editorial, Strategist Synthesis, Publication Master, Coach, implementation.
+
+После завершения Strategist возвращает Owner смысловой chat summary по Owner-facing contract и точный handoff для следующей ветки.
