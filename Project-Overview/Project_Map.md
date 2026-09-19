@@ -82,7 +82,7 @@ Project Overview не обязан постоянно обсуждать все 
 - Distribution handoff;
 - post-publication learning.
 
-### Текущее положение — 18 сентября 2026
+### Текущее положение — 19 сентября 2026
 
 Publication Role Readiness закрыт с verdict:
 
@@ -277,6 +277,28 @@ Notion не становится вторым production tracker и не хра�
 Содержательное enrichment этих 26 карточек не выполнялось автоматически.
 
 Content-Portfolio-2026-02 содержит отдельный selective update package для Queue, Reserve и research cards. Полная физическая запись Far Horizon и всего Candidate Package в Notion не требуется.
+
+### Новый material development signal
+
+Owner обозначил следующий уровень развития Notion: использовать Content Intelligence не только для памяти и Portfolio Balance, но и для систематизации узнаваемости In Profundo.
+
+В будущий bounded brainstorm должны войти как минимум:
+
+- рубрики и их функция;
+- ярлыки / хэштеги;
+- карты эмоциональных входов;
+- пути читателя от темы к теме;
+- тематические связи и кластеры;
+- связь внутренней content architecture с Reader / Distribution / Discovery;
+- граница между полезной узнаваемостью и формульностью.
+
+Это пока **не новая утверждённая архитектура Notion** и не разрешение перестраивать базы.
+
+Следующий gate:
+
+> поднять текущий Notion Snapshot → провести Formation brainstorm → определить Lead, Contributors, вопросы, порядок фиксации решений и implementation boundary.
+
+Этот кейс также может стать первым реальным validation case для будущей cross-project Brainstorm capability. Универсальный Brainstorm Protocol заранее не предполагается.
 
 ### Что отслеживает Project Overview
 
