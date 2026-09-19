@@ -278,27 +278,47 @@ Notion не становится вторым production tracker и не хра�
 
 Content-Portfolio-2026-02 содержит отдельный selective update package для Queue, Reserve и research cards. Полная физическая запись Far Horizon и всего Candidate Package в Notion не требуется.
 
-### Новый material development signal
+### Новый material development signal — Corpus Discovery first
 
-Owner обозначил следующий уровень развития Notion: использовать Content Intelligence не только для памяти и Portfolio Balance, но и для систематизации узнаваемости In Profundo.
+Owner уточнил точку входа: Notion пока не является главным объектом redesign. Сначала необходимо прочитать уже опубликованный корпус через **Final Text канонических VIA** и обнаружить архитектуру, которая фактически уже существует в содержании.
 
-В будущий bounded brainstorm должны войти как минимум:
+Первый bounded этап должен искать:
 
-- рубрики и их функция;
-- ярлыки / хэштеги;
-- карты эмоциональных входов;
-- пути читателя от темы к теме;
-- тематические связи и кластеры;
-- связь внутренней content architecture с Reader / Distribution / Discovery;
-- граница между полезной узнаваемостью и формульностью.
+- реальные содержательные узлы и взаимосвязи;
+- уникальность и повторяющиеся формы материалов;
+- уже существующее покрытие и плотность отдельных направлений;
+- естественно возникшие серии и потенциальные серии;
+- карты движения читателя и переходы от темы к теме;
+- эмоциональные / жизненные входы;
+- возможные уровни или reader lenses, включая candidates «ученик», «лидер», «служитель», «гайд», без предварительного превращения их в taxonomy;
+- недораскрытые направления и потенциал обогащения корпуса;
+- категории читателей, которые корпус уже фактически встречает или почти не встречает.
 
-Это пока **не новая утверждённая архитектура Notion** и не разрешение перестраивать базы.
+Рабочая последовательность:
+
+> Final VIA corpus → discovered content nodes → relations / trajectories / coverage / gaps → human-readable corpus architecture → возможная Notion representation → возможная Blog reader-entry architecture.
+
+На первом этапе **не переделывать Notion и не менять Blogger navigation**. Сначала корпус должен показать, какая структура действительно существует и полезна.
+
+### Предварительный состав brainstorm
+
+- **Strategist** — основной кандидат на Lead для Corpus Discovery и интеграции содержательной карты;
+- **Reader Editor / reader capability** — независимая линза человеческих входов, категорий читателей, понятности пути и реальной reader usefulness;
+- **SEO** — участник brainstorm для обнаружения языка вопросов / search intent и внешней discoverability; не должен задавать внутреннюю taxonomy корпуса;
+- **Literary / editorial capability** — анализ узнаваемости форм, различий текстов и риска свести живой корпус к тематическим ярлыкам;
+- **Publication Master** — system-level participant для поздней проверки последствий обнаруженной архитектуры для связки Notion ↔ publication material ↔ public navigation и возможных изменений Publication System;
+- **Coach** — не default Lead; подключается bounded input, если обнаруженные решения materially меняют handoff или orchestration конкретного editorial cycle;
+- **Project Overview** — Steward Formation / continuity: удерживает scope, последовательность, карту вопросов и границу между discovery и implementation.
+
+Точный Lead и порядок включения участников должны быть подтверждены Formation, а не предполагаться только из названий ролей.
+
+Это пока **не новая утверждённая архитектура Notion**, не новая taxonomy и не разрешение менять Publication System.
 
 Следующий gate:
 
-> поднять текущий Notion Snapshot → провести Formation brainstorm → определить Lead, Contributors, вопросы, порядок фиксации решений и implementation boundary.
+> завершить Formation → определить corpus boundary, Lead, последовательность независимых линз, единый living artifact и Output Contract Corpus Discovery → только затем запускать substantive brainstorm.
 
-Этот кейс также может стать первым реальным validation case для будущей cross-project Brainstorm capability. Универсальный Brainstorm Protocol заранее не предполагается.
+Этот кейс может стать первым real validation case будущей cross-project Brainstorm capability. Универсальный Brainstorm Protocol заранее не вводится; исторический PM-DEV не переписывается.
 
 ### Что отслеживает Project Overview
 
