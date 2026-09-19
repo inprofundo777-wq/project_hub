@@ -61,10 +61,10 @@
 | Дата | Направление | Snapshot | Статус | Контрольная точка |
 |---|---|---|---|---|
 | 2026-08-29 | Audience / Discovery | `Snapshots/Audience-Discovery/Audience_Discovery_Strategic_Snapshot_2026-08-29.md` | CURRENT | Analysis → Live Validation |
-| 2026-08-30 | In Profundo / Project-level | `Snapshots/Project/In_Profundo_Strategic_Snapshot_2026-08-30.md` | CURRENT PROJECT BASELINE | Internal Maturity → External Validation |
+| 2026-09-19 | In Profundo / Project-level | `Snapshots/Project/In_Profundo_Strategic_Snapshot_2026-09-19.md` | CURRENT PROJECT BASELINE | System-building / normalization → publication-centered operational validation |
 | 2026-08-31 | Notion / Content Intelligence | `Snapshots/Notion/Notion_Content_Intelligence_Strategic_Snapshot_2026-08-31.md` | CURRENT | Structured Working Memory → Feedback Loop / Selective Enrichment |
 | 2026-08-31 | Book Project — «Тот, Кто остаётся» | `Snapshots/Books/Tot_Kto_Ostaetsya_Book_Project_Strategic_Snapshot_2026-08-31.md` | CURRENT | Architecture Established → Research Evidence Dependency |
-| 2026-09-01 | Research Lab | `Snapshots/Research-Lab/Research_Lab_Strategic_Snapshot_2026-09-01.md` | CURRENT | Capability Established → IP-001 Full Normalized Research |
+| 2026-09-19 | Research Lab | `Snapshots/Research-Lab/Research_Lab_Strategic_Snapshot_2026-09-19.md` | CURRENT | Role System v0.1 → bounded real-work validation |
 | 2026-09-08 | Project Overview | `Snapshots/Project-Overview/Project_Overview_Audit_Correction_Control_Point_2026-09-08.md` | CURRENT / WORKING CANDIDATE | Audit Correction Complete → Operational Use / Open Validation |
 | 2026-09-02 | Дальний содержательный горизонт | `Snapshots/Content-Strategy/Strategic_Content_Horizon_Snapshot_2026-09-02.md` | CURRENT | Architecture Red Team → Capability Test |
 
@@ -103,6 +103,8 @@ Recovery Snapshot сохраняет восстановленную capability. 
 
 | Дата | Направление | Snapshot | Статус | Контрольная точка |
 |---|---|---|---|---|
+| 2026-09-01 | Research Lab | `Snapshots/Research-Lab/Research_Lab_Strategic_Snapshot_2026-09-01.md` | HISTORICAL | Capability Established → pre-Role-System validation |
+| 2026-08-30 | In Profundo / Project-level | `Snapshots/Project/In_Profundo_Strategic_Snapshot_2026-08-30.md` | HISTORICAL PROJECT BASELINE | Internal Maturity → External Validation |
 | 2026-09-07 | Project Overview | `Snapshots/Project-Overview/Project_Overview_Post_Audit_Snapshot_2026-09-07.md` | HISTORICAL / INSUFFICIENT CANDIDATE | v0.2 transfer → выявленная неполнота → correction cycle |
 | 2026-08-21 | Research Lab | `Snapshots/Research-Lab/Research_Lab_Strategic_Snapshot_2026-08-21.md` | HISTORICAL | Strategic Re-entry → Normalization Required |
 
@@ -120,7 +122,7 @@ Research Lab snapshot от 2026-08-21 сохраняется как истори
 
     In Profundo / Project-level
     🟢 CURRENT PROJECT BASELINE
-    └── Internal Maturity → External Validation
+    └── System-building / normalization → publication-centered operational validation
 
     Audience / Discovery
     🟢 CURRENT
@@ -136,9 +138,9 @@ Research Lab snapshot от 2026-08-21 сохраняется как истори
 
     Research Lab
     🟢 CURRENT
-    ├── Foundation capability established
-    ├── IP-001 🟡 Full Normalized Research
-    └── previous 2026-08-21 snapshot = HISTORICAL
+    ├── Role System v0.1 — Candidate Active / Validation Pending
+    ├── TP-RL-001 — bounded execution authorized
+    └── previous 2026-09-01 and 2026-08-21 snapshots = HISTORICAL
 
     Book — «Тот, Кто остаётся»
     🟢 CURRENT
@@ -390,7 +392,7 @@ Fresh-context test v0.4 пройден в DS-01 и сам по себе не т�
 
 # 12. Текущая картина Continuity
 
-На 2026-09-09 основной пакет слепков сохранён в GitHub; для Project Overview текущей точкой остаётся Audit Correction Control Point от 8 сентября. Follow-up validation и источник verdict сохранены в [`Follow-up Validation Disposition`](../Project-Overview/Audits/2026-09/Follow_Up_Validation_Disposition_2026-09-09.md); это не создаёт нового поколения Snapshot.
+На 2026-09-19 основной пакет слепков сохранён в GitHub; новый project-level baseline и новый Research Lab Snapshot фиксируют переход к operational validation.  для Project Overview текущей точкой остаётся Audit Correction Control Point от 8 сентября. Follow-up validation и источник verdict сохранены в [`Follow-up Validation Disposition`](../Project-Overview/Audits/2026-09/Follow_Up_Validation_Disposition_2026-09-09.md); это не создаёт нового поколения Snapshot.
 
 Теперь Continuity имеет контрольные точки для:
 
