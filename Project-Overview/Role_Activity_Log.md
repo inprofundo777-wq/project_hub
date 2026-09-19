@@ -168,3 +168,15 @@ Snapshot сохраняет достигнутую стадию понимани
 **Основание:** поручение Owner пересмотреть Project Map и Snapshots; canonical PM-DEV Event 014; canonical RL-WAVE-2 Event 031; актуальные Project Map и Development Map.  
 **Межветочное значение:** другим веткам Project Overview больше не следует использовать 2026-08-30 как текущий project baseline или 2026-09-01 как текущий Research Lab Snapshot. Publication Master / Coach / Longform readiness закрыта на текущем claim; следующий editorial evidence должен приходить из реальных Portfolio 02 / VIA cycles. Brainstorm universalization остаётся deferred candidate, не обязательным процессом.  
 **Следующий шаг:** TP-RL-001 execution → Project Lead acceptance; VIA-2026-020 publication close; Portfolio 02 real cycles → Final Text → product-quality evidence. После material delta — обычная Parallel Branch Convergence без повторного восстановления уже закрытого readiness chain.
+
+
+---
+
+## 2026-09-19 — Notion Content Identity Brainstorm Signal
+
+**Ветка / процесс:** Project Overview → Notion / Content Intelligence → Development Formation  
+**Материальный сигнал:** Owner обозначил следующий уровень Notion / Content Intelligence: систематизация рубрик, labels / hashtags, emotional entry maps, reader paths между темами и других отношений, которые могут поддерживать узнаваемость In Profundo.  
+**Классификация:** новый bounded development question; не разрешение на redesign Notion и не новая taxonomy.  
+**Текущее решение:** поднять Snapshot 2026-08-31 как исходную контрольную точку и провести Formation brainstorm до назначения substantive work. Formation должен определить Lead, Contributors, центральный вопрос, границы, способ фиксации этапов / решений / открытых вопросов и implementation boundary.  
+**Cross-system значение:** кейс может использоваться как первый реальный validation case будущей Brainstorm capability, но universal Brainstorm Protocol заранее не вводится.  
+**Следующий шаг:** Project Overview формирует Brainstorm Entry / Formation Proposal и возвращает Owner решение о Lead + participant set + canonical artifact до substantive brainstorm.
