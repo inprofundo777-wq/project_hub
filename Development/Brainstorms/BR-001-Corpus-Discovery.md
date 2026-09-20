@@ -1,6 +1,6 @@
 # BR-001 — Corpus Discovery / Content Architecture Brainstorm
 
-**Статус:** ACTIVE — STAGE 5 COMPLETE / OWNER DECISION ON SYSTEM TRANSLATION
+**Статус:** ACTIVE — STAGE 6 COMPLETE / OWNER DECISION GATE
 **Дата:** 19 сентября 2026  
 **Steward Formation / continuity:** Project Overview  
 **Предполагаемый Lead:** Strategist  
@@ -12,7 +12,7 @@
 
 Маркер: ● завершено · **0 активный участник** · ○ следующий · ⏸ отложено · ⛔ blocked.
 
-**● Strategist / Synthesis — Stage 5 завершён. Owner решает, активировать ли bounded Publication Master / System Translation Review; Publication Master, Coach и implementation не активированы.**
+**● Publication Master / System Translation Review — Stage 6 завершён. Owner принимает Stage 7 decision; Coach и implementation не активированы.**
 
 Одновременно активен только один участник. Остальные роли не начинают работу сами.
 
@@ -198,9 +198,9 @@ Owner не должен реконструировать route из technical st
 | 3 | SEO | ● | search / discovery bridges |
 | 4 | Literary / Editorial | ● | forms / recognizability |
 | 5 | Strategist Synthesis | ● | integrated corpus architecture |
-| 6 | Publication Master | ○ conditional | system translation |
+| 6 | Publication Master | ● | system translation complete / no material redesign required |
 | 6a | Coach | ○ conditional | VIA implications |
-| 7 | Owner | ○ | later implementation decisions |
+| 7 | Owner | ○ | accept / close / separately authorize bounded follow-up |
 
 Только один маркер **0**. Он показывает, кто должен вмешаться сейчас.
 
@@ -1903,4 +1903,265 @@ Owner может:
 > Открой BR-001 и прими текущее назначение. Выполни только Stage 6 — Publication Master / System Translation Review. Используй Corpus Architecture Synthesis только для проверки material consequences для Notion ↔ publication material ↔ public navigation ↔ Publication System. Различи элементы, которые должны остаться содержательной картой, и минимальные system implications, если они действительно нужны. Отдельно проверь representation четырёх слоёв, explicit sequence, direct textual relation, protected H1 + supporting external question, два public entry modes и intent separation плотных кластеров. Не переоценивай корпус, не запускай redesign, не изменяй Notion / Blogger / Publication System и не активируй Coach или implementation. Результат запиши append-only в BR-001, обнови Living Map только для завершения собственного шага и верни Owner смысловой итог по Owner-facing chat contract.
 
 **Current gate:** Owner decision — активировать ли bounded Publication Master / Stage 6. Coach и implementation не активированы.
+
+## Event 008 — Stage 6 / Publication Master System Translation Review — 2026-09-20
+
+### Role Identity
+
+Что я вижу именно как Publication Master: не новый способ интерпретации корпуса, а границу между уже полученным content intelligence и теми минимальными system consequences, которые действительно нужны для устойчивого handoff между Notion, Portfolio / VIA, publication material и public navigation.
+
+Что я не решаю вместо других:
+
+- не переоцениваю Final Text corpus и не заменяю Strategist Synthesis;
+- не утверждаю taxonomy, reader domains, Series или Portfolio priorities;
+- не проектирую Notion database без проверки её фактического состояния;
+- не изменяю Blogger, VIA, Publication System или role authority;
+- не активирую Coach либо implementation;
+- не превращаю каждый подтверждённый content relation в обязательное system field.
+
+### 1. Что рассмотрено
+
+Review проверил:
+
+- Corpus Architecture Synthesis Event 007;
+- четыре слоя: semantic node, reader function, search-facing bridge, textual form;
+- explicit sequence, semantic adjacency, partial reader-function overlap и direct textual relation;
+- protected editorial H1 + supporting external question;
+- два public entry modes;
+- sequence-first representation Адвента;
+- intent separation в плотных кластерах;
+- coverage evidence;
+- действующую концепцию Notion / Content Intelligence;
+- существующие Blogger Reader Navigation Prototype v0.2 и Limited Blogger Navigation Pilot;
+- текущие VIA Template / Protocol interfaces для Portfolio Handoff, связанных материалов, Human States, SEO Publication Package, Portfolio / Notion Update Package и Learning Routing;
+- границу Publication System и ownership Strategist / Coach / Publication Master.
+
+### 2. Executive Verdict
+
+> **SYSTEM TRANSLATION COMPLETE — EXISTING CAPABILITIES SUBSTANTIALLY SUFFICIENT / NO MATERIAL SYSTEM REDESIGN REQUIRED**
+
+Stage 5 обнаружил реальные и устойчивые содержательные различения. Однако из этого не следует необходимость создавать для каждого различения собственное поле, database, protocol или publication stage.
+
+Текущая система уже имеет достаточные места для bounded representation:
+
+```text
+Internal content intelligence
+→ Notion relations / Series / Human States / Strategy evidence
+
+Production entry
+→ Portfolio / Source Handoff
+→ related materials + relevant Human States + closed decisions
+
+Publication-specific discovery
+→ Final Title + SEO Publication Package + Blogger fields
+
+Post-publication learning
+→ Portfolio / Notion Update Package
+→ Content Learning Routing → Strategy
+
+Public reader entry
+→ existing Blogger page «Темы» / limited navigation pilot
+```
+
+Главный system result BR-001 поэтому не новая архитектура, а дисциплина разделения уровней и запрет на их автоматическое слияние.
+
+### 3. Translation Matrix
+
+| Candidate | System disposition | Обоснование |
+|---|---|---|
+| Четыре слоя corpus relation | KEEP AS DISTINCT LENSES — NO UNIVERSAL FIELD SET | Notion уже способен хранить Topic / Rubric / Series / Human State relations; search-facing bridge принадлежит SEO/publication package; textual form остаётся literary/strategy evidence, если нет отдельной рабочей потребности |
+| Explicit sequence | EXISTING CAPABILITY | Series intelligence в Notion и ordered public route уже способны представить последовательность |
+| Semantic adjacency | EXISTING CAPABILITY / LOCAL APPLICATION | Связанные материалы могут передаваться через Notion relations, Portfolio Handoff, VIA и точечную internal linking работу |
+| Partial reader-function overlap | ANALYTICAL EVIDENCE ONLY | Полезно для Strategy, saturation и Portfolio differentiation, но пока не оправдывает новый relation type |
+| Direct textual relation | PRESERVE IN BR-001 — NO NEW SYSTEM OBJECT | Связь VIA-2025-004 ↔ VIA-2025-005 важна для corpus reasoning; отдельное поле или reopening опубликованных VIA не требуется |
+| Editorial H1 + supporting question | EXISTING PUBLICATION CAPABILITY / OPTIONAL LOCAL USE | Final Title уже отделён от SEO Publication Package и Blogger fields; supporting question может использоваться в description/navigation copy без массового переименования |
+| Два public entry modes | ALREADY REPRESENTED / PROTECT DURING PILOT | Страница «Темы» уже различает «Когда вера стала трудной» и «Вера в обычной жизни»; новая rubric architecture не нужна |
+| Sequence-first Advent | ALREADY REPRESENTED | Existing seasonal route показывает целое и ordered parts; новая общая Series navigation не требуется |
+| Intent separation плотных кластеров | PORTFOLIO / SEO / INTERNAL LINKING JUDGMENT | Различение нужно применять к конкретным материалам, а не превращать в обязательное поле каждого VIA |
+| Coverage evidence | STRATEGY INTELLIGENCE — NOT PRODUCTION QUOTA | Developed / several perspectives / frontier / underdeveloped остаются стратегическим чтением корпуса и не становятся permanent status taxonomy |
+
+### 4. Notion / Content Intelligence
+
+#### Что подтверждено
+
+Действующая концепция Notion уже различает:
+
+- Topics;
+- Rubrics;
+- Series;
+- Human States;
+- relations между материалами;
+- Portfolio intelligence;
+- post-publication Content Intelligence candidates.
+
+Этого концептуально достаточно для BR-001. Corpus Synthesis может использоваться Strategist как evidence при последующей работе с фактическими карточками и relations.
+
+#### Что не требуется
+
+Сейчас не оправданы:
+
+- новая обязательная база Corpus Nodes;
+- отдельные базы для Reader Function, Search Bridge и Textual Form;
+- новое обязательное property для каждого типа relation;
+- перенос всей BR-001 map в Notion;
+- массовая реклассификация опубликованных материалов;
+- новый постоянный corpus audit process.
+
+#### Возможный later bounded action
+
+Если Owner позднее захочет practically reconcile BR-001 с текущим Notion state, это должно быть отдельное **Strategy-owned data reconciliation**, а не redesign:
+
+- проверить только существующие Topic / Series / Human State relations;
+- добавить только material missing relations;
+- не создавать schema до установления фактической недостаточности;
+- вернуть точный change set Owner.
+
+Такой action Stage 6 не активирует.
+
+### 5. Publication material / VIA
+
+Текущие VIA interfaces уже позволяют передавать material corpus context:
+
+- Portfolio position;
+- Primary Human State / Context;
+- Relevant Human States / Contexts;
+- связанные материалы и решения;
+- Closed Upstream Decisions;
+- SEO Publication Package;
+- Portfolio / Notion Update Package;
+- Content Learning Routing к Strategy.
+
+Следовательно, BR-001 не оправдывает:
+
+- новое обязательное поле Corpus Node;
+- обязательный Reader Function;
+- обязательный Textual Form;
+- новый Review;
+- новый production gate;
+- новый Stage между Portfolio и VIA;
+- изменение Coach orchestration.
+
+Corpus relations должны входить в article-specific handoff только когда они materially влияют на Difference, protected ground, sequence, intent separation или expected public relation конкретного материала.
+
+### 6. Public navigation / Blogger
+
+Существенная часть возможной translation уже существует в bounded форме:
+
+- страница «Темы»;
+- reader-first navigation;
+- «Когда вера стала трудной»;
+- вложенный путь «Когда не видно Божьей работы»;
+- «Вера в обычной жизни»;
+- ordered seasonal route «Адвент и Рождество».
+
+Поэтому BR-001 не создаёт новую Blogger architecture.
+
+Два public entry modes следует защищать как interpretive constraint:
+
+> public picture In Profundo не должна сводиться только к crisis-first entry.
+
+Но это не означает создание двух обязательных рубрик или симметричного меню.
+
+Текущий Limited Blogger Navigation Pilot должен продолжать собственный observation route. BR-001 не заменяет live evidence и не является основанием менять pilot во время observation period.
+
+### 7. Publication System boundary
+
+Publication System начинается с approved publish-ready Source и отвечает за Final Preparation, publication, Distribution, verification и downstream handoff.
+
+Corpus taxonomy, Portfolio balance и постоянное содержание Notion принадлежат Strategy / Content Intelligence, а не Publication Master.
+
+System implication для Publication System минимален:
+
+- сохранять Final Title;
+- при наличии material need сохранять supporting external language в существующем SEO / Blogger package;
+- фиксировать public URL и фактическое publication state;
+- возвращать только material Content Intelligence candidate через существующий Close / Learning Routing.
+
+Новый publication protocol, metadata layer или post-publication stage не нужен.
+
+### 8. Coach condition
+
+**Coach trigger:** `NOT FOUND`
+
+Ни один Stage 6 finding не требует:
+
+- менять orchestration конкретного VIA;
+- добавлять обязательный brief field;
+- вводить новый Review;
+- менять Process Map;
+- изменять VIA Template;
+- создавать новый Close requirement.
+
+Текущий production route продолжает использовать existing Portfolio / Source Handoff и article-specific Coach judgment.
+
+Coach не активируется.
+
+### 9. Minimal system consequences
+
+BR-001 поддерживает пять operating constraints, но не пять новых system objects:
+
+1. Не смешивать internal semantic architecture, reader function, search language и textual form.
+2. Explicit sequence представлять как sequence, а не как набор независимых подтверждений одной темы.
+3. Сохранять editorial H1; supporting external question использовать как дополнительный, а не заменяющий слой.
+4. Поддерживать crisis-entry и ordinary-life entry без искусственной симметрии.
+5. Передавать corpus relation в VIA только при material relevance конкретному произведению.
+
+Все пять могут действовать внутри уже существующих capabilities.
+
+### 10. Что findings меняют
+
+- Подтверждено, что Corpus Architecture Synthesis имеет реальные handoff consequences, но не требует material redesign.
+- Установлены правильные owners для разных слоёв: Strategy / Notion, Portfolio / VIA, SEO / publication package, Blogger navigation.
+- Установлено, какие findings остаются analytical evidence, а какие могут применяться локально.
+- Подтверждено отсутствие Coach trigger.
+- Сформирована bounded Owner decision без implementation package.
+
+### 11. Что findings не меняют
+
+- Не создаётся новая taxonomy или Notion schema.
+- Не меняются Blogger navigation, Labels или опубликованные статьи.
+- Не меняются VIA Protocol, Template, Process Map или role packages.
+- Не добавляются mandatory fields, Reviews, gates или statuses.
+- Не активируются Notion reconciliation, Blogger Pilot Close, internal linking или metadata updates.
+- Не меняются Portfolio 02 и основной production route.
+- Не активируются Coach, Product Audit или Corpus / Longitudinal Product Audit.
+- Publication Master не принимает ownership Content Strategy.
+
+### 12. Open questions after Stage 6
+
+Следующие вопросы остаются в своих естественных routes:
+
+1. Фактическая достаточность текущих Notion relations — возможный later Strategy-owned reconciliation.
+2. Эффективность страницы «Темы» — Limited Blogger Navigation Pilot / live evidence.
+3. Внешняя валидность supporting search language — отдельное keyword / SERP research при реальной необходимости.
+4. Необходимость точечной internal linking работы — решение по конкретным зрелым paths, не mass program.
+5. Способ обновления coverage learning после новых публикаций — существующий Strategy / Content Intelligence route; permanent audit cadence пока не оправдана.
+
+Ни один из этих вопросов не блокирует закрытие BR-001 discovery brainstorm.
+
+### 13. Owner Decision Gate
+
+Publication Master рекомендует:
+
+> **ACCEPT STAGE 6 AND CLOSE BR-001 DISCOVERY WITH NO MATERIAL SYSTEM REDESIGN**
+
+При принятии:
+
+- Corpus Architecture Synthesis сохраняется как durable content intelligence evidence;
+- system translation считается завершённой;
+- Coach и implementation не активируются;
+- отдельные future actions могут быть активированы только собственными bounded решениями;
+- Project Overview закрывает или маршрутизирует BR-001 без создания новой architecture.
+
+Альтернативно Owner может отдельно запросить один bounded follow-up, но он не должен автоматически возвращать весь BR-001 в analysis.
+
+### 14. Handoff / Role Exit
+
+**Stage 6:** COMPLETE.  
+**Publication Master result:** `EXISTING CAPABILITIES SUBSTANTIALLY SUFFICIENT / NO MATERIAL REDESIGN REQUIRED`.  
+**Coach:** NOT ACTIVATED.  
+**Implementation:** NOT AUTHORIZED.  
+**Ownership returned to:** Owner.  
+**Next gate:** Stage 7 — Owner Decision.  
+**Publication Master Role Exit:** COMPLETE.
 
