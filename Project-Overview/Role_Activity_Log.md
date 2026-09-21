@@ -191,3 +191,15 @@ Snapshot сохраняет достигнутую стадию понимани
 **Предварительные участники:** Strategist — Lead candidate; Reader — human-entry / reader-category lens; SEO — search-language / discoverability lens без права задавать внутреннюю taxonomy; Literary / editorial capability — form / recognizability / coverage lens; Publication Master — поздний system-level participant для последствий Notion ↔ publication ↔ navigation; Coach — bounded participant только при material влиянии на VIA orchestration. Project Overview удерживает Formation / continuity.  
 **Граница:** никаких изменений Notion, Blogger navigation или Publication System до Corpus Discovery synthesis и отдельного решения Owner. Candidate lenses «ученик / лидер / служитель / гайд» проверяются корпусом и не считаются заранее утверждёнными категориями.  
 **Следующий gate:** сформировать Brainstorm Entry / Corpus Discovery Output Contract: corpus boundary, Lead, последовательность независимых проходов, living artifact, synthesis и Owner decision point.
+
+---
+
+## 2026-09-21 — BR-001 Closure and Living Corpus Tools
+
+**Ветка / процесс:** Project Overview → Corpus Discovery Closure → Durable Handoff  
+**Материальный результат:** BR-001 закрыт после завершения Strategist, Reader, SEO, Literary / Editorial, Strategist Synthesis и Publication Master review. Крупная перестройка системы не требуется. Чтобы результаты не остались внутри исторического документа, созданы два живых инструмента: матрица смыслов корпуса и матрица четырёхнедельнего Facebook-пилота. Матрица корпуса также содержит три направления возможных будущих портфелей, лестницу развития идей Notion и правила накопительного обновления.  
+**Основание:** решение Owner 21 сентября 2026: закрыть брейншторм с подготовкой инструментов, определить владельцев их поддержки и условия возвращения к системному пересмотру.  
+**Канонические источники / commits:** `Development/Brainstorms/BR-001-Corpus-Discovery.md` — closure commit `ac75b6ce3bf776004c755c4bd43938552b8fe5ce`; `Development/Corpus-Intelligence/Corpus-Meaning-Matrix.md` — commits `8a8f28f1b966e3a086cf0cf3dcea57570ecac437`, `58ea7c929b5a5cee77a25e2ade6fc06fcaa7c308`; `Development/Experiments/FB-Corpus-Pilot-Matrix.md` — commit `54a4d0d2a1bbcd2b64848498ee27d47d5f2f4e4f`.  
+**Межветочное значение:** Стратег владеет смысловой матрицей и её связью с Portfolio / Notion; редактор Facebook / коротких форматов создаёт материалы внутри утверждённой палитры; Project Overview хранит точку системного возврата. BR-001 не переоткрывается для обычных обновлений.  
+**Следующий шаг:** отдельное решение Owner о запуске Facebook-пилота; Strategist review нераскрытых тем Notion; ограниченный системный пересмотр после двух новых портфелей или 5–10 новых публикаций, либо раньше при повторении material problem минимум в трёх материалах.
+
