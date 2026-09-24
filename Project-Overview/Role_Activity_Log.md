@@ -249,3 +249,16 @@ Snapshot сохраняет достигнутую стадию понимани
 **Проверка:** выполнен Post-Write Consistency Check; прежние stale-формулировки отсутствуют, новый baseline согласован со Snapshot Index, статусы документов и authority boundaries не изменены.  
 **Следующий шаг:** обычная работа из согласованного current state; новые карты или Snapshot не создавать без material trigger.
 
+
+---
+
+## 2026-09-24 — IP-001 Acts Historical Corpus Relocation / Re-entry Gate
+
+**Ветка / процесс:** Project Overview → IP-001 architecture review → historical corpus relocation → continuation route assessment  
+**Материальный результат:** старый корневой `research_lab/IP-01` устранён как параллельная структура. 64 historical research outputs книги Деяний перенесены без изменения blob content в `Research/IP-001/Research/ACTS/`: Stage 1 `doc-001_0100–4900`, Stage 2 `doc-002_0100–0800`, Stage 3 `doc-003_0100–0700`. 14 служебных, альтернативных, дублирующих и meta-research файлов сохранены с прежней относительной структурой в `Research/IP-001/Archive/Legacy-IP-01/`. Навигация ACTS и Archive теперь прямо различает historical `doc-*`, будущий protocol-normalized `rr-*` и legacy provenance.  
+**Integrity finding:** старый корневой `doc-001_0200.md` побайтно дублировал `doc-001_0100.md`; в canonical ACTS series помещён существующий правильный `research-001/doc-001_0200.md` по Деян. 1:12–26, а ошибочный дубль сохранён в Legacy archive. Все 78 исходных blob SHA сохранены; content mismatch отсутствует.  
+**Основание:** прямое поручение Owner привести ранее выполненное исследование к устойчивой структуре без изменения содержания; `Methodology v0.3`; `IP-001 Protocol v0.2`, §§21 и 26–29; действующая Research Generation boundary.  
+**Канонические commits:** `research_lab@85caf489860dcd9e4feee99f1dfc5feaa6700e59` — атомарный перенос; `research_lab@78a51a0f484bbf57faf5015c4a00899e1091be83` — ACTS / Archive navigation.  
+**Граница:** перенос не активирует IP-001 re-run, Researcher, Project Lead, Auditor или Full Project; historical outputs не становятся answer key нового прохода.  
+**Следующий gate:** Owner решает, разрешить ли Research Lab Director bounded Formation для protocol-normalized re-entry IP-001, с Деяниями как proposed first full corpus и с отдельным решением о допустимом execution envelope после Formation.
+
