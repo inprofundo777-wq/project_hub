@@ -567,7 +567,7 @@ Capability подтверждена несколькими реальными п
 ● Snapshot package и Snapshot Index существуют.  
 ● Post-Audit Snapshot 2026-09-07 сохранён как HISTORICAL / INSUFFICIENT CANDIDATE.  
 ● Audit Correction Control Point 2026-09-08 — текущий Snapshot Project Overview.  
-● Project-level Snapshot 2026-08-30 остаётся CURRENT PROJECT BASELINE, но предшествует текущему operational transition.  
+● Project-level Snapshot 2026-09-19 — CURRENT PROJECT BASELINE; Snapshot 2026-08-30 переведён в HISTORICAL PROJECT BASELINE.  
 ● CURRENT / CURRENT PROJECT BASELINE / CONCEPT / RECOVERY / HISTORICAL различены.  
 ● Development Map существует и является living map.  
 ● Decision Memory и Role Activity Log имеют отдельные функции.  
@@ -583,10 +583,11 @@ Capability подтверждена несколькими реальными п
 
 ### Следующая контрольная точка
 
-◐ новый project-level Snapshot содержательно назревает из перехода `system-building → publication-centered operational validation`.  
-○ предпочтительная точка фиксации: после `VIA-2026-020 Close` + `Content Portfolio 2026-02 Strategy Close`.
+● Переход `system-building / normalization → publication-centered operational validation` уже сохранён в CURRENT PROJECT BASELINE 2026-09-19.  
+◐ Более поздние локальные изменения сохраняются в соответствующих current Snapshots, Role Activity Log и Development Map.  
+○ Новое поколение project-level Snapshot требуется только после material project-level change, при котором baseline 2026-09-19 перестанет быть достаточной точкой восстановления.
 
-**СЕЙЧАС → не создавать Snapshot до закрытия этих двух близких переходов без отдельного решения Owner.**
+**СЕЙЧАС → использовать baseline 2026-09-19 вместе с более свежими локальными Snapshot; не создавать новый project-level Snapshot по календарю или после каждого закрытого цикла.**
 
 ---
 
