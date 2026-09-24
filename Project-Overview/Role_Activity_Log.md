@@ -224,3 +224,15 @@ Snapshot сохраняет достигнутую стадию понимани
 **Граница:** карта не объявляет незавершённые исследования или редакционные циклы закрытыми; Facebook-пилот не оценивается ручной статистикой; Notion не перестраивается до отдельного evidence-based решения.  
 **Канонический источник / commit:** `MASTER_ROADMAP.md`, commit `bb75b9e7c4175acece9ef41d9dd119aa5e3bfae0`.  
 **Следующий шаг:** Owner принимает два коротких решения: запускать ли Facebook-пилот сейчас и назначать ли Стратегу первый цикл `матрица корпуса → нераскрытые темы Notion → 2–3 будущих портфеля`.
+
+
+---
+
+## 2026-09-24 — Research Lab Wave 2 Close / Scoped Active Alignment
+
+**Ветка / процесс:** Project Overview → CS-RL-002 → Research Lab documentation and continuity alignment  
+**Материальный результат:** после закрытия `RQ-RL-001`, System Audit Event 036 и Owner Decision Event 037 четыре роли Research Lab v0.1 зафиксированы как Scoped Active только в проверенных функциях. Устранено расхождение между terminal Events и устаревшей верхней частью Run Record; добавлены прямые входы к DNA, Конституции и Методологии; обновлены Research Lab Development Map, общая карта проекта и текущий Research Lab Snapshot.  
+**Содержательный итог цикла:** Мф. 6:19–34 и Лк. 12:13–34 поддерживают trust/provision и ответственность перед Богом; Лука прямо включает giving, но отдельная модель entrustedness / delegated stewardship в bounded loci не установлена. Этот отрицательный результат принят, а текущая stewardship-link inquiry закрыта Owner.  
+**Граница:** активного исследования нет; новый вопрос о generosity/trust, Full Project, новый corpus и IP-001 не активированы. Всё за пределами точного Scoped Active envelope остаётся Validation Pending.  
+**Канонические источники:** `research_lab/Development/Validation-Runs/RL-WAVE-2/RUN.md`, Events 035–038; `research_lab/Roles/VERSION_REGISTRY.md`; `CS-RL-002`; Research Lab Strategic Snapshot 2026-09-24.  
+**Следующий gate:** отдельное решение Owner о следующем исследовательском объекте; повторяемость Role System должна проверяться на новом bounded case, а не продолжением закрытого RQ-RL-001.
