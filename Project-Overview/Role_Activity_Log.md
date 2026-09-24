@@ -236,3 +236,16 @@ Snapshot сохраняет достигнутую стадию понимани
 **Граница:** активного исследования нет; новый вопрос о generosity/trust, Full Project, новый corpus и IP-001 не активированы. Всё за пределами точного Scoped Active envelope остаётся Validation Pending.  
 **Канонические источники:** `research_lab/Development/Validation-Runs/RL-WAVE-2/RUN.md`, Events 035–038; `research_lab/Roles/VERSION_REGISTRY.md`; `CS-RL-002`; Research Lab Strategic Snapshot 2026-09-24.  
 **Следующий gate:** отдельное решение Owner о следующем исследовательском объекте; повторяемость Role System должна проверяться на новом bounded case, а не продолжением закрытого RQ-RL-001.
+
+
+---
+
+## 2026-09-24 — Project Map / Development Map Stale-State Correction
+
+**Ветка / процесс:** Project Overview → Recovery → Parallel Branch Convergence → bounded map correction  
+**Материальный результат:** устранены два stale-state расхождения, обнаруженные при fresh-context Recovery. В `Project_Map.md` Corpus Discovery больше не показан как предстоящий Formation: BR-001 отражён как закрытый процесс, результаты которого переведены в живую матрицу смыслов корпуса и матрицу Facebook-пилота с установленными ownership и return triggers. В `MASTER_ROADMAP.md` текущим project-level baseline правильно указан Snapshot 2026-09-19, а Snapshot 2026-08-30 — как historical; устаревшая будущая Snapshot-точка заменена действующим material-change trigger.  
+**Основание:** прямое поручение Owner после Recovery и межветочной сверки; Role Activity Log 2026-09-19 / 2026-09-21 / 2026-09-24; Snapshot Index; current project-level Snapshot 2026-09-19; BR-001 closure.  
+**Канонические источники / commits:** `Project-Overview/Project_Map.md`, commit `ce3eaaf4e6acc216a024251f402424890b1a5565`; `MASTER_ROADMAP.md`, commit `3cefb23ca7431705afc074317ab69498e38ab201`.  
+**Проверка:** выполнен Post-Write Consistency Check; прежние stale-формулировки отсутствуют, новый baseline согласован со Snapshot Index, статусы документов и authority boundaries не изменены.  
+**Следующий шаг:** обычная работа из согласованного current state; новые карты или Snapshot не создавать без material trigger.
+
