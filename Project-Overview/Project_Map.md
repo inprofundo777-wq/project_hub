@@ -2,7 +2,7 @@
 
 **Статус:** 🟡 Working / Experimental  
 **Версия:** v0.4 — актуализированная Background Map  
-**Дата:** 19 сентября 2026  
+**Дата:** 24 сентября 2026  
 **Назначение:** определить минимальную Background Map In Profundo, которую Project Overview & Continuity Partner должен удерживать при работе с отдельными направлениями.
 
 > Этот документ не является roadmap проекта и не заменяет Strategic Snapshot или Development Map.  
@@ -126,59 +126,49 @@ Project Overview не ведёт отдельный VIA, не выполняет
 
 ## 3.2. Research Lab
 
-**Функция:** формирование, выполнение и проверка исследовательской работы до возможного Knowledge Transfer / application.
+**Функция:** формирование, выполнение и независимая проверка исследования до возможного Knowledge Transfer / application.
 
 Рабочая authority-линия:
 
 > Owner → Research Lab Director → Research Project Lead → Researcher
 
-Research Auditor сохраняется как независимая audit-функция вне operational ownership.
+Research Auditor остаётся независимой audit-функцией.
 
-### Текущее положение — 18 сентября 2026
+### Текущее положение — 24 сентября 2026
 
-За неделю Research Lab перешёл от неопределённого leadership gap к действующему Role System v0.1:
+Wave 2 завершён полным ограниченным циклом:
 
-- Director / Project Lead / Researcher / Auditor оформлены как **Candidate Active / Validation Pending**;
-- введены Package A/B/C, Modes, Role Configuration Lock, authority / escalation и independence standards;
-- Wave 1 Fresh-context Recovery пройден четырьмя ролями;
-- Wave 2 проверяет не только восстановление, но и реальное прохождение Formation → Installation → Research → Gate → Handoff.
+● формирование и аудит;  
+● установка и аудит;  
+● обзор существующих исследований;  
+● ограниченный научный обзор;  
+● текстовая проверка Мф. 6:19–34 и Лк. 12:13–34;  
+● принятие отрицательного результата;  
+● закрытие `RQ-RL-001`;  
+● системный аудит и решение Owner о `Scoped Active`.
 
-Активный validation route:
+Содержательный итог: заданные отрывки хорошо поддерживают trust/provision, ответственность перед Богом и — у Луки — giving, но не устанавливают отдельное звено entrustedness / delegated stewardship. Текущая stewardship-link линия закрыта на этом результате.
 
-> **RQ-RL-001 — Generosity, Trust and Entrusted Resources**
+Четыре роли v0.1 теперь действуют только в проверенных пределах:
 
-Пройдено и закрыто:
+- Director — bounded Formation и рекомендации о маршруте/закрытии под Owner gate;
+- Project Lead — bounded Installation, Stage Coordination и приём Output Contract;
+- Researcher — Coverage Review, limited scholarly synthesis и bounded textual probe;
+- Auditor — Formation и Installation Audit.
 
-- Formation с независимым audit и correction FULL PROJECT → LIMITED PROBE;
-- Existing Research Coverage Review;
-- Narrowed Bounded Limited Review;
-- локализация конкретной primary-text uncertainty.
-
-Текущий рабочий объект:
-
-> **TP-RL-001 — Bounded Textual Probe**
-
-Execution разрешён Researcher v0.1 только для:
-
-- Мф. 6:19–34;
-- Лк. 12:13–34.
-
-Проверяется локальное текстовое основание понимать материальные блага как доверенные Богом для ответственного распоряжения — как возможное отличимое звено между giving и trust/provision. 2 Кор. 8–9 остаётся сравнительным литературным контекстом, но не входит в primary corpus.
-
-Не разрешены corpus expansion, Full Project, downstream application и автоматический переход к следующему маршруту. IP-001 не перезапускался и не изменялся.
+Всё остальное остаётся Validation Pending. Активного исследования сейчас нет. IP-001 не перезапущен.
 
 ### Что отслеживает Project Overview
 
-- превращается ли Role System из Candidate architecture в повторяемую research capability;
-- соблюдаются ли Formation / Installation / Research / Audit boundaries;
-- сохраняются ли negative result, uncertainty и proportionality;
-- уменьшается ли ручная административная нагрузка Owner благодаря одному Run Record;
-- завершается ли validation корректным Role Exit и Scale Recovery;
-- какое durable развитие требуется после Wave 2, а что должно остаться project-specific.
+- соблюдается ли точный Scoped Active envelope;
+- применяется ли one-link Run Record без ручной реконструкции Owner;
+- возникает ли evidence повторяемости на новом независимом исследовании;
+- когда поздний аудит research conclusions и другие режимы получат отдельную validation;
+- требует ли опыт durable изменения системы, а не project-specific workaround.
 
 ### Текущая граница
 
-Активность RQ-RL-001 не равна разрешению Full Project или разморозке IP-001. Каждый новый route остаётся отдельным Director / Owner gate. Research findings не должны определяться будущей статьёй, книгой или другим application.
+Закрытие RQ-RL-001 не активирует автоматически новый вопрос о generosity/trust, Full Project, новый corpus или IP-001. Следующая исследовательская работа начинается только новым явным решением Owner.
 
 ---
 
