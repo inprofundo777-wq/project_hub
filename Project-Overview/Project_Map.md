@@ -1,8 +1,8 @@
 # Project Overview & Continuity Partner — Project Map
 
 **Статус:** 🟡 Working / Experimental  
-**Версия:** v0.4 — актуализированная Background Map  
-**Дата:** 24 сентября 2026  
+**Версия:** v0.5 — актуализированная Background Map  
+**Дата:** 10 октября 2026  
 **Назначение:** определить минимальную Background Map In Profundo, которую Project Overview & Continuity Partner должен удерживать при работе с отдельными направлениями.
 
 > Этот документ не является roadmap проекта и не заменяет Strategic Snapshot или Development Map.  
@@ -26,7 +26,7 @@
 - заменять будущий Architecture and Authority Framework;
 - превращать подтверждённую рабочую практику в норму всего проекта без отдельного принятия.
 
-Границы ролей отражают явные поправки Owner, разобранные на этапах 2–3 коррекции аудита, и согласованы с v0.4 Candidate. Это рабочая карта, а не окончательные мандаты. ARC-001 — утверждённая карта подготовки нормативного корпуса; будущий FRM-001 не блокирует обычную работу Overview. Согласованность текста не доказывает устойчивость поведения роли.
+Границы ролей отражают явные поправки Owner и текущие проверенные handoff. Это рабочая карта, а не окончательные мандаты. Согласованность текста не доказывает устойчивость поведения роли.
 
 ---
 
@@ -62,6 +62,8 @@ Project Overview не обязан постоянно обсуждать все 
 
 Текущий общий стратегический контекст сохраняется в Project-level Strategic Snapshot.
 
+На контрольной точке 10 октября 2026 к прежней задаче operational validation добавился новый project-level вопрос: как сложный запрос проходит между несколькими автономными capabilities без скрытого переноса authority, предметной компетенции и ответственности.
+
 ---
 
 # 3. Основные области карты
@@ -82,32 +84,17 @@ Project Overview не обязан постоянно обсуждать все 
 - Distribution handoff;
 - post-publication learning.
 
-### Текущее положение — 19 сентября 2026
+### Текущее положение
 
 Publication Role Readiness закрыт с verdict:
 
 > **PASS WITH VALIDATION DEBT**
 
-Blocking debt отсутствует. Система может входить в следующий реальный маршрут: Closed Portfolio → Coach → new VIA. Validation debt остаётся non-blocking и не оправдывает новый документационный цикл до реальной работы.
+Blocking debt отсутствует. Ролевой слой различает Publication Master, Editorial Coach, Longform Editor и независимых специализированных Editors. Editorial Product Quality требует real-work evidence, а не нового документационного цикла.
 
-Ролевой слой сейчас различён так:
+Cross-System Formation дополнительно уточнил границу: Editorial / Publication не принимают автоматически research truth, interdisciplinary synthesis или допустимость практического применения. Editorial получает достаточно закрытый Product / Editorial Handoff; узкая Publication System — approved publish-ready Source.
 
-- **Publication Master v0.1 Candidate** — архитектурная связность узкой Publication System, system-level и cross-role вопросы; fresh-context recovery пройден, Leadership Continuity стабилизирована и проверена;
-- **Editorial Coach** — orchestration одного конкретного editorial cycle после закрытого Portfolio / Source handoff; пакет стабилизирован, fresh-context Installation / Recovery получил **PASS WITH NON-BLOCKING FINDINGS**;
-- **Longform Editor v0.2** — bounded author целого Draft / Revised Draft внутри закрытого intent; сохраняет responsible discovery, композиционную целостность, required boundaries и protected ground; fresh-context Installation / Recovery получил **PASS WITH NON-BLOCKING FINDINGS**;
-- **специализированные Editors** сохраняют независимость суждения; Coach интегрирует findings, но не присваивает их authority.
-
-Editorial Product Quality остаётся **VALIDATION PENDING**: восстановимость ролей ещё не доказывает, что полный путь улучшает Final Text. Следующий реальный VIA должен сохранить evidence chain:
-
-> Draft → independent Findings → Coach Integration → Revised Draft → Final Text → later product-quality validation
-
-### Текущий Portfolio / VIA control point
-
-- Content-Portfolio-2026-02 закрыт;
-- Near Publication Queue: «Литургия обычного дня» → «Радость, которую не нужно оправдывать» → «Дружба как место духовного формирования» → «Устойчивость как пространство для другого»;
-- первый handoff Portfolio → Coach подготовлен для «Литургии обычного дня»;
-- VIA-2026-020 — «После сотого падения» остаётся Active на шаге Blogger Placement / Publication;
-- новая очередь не активируется автоматически до фактического перехода Owner / Coach.
+Для статьи существующий downstream route покрывает большую часть работы. Пособие требует закрытого application upstream; семинар дополнительно обнаруживает instructional / formation design; book lifecycle существующей системой покрыт только частично.
 
 ### Что отслеживает Project Overview
 
@@ -126,7 +113,7 @@ Project Overview не ведёт отдельный VIA, не выполняет
 
 ## 3.2. Research Lab
 
-**Функция:** формирование, выполнение и независимая проверка исследования до возможного Knowledge Transfer / application.
+**Функция:** формирование, выполнение и независимая проверка исследования в пределах действующего предмета и проверенных role envelopes до возможного Knowledge Transfer / application.
 
 Рабочая authority-линия:
 
@@ -134,41 +121,32 @@ Project Overview не ведёт отдельный VIA, не выполняет
 
 Research Auditor остаётся независимой audit-функцией.
 
-### Текущее положение — 24 сентября 2026
+### Текущее положение — 10 октября 2026
 
-Wave 2 завершён полным ограниченным циклом:
-
-● формирование и аудит;  
-● установка и аудит;  
-● обзор существующих исследований;  
-● ограниченный научный обзор;  
-● текстовая проверка Мф. 6:19–34 и Лк. 12:13–34;  
-● принятие отрицательного результата;  
-● закрытие `RQ-RL-001`;  
-● системный аудит и решение Owner о `Scoped Active`.
-
-Содержательный итог: заданные отрывки хорошо поддерживают trust/provision, ответственность перед Богом и — у Луки — giving, но не устанавливают отдельное звено entrustedness / delegated stewardship. Текущая stewardship-link линия закрыта на этом результате.
-
-Четыре роли v0.1 теперь действуют только в проверенных пределах:
+Wave 2 закрыта. `RQ-RL-001` завершён accepted bounded negative result. Четыре роли v0.1 действуют только в проверенных пределах (`Scoped Active`):
 
 - Director — bounded Formation и рекомендации о маршруте/закрытии под Owner gate;
 - Project Lead — bounded Installation, Stage Coordination и приём Output Contract;
-- Researcher — Coverage Review, limited scholarly synthesis и bounded textual probe;
+- Researcher — проверенные bounded research modes;
 - Auditor — Formation и Installation Audit.
 
-Всё остальное остаётся Validation Pending. Активного исследования сейчас нет. IP-001 не перезапущен.
+Более широкие режимы не становятся действующими по аналогии названий.
+
+`IP-001` продолжил bounded re-entry: ACTS Stage 2 принят в R1 по Event 072; дальнейший переход остаётся Owner-gated. Это не активирует автоматически Stage 3, Verification или Book-Level Close.
+
+`RQ-RL-002 — Христианское сопровождение депрессии и суицидального кризиса`: Formation R2 и Installation Event 070 существуют, substantive execution не разрешено. Запрос обнаружил material boundary: действующая Конституция Lab удерживает Писание как основной предмет, тогда как полный вопрос потенциально требует самостоятельных clinical / psychological / suicide-prevention и других компетенций.
 
 ### Что отслеживает Project Overview
 
 - соблюдается ли точный Scoped Active envelope;
-- применяется ли one-link Run Record без ручной реконструкции Owner;
-- возникает ли evidence повторяемости на новом независимом исследовании;
-- когда поздний аудит research conclusions и другие режимы получат отдельную validation;
-- требует ли опыт durable изменения системы, а не project-specific workaround.
+- сохраняется ли provenance между Formation / Installation / execution;
+- где research question остаётся внутри Lab, а где требует project-level/federated arrangement;
+- когда поздний audit research conclusions и другие режимы получат отдельную validation;
+- требует ли повторяющийся опыт durable изменения системы, а не project-specific workaround.
 
 ### Текущая граница
 
-Закрытие RQ-RL-001 не активирует автоматически новый вопрос о generosity/trust, Full Project, новый corpus или IP-001. Следующая исследовательская работа начинается только новым явным решением Owner.
+Ни Formation R2, ни Installation Event 070 не запускают RQ-RL-002. Вопрос о более широкой исследовательской архитектуре вынесен в Cross-System Formation и должен вернуться к Owner как отдельная архитектурная развилка.
 
 ---
 
@@ -247,41 +225,16 @@ Wave 2 завершён полным ограниченным циклом:
 - portfolio intelligence;
 - research-shaped content signals.
 
-### Текущее положение — 18 сентября 2026
+### Текущее положение
 
-Capability test VIA-2026-012–019 → Notion Content Intelligence получил **PASS**.
+Capability test обратного потока получил PASS. Notion не становится вторым production tracker и не хранит полный VIA.
 
-Подтверждён обратный поток:
+BR-001 Corpus Discovery закрыт 21 сентября 2026. Крупная перестройка Notion, Blogger navigation или Publication System не требуется. Результаты переведены в living tools:
 
-> VIA / Publication evidence → Strategy filtering → durable Content Intelligence → Notion Topic Card
+- `Development/Corpus-Intelligence/Corpus-Meaning-Matrix.md`;
+- `Development/Experiments/FB-Corpus-Pilot-Matrix.md`.
 
-Notion не становится вторым production tracker и не хранит полный VIA. В него возвращается только знание, способное изменить будущие редакционные решения.
-
-Фактическая синхронизация выполнена для **26 существующих карточек**:
-
-- 15 публикаций 2025 года;
-- 11 публикаций первой половины 2026 года;
-- проверены VIA, VIA URL, Blogger URL, дата, Статус = опубликовано, Опубликовано? и канал блог;
-- дубли не создавались.
-
-Содержательное enrichment этих 26 карточек не выполнялось автоматически.
-
-Content-Portfolio-2026-02 содержит отдельный selective update package для Queue, Reserve и research cards. Полная физическая запись Far Horizon и всего Candidate Package в Notion не требуется.
-
-### Corpus Discovery — закрыт / живые инструменты
-
-BR-001 завершён 21 сентября 2026 после независимых проходов Strategist, Reader, SEO, Literary / Editorial, Strategist Synthesis и Publication Master review.
-
-Главный результат:
-
-> крупная перестройка Notion, Blogger navigation или Publication System на этом этапе не требуется.
-
-Corpus Discovery подтвердил полезность чтения **Final Text канонических VIA** как исходного корпуса и перевёл обнаруженное понимание в два живых инструмента:
-
-- `Development/Corpus-Intelligence/Corpus-Meaning-Matrix.md` — матрица смыслов корпуса, связей, плотности покрытия, будущих портфельных направлений и накопительного обновления;
-- `Development/Experiments/FB-Corpus-Pilot-Matrix.md` — матрица четырёхнедельнего Facebook-пилота, подготовленная к отдельному решению Owner о запуске.
-
-Рабочая последовательность сохраняется:
+Рабочая последовательность:
 
 > Final VIA corpus → discovered content nodes → relations / trajectories / coverage / gaps → living corpus intelligence → selective Portfolio / Notion / channel use.
 
@@ -293,25 +246,9 @@ Corpus Discovery подтвердил полезность чтения **Final 
 - BR-001 не переоткрывается для обычного добавления новых материалов;
 - Notion, Blogger navigation и Publication System не перестраиваются без отдельного evidence-based решения.
 
-Следующий gate:
-
-> отдельное решение Owner о запуске Facebook-пилота и о первом накопительном цикле Strategist: матрица корпуса → нераскрытые темы Notion → 2–3 будущих портфеля.
-
-Ограниченный системный пересмотр уместен после двух новых портфелей или 5–10 новых публикаций, либо раньше при повторении одной material problem минимум в трёх материалах.
-
-### Что отслеживает Project Overview
-
-- сохраняется ли функция Idea Incubation + Portfolio Balance;
-- работает ли feedback из публикаций обратно в content intelligence;
-- не дублируются ли GitHub production states;
-- выполнены ли точечные updates второго Portfolio;
-- появилось ли минимальное различение публикационного статуса и жизненного цикла research cards.
-
 ### Граница
 
 > **GitHub хранит durable artifact / evidence. Notion хранит structured content intelligence.**
-
-Owner получает подготовленный update package, а не обязан вручную интегрировать две системы.
 
 ---
 
@@ -328,16 +265,22 @@ Owner получает подготовленный update package, а не об
 - Recovery;
 - cross-system synthesis.
 
+### Текущее положение — 10 октября 2026
+
+Известны **три параллельные ветки Project Overview**. Третья ветка создана для реального теста временной роли `Cross-System Formation Lead — Pilot`. Временный mandate завершён после передачи Frame Owner; основная идентичность Project Overview сохранена.
+
+Это даёт material evidence temporary-role / Role Exit pattern, но не создаёт универсального правила, что Project Overview или другая старшая роль может заменять любую отсутствующую capability.
+
+Parallel Branch Convergence должен учитывать три известные ветки. `Role_Activity_Log.md` передаёт material semantic delta и не является реестром всех чатов; owner-facing индикатор должен показывать три известные ветки до следующего изменения.
+
 ### Что отслеживается
 
 - сохраняется ли Background Map;
 - может ли роль запускаться в новом чате;
-- не превращается ли она в permanent System Designer;
+- работает ли convergence при трёх параллельных ветках;
+- не превращается ли Overview в permanent System Designer;
+- удаётся ли временное назначение завершить с Role Exit без потери основной идентичности;
 - удаётся ли вернуть направление после паузы без ручного восстановления всей истории.
-
-### Отложенный cross-project candidate
-
-После PM-DEV выявлена потенциально универсальная Brainstorm capability: один living development document должен уметь сохранять актуальную карту вопроса и reasoning history так, чтобы fresh-context ветка восстанавливала способ работы из durable entry point, а не из истории чата. Универсальный Protocol / Template / Catalog пока не активированы; вопрос отложен до отдельного Project Overview Formation gate. Исторический PM-DEV не нормализуется задним числом.
 
 ---
 
@@ -347,24 +290,13 @@ Owner получает подготовленный update package, а не об
 
 Publication Master не является универсальным получателем неясных идей In Profundo. Research, Portfolio ownership и общепроектная continuity не переходят к нему автоматически.
 
-### Текущее положение
-
-Постоянный пакет пересобран как **Publication Master v0.1 Candidate**. Fresh-context Recovery получил **PASS**; Leadership Continuity targeted stabilization проверена.
-
-Пакет теперь явно сохраняет:
-
-- primary role;
-- primary Owner assignment;
-- отличие основной задачи от текущего bounded этапа;
-- обработку нового material Owner input через ОТРАЗИТЬ → КЛАССИФИЦИРОВАТЬ → РАЗМЕСТИТЬ → ОПРЕДЕЛИТЬ ВЛИЯНИЕ → НАЗВАТЬ НЕИЗМЕННОЕ;
-- predominantly Russian owner-facing semantic interface;
-- Role Exit после завершения bounded assignment.
-
 Publication Master закрыл Publication Role Readiness и не удерживает operational ownership следующего VIA.
+
+Cross-System consultation подтвердила: Publication Master может диагностировать границу входа продукта и системный gap, но не становится owner research truth, synthesis, application или product decision.
 
 ### Связь с Project Overview
 
-Overview определяет масштаб вопроса и место области в целом. Архитектурный вопрос Publication System передаётся Publication Master, ведение конкретного Publication / Distribution cycle — Coach, авторство Draft / Revised Draft — Longform, Portfolio / Content Horizon / Notion — Strategist.
+Overview определяет масштаб вопроса и место области в целом. Архитектурный вопрос Publication System передаётся Publication Master, ведение конкретного editorial cycle — Coach, авторство Draft / Revised Draft — Longform, Portfolio / Content Horizon / Notion — Strategist.
 
 Project Overview не является gate или supervisor этих ролей.
 
@@ -396,32 +328,71 @@ Project Overview может позднее обнаруживать повтор
 
 **Функция:** отдельный долгосрочный авторский продукт.
 
+### Текущее отношение
+
+Архитектура и значительная часть текста существуют. Дальнейшая стабилизация связана с research evidence `IP-001`. Книга не является Research Lab и не должна автоматически сводиться к editorial article pipeline.
+
 ### Что отслеживает Project Overview
 
 - состояние концепции;
 - готовность частей;
 - связь книги с общим содержательным ядром In Profundo;
+- research dependency;
 - момент, когда направление снова становится активным.
-
-### Граница
-
-Книга не должна автоматически конкурировать с текущим operational focus только потому, что она важна стратегически.
 
 ---
 
 ## 3.10. «Взгляд»
 
-**Функция:** потенциальное отдельное направление / продукт.
+**Функция:** потенциальное отдельное направление / capability; не книга и не часть «Тот, Кто остаётся».
 
 ### Текущее отношение
 
-Пока важнее сохранить концептуальное понимание, чем строить roadmap.
+Общая концепция существует, но детали, сроки и окончательная организационная форма не определены. Пока важнее сохранить смысл направления и получить практическое evidence, чем строить roadmap или систему.
 
 ### Что отслеживает Project Overview
 
 - появляется ли реальная готовность к эксперименту;
 - сохраняется ли исходный смысл идеи;
-- есть ли trigger для возвращения.
+- есть ли trigger для возвращения;
+- не смешивается ли направление с Books или Research Lab только из-за структурной аналогии.
+
+---
+
+## 3.11. Cross-System Formation / Application / Product Formation
+
+**Статус:** emerging project-level architecture question; не новая постоянная система.
+
+Возник из RQ-RL-002, но относится шире одного research request.
+
+Рабочее различение:
+
+> Research → Synthesis → Application / Product Formation → Editorial → Publication / Distribution
+
+Это не универсальный pipeline. Его функция — показать разные типы ответственности, которые в простом материале могут совмещаться или отсутствовать.
+
+10 октября получены четыре durable artifacts:
+
+- `Development/Brainstorms/Cross-System-Formation-Frame-v0.1.md`;
+- `Development/Brainstorms/Cross-System-Publication-Boundary-Consultation-2026-10-10.md`;
+- `Development/Brainstorms/Cross-System-Coordination-Portability-Consultation-2026-10-10.md`;
+- `Development/Brainstorms/Cross-System-Verifiability-Consultation-2026-10-10.md`.
+
+Устойчивые различения:
+
+- coordination competence ≠ subject competence;
+- local subject acceptance ≠ cross-domain synthesis acceptance;
+- synthesis acceptance ≠ application / safety acceptance;
+- application ownership ≠ product ownership;
+- Editorial / Publication не закрывают upstream research/application gaps;
+- переносимы coordination patterns, но не authority существующей роли;
+- каждый verdict относится к конкретному target, версии и типу проверки.
+
+Сильнее всего сейчас обоснована гипотеза **bounded project assignment** с явными owners, contracts, gates, provenance и exit. Постоянная новая роль или система пока не обоснована.
+
+### Следующий gate
+
+Project Overview сводит Frame и три консультации в один Owner Decision Frame. До этого RQ-RL-002 не запускается и постоянная архитектура не меняется.
 
 ---
 
@@ -431,17 +402,17 @@ Project Overview может позднее обнаруживать повтор
 |---|---|---|
 | Owner | Направление и стратегические решения | Overview помогает удерживать целое |
 | Publication Master | Архитектурная связность Publication System; role/system-level вопросы | Не управляет каждым VIA и не владеет Research / Portfolio / project continuity |
-| Editorial Coach | Orchestration конкретного Publication / Distribution cycle | Входит после закрытого Portfolio / Source handoff; не переписывает Strategy или permanent architecture |
+| Editorial Coach | Orchestration конкретного editorial cycle | Входит после закрытого upstream handoff; не переписывает Strategy или permanent architecture |
 | Longform Editor | Цельное авторство Draft / Revised Draft внутри закрытого intent | Не интегрирует собственные независимые Reviews и не объявляет Final Text готовым |
 | Strategist | Portfolio, Content Horizon, Notion / Content Intelligence | Не всякий горизонт проекта заранее принадлежит Strategist |
-| Research Lab | Director → Project Lead → Researcher; independent Auditor | Role System v0.1 остаётся Candidate; каждый новый route Owner-gated; application не управляет findings |
+| Research Lab | Director → Project Lead → Researcher; independent Auditor | Scoped Active только в проверенных режимах; не получает автоматически чужую предметную компетенцию |
+| Cross-System assignment | Временная координация одного сложного вопроса между автономными owners | Не новая система; coordination authority не равна subject / synthesis / application authority |
+| Application / Product Formation | Перевод принятого знания в допустимое применение и конкретный тип продукта | Не принадлежит автоматически Research, Editorial или Publication |
 | Publication → Distribution → Audience / Discovery | Публикация, адаптация, затем evidence встречи с читателем | Производство не доказывает внешний reach или ценность |
 | Audience / Discovery ↔ Notion / Strategy | Обратная связь о читательском опыте и содержании | Наблюдение проходит интерпретацию до durable knowledge |
 | Book, «Взгляд», будущие направления | Самостоятельные продукты и горизонты в общей карте | Не обязаны проходить один pipeline |
 | Owner Journal → Overview | Сырые наблюдения и возможные связи | Запись не активирует задачу |
-| Project Overview / Continuity | Синтез, память, масштаб и возврат | Не управленческий центр систем |
-
-Если владелец или место идеи пока не определены, сохраняем мысль и открытый вопрос в подходящем существующем документе. HOR-003 — изучение через готовые исследования других организаций — остаётся горизонтом без решённой принадлежности Research Lab.
+| Project Overview / Continuity | Синтез, память, масштаб и возврат | Не управленческий центр систем и не универсальный предметный эксперт |
 
 ---
 
@@ -457,8 +428,6 @@ Project Overview должен различать минимум три изме�
 
 > 🚦 Development Map
 
----
-
 ## Активность
 
 Работаем ли мы с направлением сейчас.
@@ -466,8 +435,6 @@ Project Overview должен различать минимум три изме�
 Хранится прежде всего в:
 
 > 📡 Operational Panel
-
----
 
 ## Понимание
 
@@ -477,19 +444,7 @@ Project Overview должен различать минимум три изме�
 
 > 📸 Strategic Snapshot
 
----
-
-### Пример
-
-Условный пример, а не текущая оценка Research Lab:
-
-```text
-Зрелость:        🟡 высокая рабочая capability
-Активность:      ⚪ пауза
-Snapshot:        исторический control point существует
-```
-
-Это не противоречие.
+Это разные измерения и они не должны сводиться к одному статусу.
 
 ---
 
@@ -505,12 +460,11 @@ Snapshot:        исторический control point существует
 - Project Overview / Continuity;
 - Owner Journal;
 - Book / крупные долгосрочные продукты;
-- активные стратегические эксперименты;
+- «Взгляд» и другие emerging directions;
+- активные cross-system architecture questions;
 - сознательно замороженные существенные направления.
 
-Не обязательно перечислять их в ответе.
-
-Нужно лишь не потерять их существование и состояние.
+Не обязательно перечислять их в ответе. Нужно лишь не потерять их существование и состояние.
 
 ---
 
@@ -637,7 +591,9 @@ Project Map не является:
 - [`Recovery_Validation_2026-08.md`](./Recovery_Validation_2026-08.md)
 - [`Decision_Memory.md`](./Decision_Memory.md) — v0.4 Candidate
 - [`Development.md`](./Development.md)
+- [`Role_Activity_Log.md`](./Role_Activity_Log.md)
 - [`../Continuity/Snapshot_Index.md`](../Continuity/Snapshot_Index.md)
+- [`../Continuity/Snapshots/Project/In_Profundo_Strategic_Snapshot_2026-10-10.md`](../Continuity/Snapshots/Project/In_Profundo_Strategic_Snapshot_2026-10-10.md)
 
 ---
 
