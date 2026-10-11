@@ -3,7 +3,7 @@
 **Тип:** Living Development Map  
 **Статус:** 🟢 Active Working Map  
 **Базовая проверка направлений:** 2026-09-05  
-**Полная сверка проекта:** 2026-10-10 — Research Lab, IP-001, RQ-RL-002, cross-system architecture и continuity alignment  
+**Полная сверка проекта:** 2026-10-11 — RQ-RL-002, cross-system architecture, carrier transition и continuity alignment  
 **Назначение:** карта зрелости, движения и связей основных capabilities In Profundo
 
 ---
@@ -12,10 +12,10 @@
 
 Карта отвечает: какие большие направления существуют, что уже закрыто и какой ближайший переход ещё требуется.
 
-- 🟢 — capability работает устойчиво;
-- 🟡 — существует, но развивается или проверяется;
-- 🔴 — остановлена существенной проблемой;
-- ⚪ — предусмотрена, но сейчас не активна.
+- 🟢 — capability существует и подходит для текущей задачи;
+- 🟡 — нужное решение можно собрать из существующих capabilities / инструментов либо capability ещё развивается;
+- 🔴 — необходимой компетенции сейчас нет или её нельзя честно считать доступной;
+- ⚪ — направление предусмотрено, но сейчас не активно.
 
 Внутри незавершённого блока: `●` завершено; `◐` работа идёт; `○` не начато; `⛓` зависит от другого результата.
 
@@ -27,7 +27,7 @@
 
 ### ● Базовая capability
 
-- ● роли Director / Project Lead / Researcher / Auditor восстановлены и проверены в bounded uses;
+- ● роли Director / Project Lead / Researcher / Auditor восстановлены и проверены в ограниченных применениях;
 - ● RQ-RL-001 закрыт на принятом ограниченном отрицательном результате;
 - ● четыре роли остаются Scoped Active только в проверенных функциях.
 
@@ -36,24 +36,78 @@
 - ● historical corpus перенесён с сохранением provenance;
 - ● Stage 0 — COMPLETE / ACCEPTED;
 - ● Stage 1 — COMPLETE / ACCEPTED;
-- ● Stage 2 — COMPLETE / ACCEPTED после bounded language correction и focused re-check;
+- ● Stage 2 — COMPLETE / ACCEPTED после языковой коррекции и focused re-check;
 - ○ Stage 3–4, Material Verification, independent subject-matter review и Book-Level Close Audit не активированы;
 - ○ следующий шаг требует отдельного решения Owner.
 
-### ◐ RQ-RL-002
+**Языковой вывод из IP-001:** смысловой язык проекта — русский. Английский допустим как язык источника, оригинального термина или технического идентификатора, но не должен незаметно становиться основным языком смыслового результата.
+
+### ◐ RQ-RL-002 — «Христианское сопровождение депрессии и суицидального кризиса»
 
 - ● Formation R2 сформирована;
-- ● Project Lead Installation Package подготовлен и возвращён Owner;
-- ○ execution первого LIMITED REVIEW не разрешён;
-- ○ downstream application и профильные reviewers не активированы;
-- ◐ архитектурно проверяется, как междисциплинарный запрос проходит через несколько независимых capabilities без скрытого расширения Research Lab.
+- ● Project Lead Installation Package подготовлен;
+- ● Cross-System Formation Frame и три профильные консультации завершены;
+- ● Formation Synthesis / Owner Decision Frame завершён;
+- ● Owner утвердил дальнейший подход: исходный запрос не сужается до границ Research Lab;
+- ● создана `Development/RQ-RL-002-Project-Research-Map-v0.1.md` — карта содержательных блоков исходного запроса;
+- ● создана `Development/RQ-RL-002-Capability-Fit-v0.1.md` — первичное сопоставление блоков и доступных capabilities;
+- ◐ следующий шаг — создать общий носитель проекта RQ-RL-002 и раздать отдельные исследовательские блоки только после фиксации ведущих / поддерживающих capabilities, проверок и маршрутов возврата;
+- ○ substantive research по новым блокам ещё не запущен;
+- ○ продукты для церкви / служителей / самого человека ещё не формируются.
 
-### ◐ Cross-System Formation
+### 🚦 Capability Fit RQ-RL-002
 
-- ● Cross-System Formation Frame v0.1 создан как ненормативный архитектурный пилот;
-- ● Publication Master подтвердил границу narrow Publication System и upstream gap Application / Product Formation для части продуктов;
-- ◐ проверяется переносимость coordination patterns Research Project Lead без переноса его authority или предметной компетенции;
-- ○ постоянная новая система или роль не утверждены.
+**🟢 Уже есть / можно использовать непосредственно**
+
+- 🟢 библейское исследование в пределах Research Lab;
+- 🟢 исследовательская дисциплина: Formation, Installation, Output Contracts, provenance, независимая проверка в уже проверенных режимах;
+- 🟢 Editorial / Publication для downstream работы после закрытого содержательного handoff;
+- 🟢 Project Overview для удержания целого, границ и continuity.
+
+**🟡 Можно собрать из существующих инструментов и временных назначений**
+
+- 🟡 source mapping / локальный эстонский контекст;
+- 🟡 богословский синтез поверх принятого библейского evidence;
+- 🟡 пастырское применение при поддержке профильных областей;
+- 🟡 семья / церковная община;
+- 🟡 междисциплинарный синтез;
+- 🟡 Application / Product Formation;
+- 🟡 координация одного ограниченного междисциплинарного проекта без создания permanent cross-system role.
+
+**🔴 Нужно получить или создать; существующая capability не должна это изображать**
+
+- 🔴 клиническая компетенция по депрессии;
+- 🔴 компетенция по суицидальному риску и кризисной безопасности;
+- 🔴 статистико-методологическая компетенция для количественных выводов;
+- 🔴 профильная проверка рекомендаций, затрагивающих безопасность человека.
+
+`🔴` не означает удалить вопрос. Это означает: блок остаётся частью исходного запроса Owner, но до появления компетентного владельца не может считаться исследованным.
+
+### Рабочая модель блоков
+
+Для каждого содержательного блока определяется:
+
+> вопрос → требуемая компетенция → ведущая capability → необходимые поддерживающие capabilities → тип проверки → ожидаемый результат → зависимости → возврат.
+
+Одинаковые capabilities могут меняться местами. Для одного вопроса богословская capability может быть ведущей, а клиническая поддерживающей; для другого — наоборот. `A + B` не считается автоматически равным `B + A`.
+
+---
+
+## 🟡 Cross-System Formation / межсистемная координация
+
+- ● Cross-System Formation Frame v0.1 создан;
+- ● Publication Master consultation завершена;
+- ● Research Project Lead consultation завершена;
+- ● Research Auditor consultation завершена;
+- ● Formation Synthesis / Owner Decision Frame завершён;
+- ● Owner выбрал дальнейшее движение через ограниченную проектную конфигурацию, а не через сужение RQ-RL-002 до Research Lab;
+- ● постоянная новая система или роль не утверждены;
+- ● post-mortem выявил Owner ping-pong и потерю общего носителя цикла как process signal;
+- ● создан `Development/Brainstorms/Brainstorm-Round-Multi-Participant-Carrier-v0.1.md`;
+- ● создан `Development/Cross-Cycle-Carrier-Transition-Principle-v0.1.md` как Discussion Draft;
+- ◐ общий принцип перехода между носителями работы ждёт проверки на естественных реальных переходах, а не дальнейшего документирования.
+
+**СЕЙЧАС → не строить permanent cross-system system. Использовать следующий реальный переход как validation-by-use.**
 
 ---
 
@@ -88,16 +142,14 @@
 - ○ запуск пилота остаётся отдельным Owner decision;
 - ○ ручная статистика не является условием пилота.
 
-**СЕЙЧАС → проверять редакционную жизнеспособность форматов без преждевременной измерительной системы.**
-
 ---
 
 ## 🟡 Память и управление проектом
 
-- ● Project Map v0.5 отражает контрольную точку 10 октября;
-- ● Strategic Snapshot 2026-10-10 — CURRENT PROJECT BASELINE;
-- ● текущая рабочая конфигурация Project Overview — три ветки;
+- ● Project Map отражает три известные ветки Project Overview;
+- ● Strategic Snapshot 2026-10-10 остаётся CURRENT PROJECT BASELINE и не переписывается задним числом;
 - ● Cross-System Formation Pilot дал real Temporary Role Exit evidence;
+- ● значимые результаты Cross-System / RQ-RL-002 сохраняются в GitHub до handoff;
 - ◐ повторяемость Parallel Branch Convergence и one-link re-entry;
 - ○ при будущей замене переполненной второй ветки проверить чистый recovery и convergence новой ветки, сохранив общее число рабочих веток равным трём.
 
@@ -142,11 +194,11 @@ Capability подготовки и размещения publish-ready объек
 
 ## Краткий текущий фокус
 
-1. Закрыть текущий Cross-System Formation consultation cycle и решить, нужен ли следующий Auditor perspective.
-2. Owner принимает отдельный следующий gate по IP-001 после принятого Stage 2.
-3. RQ-RL-002 сохранять на Owner gate: Installation существует, execution не разрешён.
-4. Продвигать реальные редакционные циклы и получать evidence Editorial Product Quality.
-5. Не создавать permanent cross-system role/system до повторяемого evidence.
+1. **RQ-RL-002:** создать общий носитель проекта, удерживающий исходный запрос, блоки, ведущие / поддерживающие capabilities, проверки, зависимости и возвраты.
+2. **RQ-RL-002:** не запускать красные блоки без реальной профильной компетенции; определить способ её получения.
+3. **IP-001:** отдельный Owner gate по следующему шагу после принятого Stage 2.
+4. **Cross-Cycle Principle:** не развивать документацию; проверить на следующем естественном переходе между носителями работы.
+5. Продвигать реальные редакционные циклы и получать evidence Editorial Product Quality.
 
 ---
 
@@ -156,13 +208,13 @@ Owner определяет направление и утверждает materi
 
 Текущий критерий:
 
-> Если capability работает только потому, что Owner вручную помнит и соединяет её части, capability ещё не полностью доказана.
+> Если уже разрешённая работа движется только потому, что Owner вручную переносит результаты, напоминает сохранить артефакт или восстанавливает маршрут между участниками, это process signal: нужно проверить, не потерян ли общий носитель работы или явный переход между носителями.
 
 ---
 
 # 4. ФУНДАМЕНТАЛЬНЫЙ УРОВЕНЬ — 🟡
 
-DNA rev 3.1 остаётся основанием. Mission, Core Principles и Editorial Philosophy сохраняют candidate development. Cross-System Formation Pilot не изменяет Foundation, Research Lab Constitution, Methodology или permanent authority.
+DNA rev 3.1 остаётся основанием. Mission, Core Principles и Editorial Philosophy сохраняют candidate development. Cross-System Formation и RQ-RL-002 project design не изменяют Foundation, Research Lab Constitution, Methodology или permanent authority.
 
 **СЕЙЧАС → не нормализовать пилотную cross-system модель до evidence.**
 
@@ -171,23 +223,19 @@ DNA rev 3.1 остаётся основанием. Mission, Core Principles и E
 # 5. ОБЗОР И НЕПРЕРЫВНОСТЬ ПРОЕКТА — 🟡
 
 - ● Project Overview v0.4 Candidate действует operationally;
-- ● Audit Correction, DS-01, controlled DS-02 и DS-04 завершены;
 - ● Role Activity Log и Parallel Branch Convergence Gate действуют как Working Pilot;
 - ● временная роль Cross-System Formation Lead — Pilot была принята и освобождена после handoff;
 - ● три ветки Project Overview — текущая рабочая конфигурация;
 - ● project-level Snapshot 2026-10-10 — current baseline;
-- ◐ Temporary Role Exit получил real evidence, но repeatability ещё не доказана;
+- ● один реальный post-mortem дал evidence проблемы carrier transition / Owner ping-pong;
+- ◐ Cross-Cycle Carrier Transition Principle остаётся Discussion Draft до validation-by-use;
 - ○ Long-term Re-entry и recovery будущей replacement-ветки остаются открыты.
-
-**СЕЙЧАС → использовать Project Map, Development Map и Snapshot 2026-10-10 как разные координаты.**
 
 ---
 
 # 6. МАСТЕР РЕДАКЦИОННОЙ СИСТЕМЫ — 🟡
 
 Publication Master сохраняет узкую system-level область Publication System. Cross-System consultation подтвердила, что Publication принимает approved publish-ready Source и не закрывает upstream research / synthesis / application gaps.
-
-**СЕЙЧАС → не расширять Publication System для закрытия cross-system gap.**
 
 ---
 
@@ -223,7 +271,7 @@ External Literary Editor и Modular Editorial сохраняются как capa
 
 # 12. ПУБЛИКАЦИЯ — 🟢
 
-Capability подтверждена практикой. Текущая архитектурная граница: публикационный слой начинается после закрытия содержательных решений и approved publish-ready object.
+Capability подтверждена практикой. Публикационный слой начинается после закрытия содержательных решений и approved publish-ready object.
 
 ---
 
@@ -241,7 +289,7 @@ Navigation ≠ Distribution. Следующий structural decision только
 
 # 15. АУДИТОРИЯ / ОБНАРУЖЕНИЕ / ПОИСК — 🟡
 
-Publication ≠ Distribution ≠ Discovery. External discovery остаётся недостаточно доказанным; evidence before positioning conclusions.
+Publication ≠ Distribution ≠ Discovery. External discovery остаётся недостаточно доказанным.
 
 ---
 
@@ -252,23 +300,22 @@ Publication ≠ Distribution ≠ Discovery. External discovery остаётся 
 - ● RQ-RL-001 — CLOSED;
 - ● Wave 2 System Audit завершён;
 - ● четыре роли v0.1 — Scoped Active в точных проверенных uses;
-- ● IP-001 Stage 0 — COMPLETE / ACCEPTED;
-- ● IP-001 Stage 1 — COMPLETE / ACCEPTED;
-- ● IP-001 Stage 2 — COMPLETE / ACCEPTED по Event 072;
+- ● IP-001 Stage 0–2 — COMPLETE / ACCEPTED;
 - ● historical Acts outputs остаются SEALED; historical comparison не открыт.
 
-### Открытые gates
+### RQ-RL-002
 
-- ○ IP-001: отдельное Owner decision о следующем bounded step; Stage 3 не активирован;
-- ● RQ-RL-002 Formation R2 + Installation существуют;
-- ○ RQ-RL-002 execution не разрешён;
-- ○ поздний independent subject-matter review и Book-Level Close Audit требуют собственных gates.
+- ● Formation R2 + Installation существуют;
+- ● архитектурная развилка исследована через Cross-System Formation;
+- ● Owner утвердил сохранение полного исходного запроса и декомпозицию по компетенциям;
+- ● Research Lab рассматривается как один из исследовательских узлов, а не контейнер всего запроса;
+- ○ новые substantive blocks ещё не активированы.
 
 ### Граница
 
-Research Lab не является универсальным контейнером всех исследований In Profundo. Coordination authority ≠ subject competence; research conclusion ≠ application recommendation.
+Research Lab не является универсальным контейнером всех исследований In Profundo. Координационные полномочия не равны предметной компетенции; исследовательский вывод не равен практической рекомендации.
 
-**СЕЙЧАС → удерживать раздельные Owner gates IP-001 и RQ-RL-002.**
+**СЕЙЧАС → использовать Lab там, где его предмет и проверенные режимы подходят; остальные части RQ-RL-002 не отбрасывать, а маршрутизировать к подходящим компетенциям.**
 
 ---
 
@@ -290,15 +337,13 @@ Research Lab не является универсальным контейнер
 - ● Snapshot 2026-09-19 — HISTORICAL PROJECT BASELINE;
 - ● Snapshot хранит понимание; Development Map хранит движение;
 - ● текущая рабочая конфигурация Project Overview — три ветки;
-- ○ замена переполненной ветки должна проходить Recovery + Convergence без увеличения рабочего числа веток.
-
-**СЕЙЧАС → не восстанавливать проект из baseline 2026-09-19 как из текущего.**
+- ○ новый Snapshot не создаётся только из-за текущей синхронизации; следующий Snapshot требует отдельного material strategic trigger.
 
 ---
 
 # 20. GITHUB / АРХИВ / АВТОМАТИЗАЦИЯ — 🟡
 
-GitHub остаётся durable source-of-truth. Temporary-role write + Role Exit получил real evidence; repeatability Convergence и replacement-branch recovery остаются открытой проверкой.
+GitHub остаётся durable source-of-truth. Для значимого уже разрешённого результата default — сохранить, проверить, commit и передать ссылку; режим `DO NOT WRITE` используется только когда принятие Owner действительно должно предшествовать записи или активации.
 
 ---
 
@@ -312,25 +357,28 @@ GitHub остаётся durable source-of-truth. Temporary-role write + Role Exi
 
 ## Сейчас
 
-- ● RQ-RL-001 закрыт;
 - ● IP-001 Stage 2 принят; ownership возвращён Owner;
-- ◐ RQ-RL-002 имеет Formation R2 + Installation, но execution не разрешён;
-- ◐ Cross-System Formation проверяет минимальную архитектуру межсистемного запроса;
+- ● Cross-System Formation consultation cycle и synthesis завершены;
+- ● Owner утвердил маршрут RQ-RL-002 через полный исходный запрос и распределение по компетенциям;
+- ● Project Research Map и Capability Fit RQ-RL-002 созданы;
+- ◐ проектируется общий носитель RQ-RL-002;
 - ◐ реальные редакционные материалы продолжают production validation.
 
 ## Ближайшие gates
 
+- ○ создать общий носитель RQ-RL-002 и закрепить в нём блоки / владельцев / проверки / зависимости / возвраты;
+- ○ определить, как получить красные профильные компетенции: клиническую, suicide-prevention, статистико-методологическую и safety review;
+- ○ после этого отдельно активировать первые содержательные блоки;
 - ○ Owner решает следующий bounded step IP-001;
-- ○ получить bounded consultation Research Project Lead о переносимости coordination patterns;
-- ○ после неё решить, нужен ли Auditor consultation;
-- ○ определить disposition RQ-RL-002 Installation;
+- ○ Cross-Cycle Principle проверяется при следующем естественном переходе, без искусственного пилота;
 - ○ накапливать evidence Editorial Product Quality.
 
 ## Не активировано
 
 - ⚪ Stage 3–4 IP-001 и Book-Level Close Audit;
-- ⚪ execution RQ-RL-002;
+- ⚪ substantive execution новых блоков RQ-RL-002;
 - ⚪ permanent cross-system role/system;
+- ⚪ новая постоянная clinical / suicide-prevention / statistical system;
 - ⚪ внешняя автоматизация;
 - ⚪ «Взгляд» как operational direction.
 
@@ -342,22 +390,24 @@ GitHub остаётся durable source-of-truth. Temporary-role write + Role Exi
 
 > **system-building / normalization → publication-centered operational validation**
 
-Текущая контрольная точка 10 октября:
+Контрольная точка 10 октября:
 
 > **operational validation → cross-system architecture / bounded coordination**
 
-Это не отменяет publication-centered real work. Практика выявила новый класс вопроса: некоторые значимые запросы In Profundo проходят через несколько независимых capabilities.
+Уточнение 11 октября:
+
+> **от абстрактного вопроса о межсистемной архитектуре → к реальному RQ-RL-002 как проекту, который сохраняет исходный запрос Owner и распределяет его части по подходящим компетенциям.**
 
 Рабочая ненормативная цепочка:
 
-> **Question / Project Ownership → Research domains → Synthesis → Application / Product Formation → Editorial → Publication / Distribution**
+> **Исходный вопрос → содержательная декомпозиция → ведущие и поддерживающие компетенции → профильные выводы и проверки → междисциплинарный синтез → применение / безопасность → продукт → редактура → публикация.**
 
 Она не утверждена как постоянная оргструктура.
 
 Главный риск:
 
-> закрыть реальный межсистемный разрыв либо скрытым расширением существующей роли, либо преждевременным созданием новой системы.
+> либо сузить реальный запрос до возможностей существующей системы, либо изображать отсутствующую компетенцию, либо преждевременно построить новую постоянную систему.
 
 Главный критерий:
 
-> **новая постоянная capability появляется только там, где повторяемая работа, стоимость ошибки и границы компетенции показывают, что временного bounded ownership уже недостаточно.**
+> **сначала использовать то, что уже есть; затем собирать временную конфигурацию из существующих инструментов; новую capability создавать только там, где реальная работа и цена ошибки показывают, что без неё вопрос честно не закрывается.**
