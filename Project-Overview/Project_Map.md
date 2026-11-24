@@ -3,6 +3,7 @@
 **Статус:** 🟡 Working / Experimental  
 **Версия:** v0.6 — актуализированная Background Map  
 **Дата:** 11 октября 2026  
+**Локальная сверка:** 24 ноября 2026 — Editorial System и IP-001  
 **Назначение:** определить минимальную Background Map In Profundo, которую Project Overview & Continuity Partner должен удерживать при работе с отдельными направлениями.
 
 > Этот документ не является roadmap проекта и не заменяет Strategic Snapshot или Development Map.  
@@ -60,7 +61,7 @@ Project Overview не обязан постоянно обсуждать все 
 
 ### Текущее положение
 
-Publication Role Readiness закрыт с `PASS WITH VALIDATION DEBT`; blocking debt отсутствует. Editorial Product Quality требует real-work evidence.
+Publication Role Readiness закрыт с `PASS WITH VALIDATION DEBT`; blocking debt отсутствует. Editorial Product Quality требует real-work evidence. 23–24 ноября третий Portfolio передан в производство: VIA-025–029, пять черновиков, независимые проверки завершены у 025; остальные активированы. VIA-028 прошёл ограниченный библейский/текстовый gate без запуска Research Lab; это локальный редакционный маршрут, не расширение мандата Lab.
 
 Cross-System Formation подтвердил границу: Editorial / Publication не принимают автоматически research truth, междисциплинарный синтез или допустимость практического применения. Для статьи существующий downstream route покрывает большую часть работы; пособие, рекомендации и обучение могут требовать отдельного upstream application / product formation.
 
@@ -84,7 +85,7 @@ Research Auditor остаётся независимой audit-функцией.
 
 Wave 2 закрыта. `RQ-RL-001` завершён accepted bounded negative result. Четыре роли v0.1 действуют только в проверенных пределах (`Scoped Active`).
 
-`IP-001`: ACTS Stage 2 принят; дальнейший переход остаётся Owner-gated. Stage 3, Verification и Book-Level Close автоматически не активируются.
+`IP-001`: семь книг прошли Stage 0–3 и на рабочих паузах; COL/1TH/2TH прошли независимый Installation Audit с условиями по D124. Director → Owner (три отдельных решения) → Lead (местные допуски до отбора). Verification, Stage 4 и книжное закрытие не активированы. [Журнал решений](https://github.com/inprofundo777-wq/research_lab/blob/main/Research/IP-001/DECISIONS.md).
 
 `RQ-RL-002 — Христианское сопровождение депрессии и суицидального кризиса`: Formation R2 и Installation существуют. Первоначальная постановка через Research Lab выявила предметную границу: полный запрос требует не только библейской, но и клинической / психологической, suicide-prevention, статистико-методологической, пастырской и application/safety компетенций.
 
